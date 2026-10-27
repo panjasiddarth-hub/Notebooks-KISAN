@@ -1,0 +1,1001 @@
+Card_ID,State,District,Village,Season,Soil_Type,Test_Date,pH,EC_dS_per_m,OC_percent,N_kg_per_ha,N_Rating,P_kg_per_ha,P_Rating,K_kg_per_ha,K_Rating,S_ppm,S_Rating,Zn_ppm,Zn_Rating,B_ppm,B_Rating,Fe_ppm,Fe_Rating,Cu_ppm,Cu_Rating,Mn_ppm,Mn_Rating
+SHC000001,Gujarat,Anand,Petlad,Kharif,Alluvial,2024-01-30,6.1,0.64,0.94,417.7,Medium,54.1,High,116.5,Medium,19.8,Medium,0.19,Low,0.52,Medium,16.15,High,0.18,Low,5.77,High
+SHC000002,Gujarat,Anand,Petlad,Zaid,Sandy Loam,2023-03-06,5.88,1.51,1.01,122.9,Low,49.3,High,373.2,High,16.9,Medium,0.55,Low,1.92,High,11.42,High,0.37,Medium,3.32,Medium
+SHC000003,Andhra Pradesh,Guntur,Tenali,Zaid,Red,2024-04-06,5.17,1.2,0.32,525.8,Medium,9.3,Low,203.1,Medium,27.0,High,2.67,High,0.79,Medium,7.38,Medium,0.3,Medium,16.87,High
+SHC000004,Karnataka,Belagavi,Athani,Kharif,Black (Regur),2024-06-06,5.4,0.77,0.84,280.5,Medium,25.4,High,168.0,Medium,14.3,Medium,2.82,High,1.33,High,19.06,High,0.6,High,18.5,High
+SHC000005,Madhya Pradesh,Indore,Depalpur,Rabi,Laterite,2022-10-04,8.96,1.64,0.76,421.2,Medium,51.4,High,405.9,High,13.0,Medium,0.19,Low,0.7,Medium,9.5,Medium,0.71,High,23.63,High
+SHC000006,Odisha,Cuttack,Athagarh,Rabi,Black (Regur),2023-11-03,7.0,2.22,0.84,182.9,Low,12.7,Medium,392.9,High,23.9,High,2.27,High,0.91,Medium,18.34,High,1.15,High,24.94,High
+SHC000007,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Laterite,2022-04-04,8.02,2.17,0.35,190.4,Low,42.4,High,330.5,High,18.5,Medium,1.83,High,0.99,Medium,9.04,Medium,1.7,High,23.62,High
+SHC000008,West Bengal,Bardhaman,Kalna,Zaid,Alluvial,2023-11-30,8.54,1.9,0.97,269.7,Low,21.1,Medium,146.4,Medium,5.1,Low,2.19,High,1.47,High,29.21,High,2.31,High,13.18,High
+SHC000009,Uttar Pradesh,Meerut,Sardhana,Zaid,Red,2024-05-11,7.56,1.56,0.35,455.5,Medium,34.7,High,407.0,High,23.6,High,0.1,Low,0.72,Medium,2.55,Low,2.79,High,22.09,High
+SHC000010,Karnataka,Belagavi,Athani,Kharif,Alluvial,2022-09-04,8.51,2.37,0.29,333.8,Medium,8.8,Low,399.5,High,31.8,High,0.47,Low,1.0,Medium,17.39,High,0.87,High,21.94,High
+SHC000011,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Sandy Loam,2024-02-13,7.92,0.58,0.51,557.9,Medium,40.7,High,264.0,Medium,23.1,High,0.45,Low,0.53,Medium,11.47,High,1.81,High,6.52,High
+SHC000012,Maharashtra,Nashik,Niphad,Kharif,Alluvial,2023-12-26,7.52,0.65,1.11,498.2,Medium,8.9,Low,180.0,Medium,28.4,High,0.72,Medium,0.35,Low,28.19,High,1.76,High,12.34,High
+SHC000013,Rajasthan,Sriganganagar,Padampur,Rabi,Black (Regur),2022-04-07,5.39,1.13,0.62,325.5,Medium,45.1,High,362.8,High,39.4,High,0.39,Low,0.86,Medium,11.5,High,2.6,High,6.97,High
+SHC000014,Madhya Pradesh,Bhopal,Berasia,Zaid,Laterite,2022-05-24,6.69,0.77,0.45,526.2,Medium,29.4,High,441.8,High,24.3,High,0.25,Low,2.0,High,25.41,High,2.91,High,23.23,High
+SHC000015,Maharashtra,Nashik,Niphad,Kharif,Laterite,2023-05-13,6.93,2.18,1.1,192.4,Low,5.1,Low,244.0,Medium,37.4,High,2.38,High,0.64,Medium,21.5,High,2.22,High,19.8,High
+SHC000016,West Bengal,Bardhaman,Kalna,Zaid,Laterite,2022-06-08,5.76,0.62,0.26,443.7,Medium,8.4,Low,211.7,Medium,6.8,Low,1.48,High,1.85,High,16.87,High,0.26,Medium,13.19,High
+SHC000017,Madhya Pradesh,Indore,Depalpur,Kharif,Sandy Loam,2022-03-11,7.7,0.66,0.32,511.7,Medium,18.5,Medium,329.7,High,26.7,High,1.32,High,1.21,High,16.64,High,2.81,High,5.9,High
+SHC000018,Odisha,Cuttack,Athagarh,Rabi,Black (Regur),2022-09-29,6.58,1.71,0.5,259.1,Low,46.4,High,110.5,Medium,21.0,High,3.0,High,1.99,High,4.05,Low,0.72,High,7.36,High
+SHC000019,Andhra Pradesh,Guntur,Tenali,Kharif,Black (Regur),2023-01-14,6.14,1.15,0.74,253.1,Low,59.1,High,419.0,High,23.5,High,2.04,High,1.15,High,28.09,High,0.4,Medium,22.08,High
+SHC000020,Maharashtra,Pune,Baramati,Kharif,Alluvial,2024-01-31,7.21,0.75,0.8,435.7,Medium,16.2,Medium,346.4,High,14.2,Medium,1.52,High,1.82,High,25.69,High,0.37,Medium,11.17,High
+SHC000021,Maharashtra,Pune,Baramati,Kharif,Alluvial,2022-12-08,8.08,1.63,0.46,446.1,Medium,35.3,High,259.6,Medium,5.3,Low,0.32,Low,1.78,High,27.31,High,1.68,High,21.03,High
+SHC000022,Bihar,Muzaffarpur,Sakra,Zaid,Black (Regur),2023-03-17,5.51,0.84,1.1,470.3,Medium,52.3,High,457.5,High,12.4,Medium,0.82,Medium,0.3,Low,23.84,High,2.66,High,10.75,High
+SHC000023,Gujarat,Rajkot,Gondal,Zaid,Black (Regur),2022-08-31,8.46,2.44,1.01,507.8,Medium,6.4,Low,389.4,High,16.6,Medium,2.8,High,1.62,High,26.19,High,2.45,High,7.4,High
+SHC000024,Odisha,Cuttack,Athagarh,Kharif,Laterite,2024-06-12,5.15,1.23,0.4,524.1,Medium,24.2,Medium,424.6,High,35.5,High,0.75,Medium,1.35,High,13.16,High,0.91,High,2.67,Medium
+SHC000025,Maharashtra,Pune,Baramati,Rabi,Clay Loam,2023-06-06,6.6,2.45,0.74,533.3,Medium,11.3,Medium,487.6,High,11.2,Medium,2.89,High,0.6,Medium,5.04,Medium,1.36,High,18.49,High
+SHC000026,Karnataka,Mysuru,Nanjangud,Rabi,Sandy Loam,2023-06-08,5.46,2.26,0.39,139.5,Low,29.0,High,298.4,High,33.2,High,2.09,High,1.89,High,22.64,High,0.67,High,11.35,High
+SHC000027,West Bengal,Bardhaman,Kalna,Rabi,Sandy Loam,2022-11-18,7.65,0.4,1.1,343.1,Medium,41.7,High,217.0,Medium,29.4,High,1.71,High,0.46,Low,20.62,High,1.2,High,18.96,High
+SHC000028,Madhya Pradesh,Indore,Depalpur,Zaid,Sandy Loam,2022-11-05,6.62,2.1,0.5,212.5,Low,48.2,High,334.8,High,16.3,Medium,1.38,High,1.38,High,16.31,High,2.4,High,24.04,High
+SHC000029,Chhattisgarh,Raipur,Arang,Kharif,Clay Loam,2022-03-28,6.14,1.69,0.82,161.1,Low,57.4,High,178.6,Medium,15.9,Medium,2.44,High,0.38,Low,3.29,Low,2.95,High,15.67,High
+SHC000030,Haryana,Karnal,Nilokheri,Rabi,Laterite,2023-10-07,7.3,1.82,0.58,295.8,Medium,13.1,Medium,368.8,High,36.2,High,2.6,High,1.78,High,23.8,High,0.73,High,20.3,High
+SHC000031,Odisha,Cuttack,Athagarh,Zaid,Laterite,2022-02-21,7.23,2.3,0.32,178.7,Low,30.6,High,303.1,High,24.6,High,1.02,Medium,1.53,High,14.39,High,2.46,High,22.41,High
+SHC000032,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Laterite,2022-06-12,7.97,1.24,0.46,228.8,Low,40.1,High,401.6,High,23.2,High,1.92,High,0.62,Medium,4.17,Low,0.93,High,7.52,High
+SHC000033,Karnataka,Mysuru,Nanjangud,Zaid,Alluvial,2022-05-22,5.6,1.02,0.35,214.1,Low,27.8,High,219.0,Medium,21.3,High,0.28,Low,1.68,High,12.91,High,2.33,High,23.71,High
+SHC000034,Punjab,Ludhiana,Sahnewal,Zaid,Laterite,2023-05-04,5.02,0.94,0.95,495.5,Medium,57.4,High,256.0,Medium,31.2,High,1.68,High,1.25,High,8.18,Medium,0.74,High,11.46,High
+SHC000035,Punjab,Ludhiana,Sahnewal,Rabi,Red,2023-11-16,7.72,1.07,0.37,325.7,Medium,12.0,Medium,341.3,High,5.9,Low,1.24,High,1.17,High,2.76,Low,1.96,High,4.26,Medium
+SHC000036,Tamil Nadu,Coimbatore,Pollachi,Kharif,Alluvial,2022-09-24,6.52,0.61,0.53,454.9,Medium,25.9,High,395.8,High,34.1,High,0.83,Medium,0.26,Low,2.54,Low,1.66,High,25.0,High
+SHC000037,Andhra Pradesh,Guntur,Tenali,Kharif,Clay Loam,2022-03-12,8.12,1.66,0.95,537.8,Medium,16.0,Medium,88.6,Low,10.3,Medium,0.47,Low,1.37,High,17.79,High,0.73,High,17.79,High
+SHC000038,Andhra Pradesh,Guntur,Tenali,Kharif,Sandy Loam,2023-09-14,8.85,1.82,0.98,192.1,Low,22.1,Medium,323.0,High,37.5,High,1.77,High,1.83,High,12.51,High,2.83,High,5.76,High
+SHC000039,Bihar,Muzaffarpur,Sakra,Zaid,Clay Loam,2022-09-06,5.41,1.95,1.05,384.2,Medium,11.7,Medium,493.2,High,32.4,High,1.11,Medium,0.91,Medium,12.38,High,1.57,High,9.19,High
+SHC000040,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Alluvial,2023-03-20,8.84,1.63,1.03,431.2,Medium,29.0,High,388.2,High,38.8,High,0.88,Medium,1.64,High,17.07,High,1.5,High,11.45,High
+SHC000041,Chhattisgarh,Raipur,Arang,Zaid,Red,2022-11-27,8.41,2.09,0.29,507.9,Medium,18.4,Medium,275.2,Medium,26.4,High,1.2,Medium,0.15,Low,25.83,High,0.63,High,6.09,High
+SHC000042,Maharashtra,Pune,Baramati,Rabi,Red,2023-09-03,7.8,0.76,0.21,537.1,Medium,9.7,Low,382.4,High,22.1,High,2.3,High,1.41,High,20.09,High,1.52,High,20.03,High
+SHC000043,Haryana,Karnal,Nilokheri,Rabi,Black (Regur),2023-02-19,7.77,0.83,0.78,328.2,Medium,34.2,High,258.7,Medium,31.1,High,1.06,Medium,1.44,High,9.59,Medium,0.83,High,3.9,Medium
+SHC000044,Madhya Pradesh,Bhopal,Berasia,Rabi,Alluvial,2024-01-31,7.14,1.93,0.39,215.2,Low,31.6,High,384.3,High,39.2,High,1.62,High,0.64,Medium,4.81,Medium,0.66,High,6.46,High
+SHC000045,Madhya Pradesh,Indore,Depalpur,Rabi,Alluvial,2023-12-27,7.14,0.76,1.17,363.5,Medium,43.4,High,133.0,Medium,35.4,High,1.52,High,1.76,High,18.07,High,1.46,High,11.57,High
+SHC000046,Madhya Pradesh,Indore,Depalpur,Kharif,Red,2024-06-01,6.91,2.07,0.6,152.6,Low,39.6,High,102.5,Low,10.2,Medium,1.73,High,0.68,Medium,29.83,High,0.44,Medium,19.35,High
+SHC000047,Gujarat,Rajkot,Gondal,Zaid,Sandy Loam,2022-08-20,8.1,1.01,1.11,250.8,Low,37.4,High,260.1,Medium,24.9,High,0.27,Low,1.92,High,4.78,Medium,2.31,High,16.01,High
+SHC000048,Maharashtra,Pune,Baramati,Zaid,Alluvial,2022-06-10,5.96,1.42,0.36,299.7,Medium,42.9,High,277.4,Medium,6.1,Low,0.94,Medium,0.64,Medium,26.07,High,0.31,Medium,6.6,High
+SHC000049,Maharashtra,Pune,Baramati,Zaid,Sandy Loam,2023-11-09,8.22,0.57,0.31,218.9,Low,13.2,Medium,191.6,Medium,10.0,Medium,0.27,Low,1.61,High,18.66,High,2.49,High,23.11,High
+SHC000050,Tamil Nadu,Coimbatore,Pollachi,Kharif,Laterite,2023-12-07,6.22,1.07,0.47,357.6,Medium,29.1,High,331.2,High,36.1,High,2.23,High,1.25,High,2.72,Low,0.76,High,17.18,High
+SHC000051,Bihar,Muzaffarpur,Sakra,Zaid,Alluvial,2024-02-23,7.69,0.75,0.24,452.8,Medium,30.9,High,353.6,High,37.1,High,0.63,Medium,1.21,High,19.77,High,1.53,High,3.19,Medium
+SHC000052,Andhra Pradesh,Guntur,Tenali,Rabi,Red,2022-11-25,7.68,2.16,0.53,425.2,Medium,20.9,Medium,477.0,High,33.5,High,1.7,High,0.96,Medium,10.81,High,1.04,High,24.28,High
+SHC000053,Telangana,Nalgonda,Miryalaguda,Zaid,Alluvial,2023-11-05,8.48,1.21,0.25,348.1,Medium,39.2,High,289.4,High,20.5,High,0.25,Low,0.61,Medium,5.67,Medium,0.94,High,22.14,High
+SHC000054,Rajasthan,Sriganganagar,Padampur,Kharif,Alluvial,2023-10-08,7.44,0.67,0.36,362.4,Medium,35.4,High,119.1,Medium,39.7,High,2.75,High,0.98,Medium,5.29,Medium,2.51,High,12.96,High
+SHC000055,Odisha,Cuttack,Athagarh,Rabi,Sandy Loam,2023-12-24,6.09,2.1,1.18,227.2,Low,35.3,High,241.1,Medium,37.3,High,1.57,High,1.77,High,26.19,High,0.9,High,19.96,High
+SHC000056,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Sandy Loam,2022-10-01,8.28,0.78,0.5,378.3,Medium,59.9,High,285.6,High,10.2,Medium,1.66,High,0.76,Medium,17.45,High,1.68,High,11.93,High
+SHC000057,Karnataka,Mysuru,Nanjangud,Kharif,Clay Loam,2022-09-02,7.29,0.66,0.98,139.2,Low,46.0,High,376.2,High,33.4,High,1.22,High,1.36,High,24.98,High,2.94,High,12.89,High
+SHC000058,Punjab,Amritsar,Ajnala,Kharif,Sandy Loam,2023-08-28,6.33,0.34,1.05,163.9,Low,55.1,High,86.4,Low,10.0,Medium,2.63,High,1.94,High,4.1,Low,2.37,High,7.36,High
+SHC000059,Gujarat,Rajkot,Gondal,Zaid,Laterite,2023-10-28,5.32,0.89,0.87,354.8,Medium,57.5,High,343.3,High,36.1,High,1.52,High,1.13,High,19.29,High,0.78,High,17.43,High
+SHC000060,Karnataka,Belagavi,Athani,Kharif,Clay Loam,2022-04-03,6.74,0.34,0.83,503.9,Medium,29.4,High,371.5,High,36.6,High,0.23,Low,1.61,High,10.21,High,1.19,High,4.49,Medium
+SHC000061,Rajasthan,Kota,Ramganjmandi,Rabi,Sandy Loam,2023-11-30,8.17,0.51,0.28,503.2,Medium,39.1,High,181.1,Medium,36.9,High,0.52,Low,0.98,Medium,9.11,Medium,0.84,High,1.23,Low
+SHC000062,Tamil Nadu,Coimbatore,Pollachi,Rabi,Clay Loam,2023-07-14,5.63,1.16,0.55,378.5,Medium,40.1,High,258.2,Medium,13.8,Medium,2.55,High,0.48,Low,12.77,High,1.5,High,6.69,High
+SHC000063,Bihar,Muzaffarpur,Sakra,Rabi,Sandy Loam,2022-10-30,8.97,0.81,1.18,409.6,Medium,20.1,Medium,317.7,High,29.0,High,2.26,High,0.19,Low,18.98,High,1.54,High,22.7,High
+SHC000064,Karnataka,Belagavi,Athani,Kharif,Sandy Loam,2024-04-01,6.41,1.63,0.82,418.2,Medium,44.7,High,356.9,High,34.3,High,1.92,High,1.82,High,20.1,High,1.0,High,11.58,High
+SHC000065,Bihar,Muzaffarpur,Sakra,Rabi,Clay Loam,2022-05-15,5.36,0.81,0.95,197.3,Low,12.3,Medium,306.6,High,39.0,High,1.64,High,1.84,High,25.25,High,0.85,High,20.79,High
+SHC000066,Rajasthan,Sriganganagar,Padampur,Rabi,Clay Loam,2024-06-10,6.35,0.38,1.16,181.9,Low,58.2,High,441.3,High,30.3,High,2.94,High,1.94,High,24.53,High,1.16,High,19.98,High
+SHC000067,Punjab,Ludhiana,Sahnewal,Rabi,Sandy Loam,2022-05-07,6.82,1.71,0.87,377.2,Medium,50.2,High,474.9,High,8.8,Low,0.78,Medium,0.15,Low,26.76,High,1.73,High,22.97,High
+SHC000068,Maharashtra,Nashik,Niphad,Zaid,Alluvial,2023-10-13,8.3,2.28,0.5,299.7,Medium,12.7,Medium,477.4,High,15.7,Medium,1.53,High,0.28,Low,26.84,High,0.49,Medium,11.89,High
+SHC000069,West Bengal,Bardhaman,Kalna,Zaid,Clay Loam,2023-07-08,6.68,1.88,0.35,302.5,Medium,10.4,Low,285.5,High,19.3,Medium,2.86,High,0.16,Low,12.37,High,1.39,High,23.81,High
+SHC000070,Andhra Pradesh,Guntur,Tenali,Kharif,Clay Loam,2023-01-12,7.18,2.45,0.56,295.2,Medium,15.4,Medium,131.3,Medium,34.7,High,1.42,High,1.36,High,19.97,High,1.83,High,1.51,Low
+SHC000071,Karnataka,Mysuru,Nanjangud,Kharif,Black (Regur),2024-03-16,7.26,0.26,0.97,211.1,Low,16.9,Medium,445.3,High,16.5,Medium,0.53,Low,1.81,High,2.08,Low,2.59,High,4.47,Medium
+SHC000072,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Red,2024-03-28,5.7,1.69,0.23,126.5,Low,48.4,High,179.9,Medium,16.3,Medium,0.61,Medium,0.2,Low,22.77,High,1.63,High,18.9,High
+SHC000073,Rajasthan,Sriganganagar,Padampur,Rabi,Red,2023-06-10,7.37,1.18,0.42,390.6,Medium,45.0,High,461.7,High,28.1,High,0.97,Medium,1.32,High,2.87,Low,3.0,High,21.34,High
+SHC000074,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Alluvial,2023-05-18,7.85,1.16,1.1,261.7,Low,13.2,Medium,133.0,Medium,26.9,High,1.8,High,1.45,High,12.67,High,1.83,High,8.08,High
+SHC000075,Rajasthan,Kota,Ramganjmandi,Zaid,Laterite,2022-04-12,8.17,0.37,0.85,506.2,Medium,35.3,High,443.5,High,20.1,High,2.68,High,0.89,Medium,25.17,High,1.26,High,18.51,High
+SHC000076,Karnataka,Mysuru,Nanjangud,Rabi,Red,2023-11-13,6.02,2.39,0.89,328.7,Medium,10.0,Low,115.9,Medium,20.1,High,2.26,High,0.81,Medium,5.64,Medium,0.27,Medium,23.96,High
+SHC000077,Bihar,Patna,Masaurhi,Rabi,Clay Loam,2022-05-06,6.64,2.2,1.14,306.1,Medium,55.4,High,101.6,Low,15.1,Medium,1.01,Medium,0.3,Low,16.21,High,0.55,High,12.57,High
+SHC000078,Uttar Pradesh,Meerut,Sardhana,Rabi,Sandy Loam,2023-01-12,5.46,0.77,0.43,308.8,Medium,35.9,High,402.3,High,26.8,High,2.06,High,1.16,High,19.05,High,2.01,High,17.64,High
+SHC000079,Punjab,Ludhiana,Sahnewal,Kharif,Red,2023-12-21,8.05,2.31,0.55,199.8,Low,12.9,Medium,356.1,High,7.4,Low,2.25,High,1.95,High,4.57,Medium,1.64,High,10.03,High
+SHC000080,Tamil Nadu,Coimbatore,Pollachi,Rabi,Black (Regur),2023-01-14,6.25,0.88,1.14,382.3,Medium,53.6,High,145.3,Medium,31.4,High,0.24,Low,0.26,Low,14.41,High,1.33,High,15.57,High
+SHC000081,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Black (Regur),2024-02-13,7.05,0.93,0.31,418.4,Medium,37.6,High,301.3,High,15.8,Medium,0.74,Medium,1.97,High,3.53,Low,0.69,High,23.69,High
+SHC000082,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Red,2022-12-02,5.48,1.29,0.63,176.8,Low,34.3,High,176.6,Medium,24.6,High,2.04,High,0.77,Medium,13.12,High,2.25,High,11.47,High
+SHC000083,Tamil Nadu,Coimbatore,Pollachi,Kharif,Red,2023-08-13,6.72,1.07,0.84,247.4,Low,27.3,High,485.8,High,11.0,Medium,2.85,High,0.97,Medium,21.31,High,1.15,High,11.48,High
+SHC000084,Uttar Pradesh,Meerut,Sardhana,Kharif,Laterite,2023-08-27,6.6,0.29,1.07,448.2,Medium,17.2,Medium,407.2,High,7.7,Low,1.94,High,1.11,High,7.43,Medium,2.35,High,9.43,High
+SHC000085,Gujarat,Anand,Petlad,Kharif,Black (Regur),2022-04-16,5.59,0.57,0.8,454.5,Medium,41.1,High,154.4,Medium,32.0,High,1.53,High,1.53,High,23.28,High,1.4,High,23.18,High
+SHC000086,Bihar,Muzaffarpur,Sakra,Zaid,Clay Loam,2023-10-02,6.29,2.43,0.52,313.5,Medium,30.8,High,345.2,High,32.9,High,1.82,High,0.77,Medium,4.08,Low,1.44,High,1.9,Low
+SHC000087,Andhra Pradesh,Guntur,Tenali,Rabi,Alluvial,2023-10-23,8.46,2.15,0.82,343.1,Medium,30.4,High,312.8,High,32.7,High,2.7,High,0.95,Medium,24.67,High,1.99,High,8.72,High
+SHC000088,Rajasthan,Sriganganagar,Padampur,Zaid,Black (Regur),2022-03-05,6.8,2.05,1.04,552.2,Medium,9.6,Low,351.4,High,6.4,Low,2.15,High,1.98,High,16.67,High,1.87,High,9.73,High
+SHC000089,Karnataka,Belagavi,Athani,Rabi,Laterite,2024-03-04,6.35,1.53,0.99,404.8,Medium,8.6,Low,119.7,Medium,28.7,High,0.92,Medium,1.48,High,20.38,High,2.73,High,21.96,High
+SHC000090,Karnataka,Mysuru,Nanjangud,Kharif,Sandy Loam,2023-11-11,5.57,0.94,1.17,427.3,Medium,26.6,High,329.9,High,37.8,High,1.0,Medium,0.82,Medium,24.17,High,2.46,High,17.08,High
+SHC000091,Chhattisgarh,Raipur,Arang,Zaid,Sandy Loam,2022-04-06,7.58,1.12,0.56,279.5,Low,14.9,Medium,170.0,Medium,38.2,High,1.51,High,0.53,Medium,5.85,Medium,0.32,Medium,21.27,High
+SHC000092,Uttar Pradesh,Meerut,Sardhana,Zaid,Sandy Loam,2024-05-05,7.95,1.36,0.86,505.6,Medium,39.0,High,330.8,High,10.4,Medium,0.62,Medium,1.42,High,19.49,High,2.72,High,18.31,High
+SHC000093,Punjab,Amritsar,Ajnala,Rabi,Red,2023-11-24,7.88,2.43,0.81,451.1,Medium,48.1,High,178.3,Medium,13.4,Medium,2.9,High,1.59,High,27.31,High,0.66,High,17.28,High
+SHC000094,Bihar,Muzaffarpur,Sakra,Rabi,Laterite,2024-02-27,6.13,1.02,0.73,545.2,Medium,49.9,High,416.5,High,9.8,Low,0.83,Medium,1.32,High,26.48,High,1.71,High,3.46,Medium
+SHC000095,Rajasthan,Kota,Ramganjmandi,Kharif,Red,2022-03-27,8.05,0.75,1.11,184.8,Low,29.1,High,477.5,High,12.8,Medium,1.41,High,0.76,Medium,2.75,Low,0.25,Medium,13.05,High
+SHC000096,Maharashtra,Nashik,Niphad,Rabi,Alluvial,2023-01-19,5.9,0.86,0.3,434.5,Medium,23.4,Medium,141.3,Medium,6.3,Low,2.76,High,1.0,Medium,25.27,High,2.3,High,12.26,High
+SHC000097,Gujarat,Rajkot,Gondal,Kharif,Alluvial,2022-01-20,6.02,2.1,0.75,440.0,Medium,34.0,High,126.7,Medium,15.1,Medium,0.97,Medium,0.19,Low,13.76,High,2.4,High,11.97,High
+SHC000098,Uttar Pradesh,Meerut,Sardhana,Rabi,Sandy Loam,2023-07-03,5.07,1.34,0.44,183.2,Low,28.6,High,338.2,High,13.4,Medium,1.31,High,1.36,High,4.4,Low,2.93,High,2.62,Medium
+SHC000099,Rajasthan,Kota,Ramganjmandi,Zaid,Sandy Loam,2024-03-16,8.95,1.43,0.59,326.9,Medium,40.0,High,492.0,High,13.9,Medium,0.15,Low,1.6,High,11.65,High,2.23,High,16.08,High
+SHC000100,Bihar,Muzaffarpur,Sakra,Zaid,Red,2022-05-17,5.18,1.41,1.01,197.0,Low,47.9,High,275.1,Medium,29.3,High,1.93,High,1.64,High,3.77,Low,2.35,High,11.98,High
+SHC000101,Karnataka,Belagavi,Athani,Kharif,Alluvial,2024-03-21,5.8,0.2,1.13,346.8,Medium,59.4,High,308.1,High,13.9,Medium,2.28,High,0.46,Low,12.0,High,2.36,High,21.78,High
+SHC000102,Karnataka,Mysuru,Nanjangud,Rabi,Alluvial,2024-03-29,6.47,2.23,0.94,513.6,Medium,26.3,High,489.0,High,22.4,High,1.54,High,1.86,High,16.54,High,2.42,High,18.45,High
+SHC000103,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2024-04-22,5.72,0.81,0.3,264.3,Low,21.3,Medium,267.3,Medium,30.1,High,0.58,Low,0.94,Medium,14.52,High,2.21,High,22.88,High
+SHC000104,Gujarat,Rajkot,Gondal,Rabi,Red,2023-10-17,8.92,2.37,0.28,400.5,Medium,25.0,Medium,416.5,High,28.8,High,2.86,High,0.37,Low,19.01,High,2.37,High,1.84,Low
+SHC000105,Haryana,Karnal,Nilokheri,Kharif,Clay Loam,2023-01-11,6.45,2.38,0.23,187.5,Low,29.7,High,235.8,Medium,20.5,High,0.32,Low,0.36,Low,12.27,High,1.01,High,7.69,High
+SHC000106,Uttar Pradesh,Meerut,Sardhana,Kharif,Clay Loam,2022-07-10,7.0,1.03,0.76,235.2,Low,19.3,Medium,267.4,Medium,39.9,High,0.93,Medium,1.84,High,15.75,High,0.46,Medium,21.47,High
+SHC000107,Tamil Nadu,Coimbatore,Pollachi,Kharif,Clay Loam,2023-04-01,8.99,2.05,1.17,554.1,Medium,41.7,High,378.0,High,24.2,High,0.94,Medium,0.67,Medium,6.41,Medium,2.16,High,17.81,High
+SHC000108,Madhya Pradesh,Indore,Depalpur,Rabi,Sandy Loam,2022-08-18,5.49,0.58,0.34,467.8,Medium,6.4,Low,312.7,High,17.9,Medium,2.43,High,1.15,High,19.13,High,0.35,Medium,8.42,High
+SHC000109,Odisha,Cuttack,Athagarh,Zaid,Laterite,2023-06-23,6.64,1.08,0.77,175.1,Low,22.4,Medium,111.1,Medium,21.3,High,1.6,High,0.34,Low,25.21,High,1.7,High,15.11,High
+SHC000110,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Sandy Loam,2024-06-08,5.22,0.4,0.35,192.4,Low,22.7,Medium,377.9,High,17.1,Medium,2.83,High,1.8,High,25.69,High,0.83,High,16.24,High
+SHC000111,Bihar,Patna,Masaurhi,Rabi,Black (Regur),2023-10-03,6.21,1.38,0.7,194.2,Low,56.8,High,144.8,Medium,28.1,High,2.19,High,1.25,High,25.59,High,1.73,High,20.81,High
+SHC000112,Punjab,Ludhiana,Sahnewal,Kharif,Alluvial,2023-10-19,8.08,0.74,0.41,371.7,Medium,39.0,High,92.7,Low,36.1,High,1.68,High,1.32,High,10.46,High,0.81,High,20.38,High
+SHC000113,Telangana,Nalgonda,Miryalaguda,Rabi,Laterite,2022-03-16,7.75,0.48,0.62,324.4,Medium,23.7,Medium,140.3,Medium,35.2,High,1.03,Medium,1.98,High,11.67,High,1.26,High,19.26,High
+SHC000114,Rajasthan,Kota,Ramganjmandi,Zaid,Alluvial,2022-11-23,5.97,0.39,0.65,182.0,Low,7.8,Low,477.1,High,35.2,High,1.31,High,1.93,High,27.26,High,2.46,High,23.41,High
+SHC000115,Chhattisgarh,Raipur,Arang,Rabi,Black (Regur),2024-02-21,5.64,2.49,0.67,506.8,Medium,32.4,High,117.8,Medium,18.8,Medium,1.43,High,0.56,Medium,18.33,High,0.24,Medium,7.75,High
+SHC000116,Gujarat,Rajkot,Gondal,Zaid,Clay Loam,2023-04-27,6.14,0.12,0.31,178.9,Low,19.5,Medium,233.6,Medium,19.1,Medium,0.23,Low,0.2,Low,17.73,High,1.15,High,7.93,High
+SHC000117,Telangana,Nalgonda,Miryalaguda,Zaid,Laterite,2024-02-22,7.2,2.08,0.82,388.9,Medium,12.1,Medium,120.6,Medium,18.1,Medium,2.96,High,1.16,High,12.24,High,0.52,High,15.46,High
+SHC000118,Telangana,Nalgonda,Miryalaguda,Zaid,Alluvial,2022-02-16,5.16,1.81,1.0,348.5,Medium,13.2,Medium,455.1,High,9.9,Low,2.8,High,0.71,Medium,13.0,High,1.89,High,21.22,High
+SHC000119,Bihar,Muzaffarpur,Sakra,Rabi,Sandy Loam,2024-04-28,7.04,1.28,0.76,329.0,Medium,5.9,Low,219.1,Medium,8.8,Low,1.31,High,0.68,Medium,27.17,High,2.63,High,16.1,High
+SHC000120,Gujarat,Rajkot,Gondal,Rabi,Red,2023-11-03,8.13,1.96,0.78,437.4,Medium,37.1,High,151.6,Medium,27.0,High,1.9,High,1.7,High,6.14,Medium,2.07,High,1.76,Low
+SHC000121,Odisha,Cuttack,Athagarh,Kharif,Black (Regur),2022-01-20,6.76,1.11,0.61,209.7,Low,32.6,High,336.8,High,21.5,High,2.56,High,1.48,High,21.76,High,1.6,High,14.46,High
+SHC000122,West Bengal,Bardhaman,Kalna,Rabi,Sandy Loam,2023-01-21,6.26,0.52,1.11,270.6,Low,24.5,Medium,404.2,High,30.2,High,1.97,High,1.42,High,19.08,High,0.66,High,6.92,High
+SHC000123,Bihar,Patna,Masaurhi,Rabi,Black (Regur),2022-11-01,8.08,1.79,0.89,335.2,Medium,31.4,High,315.4,High,37.7,High,2.19,High,0.65,Medium,18.06,High,1.68,High,22.5,High
+SHC000124,Telangana,Nalgonda,Miryalaguda,Rabi,Black (Regur),2022-10-25,5.17,2.39,0.28,526.6,Medium,41.1,High,393.9,High,12.5,Medium,2.5,High,0.62,Medium,17.74,High,0.89,High,3.62,Medium
+SHC000125,Chhattisgarh,Raipur,Arang,Zaid,Black (Regur),2022-09-06,5.2,2.27,0.43,222.4,Low,10.5,Low,218.7,Medium,21.5,High,2.08,High,0.36,Low,29.01,High,2.94,High,4.79,Medium
+SHC000126,Gujarat,Anand,Petlad,Rabi,Laterite,2023-10-29,5.8,2.41,0.52,404.2,Medium,54.9,High,117.6,Medium,25.1,High,1.65,High,1.47,High,28.23,High,2.75,High,5.2,High
+SHC000127,Madhya Pradesh,Indore,Depalpur,Kharif,Laterite,2024-03-17,6.98,2.35,1.16,527.5,Medium,53.2,High,83.9,Low,24.9,High,0.41,Low,1.97,High,9.97,Medium,2.97,High,14.04,High
+SHC000128,Rajasthan,Sriganganagar,Padampur,Kharif,Sandy Loam,2023-04-25,6.09,2.04,0.53,441.7,Medium,40.7,High,381.8,High,5.5,Low,1.08,Medium,0.66,Medium,20.88,High,0.66,High,15.66,High
+SHC000129,Gujarat,Anand,Petlad,Rabi,Laterite,2023-06-12,6.31,1.06,0.3,551.9,Medium,31.3,High,473.0,High,5.2,Low,1.21,High,0.95,Medium,9.48,Medium,1.06,High,14.98,High
+SHC000130,Bihar,Muzaffarpur,Sakra,Kharif,Red,2023-11-01,6.44,0.67,0.87,324.8,Medium,13.8,Medium,368.2,High,37.3,High,2.67,High,1.56,High,21.33,High,1.95,High,23.58,High
+SHC000131,Andhra Pradesh,Guntur,Tenali,Zaid,Black (Regur),2022-08-13,8.83,1.25,0.65,555.1,Medium,25.5,High,374.8,High,36.9,High,2.3,High,1.62,High,25.12,High,2.31,High,17.33,High
+SHC000132,Gujarat,Rajkot,Gondal,Kharif,Sandy Loam,2023-04-03,7.11,0.97,1.12,169.4,Low,50.6,High,459.2,High,12.1,Medium,1.66,High,0.41,Low,25.93,High,1.38,High,17.33,High
+SHC000133,Odisha,Cuttack,Athagarh,Zaid,Laterite,2022-04-04,8.6,1.17,0.26,178.1,Low,27.8,High,316.8,High,24.6,High,2.05,High,0.69,Medium,2.61,Low,0.84,High,1.07,Low
+SHC000134,Madhya Pradesh,Bhopal,Berasia,Zaid,Alluvial,2022-02-16,6.69,1.78,0.74,146.5,Low,54.2,High,494.2,High,21.5,High,0.93,Medium,0.44,Low,5.79,Medium,1.96,High,18.5,High
+SHC000135,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Laterite,2023-04-05,8.48,2.28,0.58,420.4,Medium,41.4,High,306.5,High,27.9,High,1.11,Medium,0.44,Low,17.04,High,1.63,High,18.47,High
+SHC000136,Maharashtra,Nashik,Niphad,Kharif,Alluvial,2022-11-02,6.85,1.83,0.62,286.9,Medium,17.6,Medium,273.5,Medium,10.4,Medium,0.65,Medium,1.76,High,23.43,High,0.19,Low,16.84,High
+SHC000137,Gujarat,Rajkot,Gondal,Kharif,Black (Regur),2022-07-31,5.27,1.53,0.65,415.7,Medium,53.0,High,182.8,Medium,6.5,Low,1.37,High,1.13,High,23.12,High,2.35,High,4.36,Medium
+SHC000138,Karnataka,Belagavi,Athani,Kharif,Clay Loam,2023-08-13,6.28,1.54,0.87,261.1,Low,21.6,Medium,140.2,Medium,28.1,High,0.74,Medium,0.67,Medium,3.71,Low,2.85,High,22.11,High
+SHC000139,Madhya Pradesh,Indore,Depalpur,Zaid,Clay Loam,2023-03-14,7.22,0.21,0.54,403.1,Medium,26.0,High,300.3,High,29.4,High,1.28,High,0.67,Medium,7.15,Medium,1.66,High,6.78,High
+SHC000140,Maharashtra,Nashik,Niphad,Rabi,Clay Loam,2022-05-28,8.22,2.3,0.76,545.8,Medium,35.7,High,136.3,Medium,13.5,Medium,0.69,Medium,1.33,High,27.82,High,2.56,High,3.22,Medium
+SHC000141,Chhattisgarh,Raipur,Arang,Kharif,Alluvial,2022-10-02,6.51,1.55,0.24,152.0,Low,49.3,High,326.8,High,28.5,High,0.73,Medium,0.5,Medium,27.4,High,0.98,High,22.82,High
+SHC000142,Madhya Pradesh,Bhopal,Berasia,Kharif,Clay Loam,2022-05-01,7.99,1.91,1.11,426.1,Medium,43.7,High,246.6,Medium,13.4,Medium,1.03,Medium,0.64,Medium,15.06,High,1.98,High,8.4,High
+SHC000143,Andhra Pradesh,Guntur,Tenali,Zaid,Laterite,2023-04-23,5.39,2.46,0.67,489.5,Medium,55.3,High,235.7,Medium,19.5,Medium,1.73,High,0.52,Medium,6.09,Medium,0.86,High,23.43,High
+SHC000144,Bihar,Muzaffarpur,Sakra,Zaid,Laterite,2022-10-30,5.61,0.89,0.58,486.7,Medium,32.5,High,354.9,High,29.0,High,0.85,Medium,1.66,High,29.06,High,1.96,High,12.77,High
+SHC000145,Madhya Pradesh,Indore,Depalpur,Zaid,Red,2022-06-23,5.56,1.41,0.38,511.3,Medium,59.5,High,482.0,High,23.3,High,2.53,High,0.24,Low,24.9,High,0.24,Medium,1.15,Low
+SHC000146,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Black (Regur),2022-03-11,7.83,0.12,0.71,284.2,Medium,39.0,High,360.0,High,26.6,High,1.5,High,1.03,High,2.19,Low,1.7,High,1.28,Low
+SHC000147,Rajasthan,Kota,Ramganjmandi,Zaid,Red,2023-07-03,8.91,0.14,1.01,416.6,Medium,49.3,High,462.1,High,8.7,Low,0.38,Low,0.38,Low,7.37,Medium,1.63,High,20.57,High
+SHC000148,Maharashtra,Pune,Baramati,Rabi,Alluvial,2023-01-18,8.84,1.2,0.44,426.8,Medium,21.5,Medium,427.8,High,7.8,Low,2.98,High,1.33,High,2.89,Low,1.28,High,10.05,High
+SHC000149,Rajasthan,Sriganganagar,Padampur,Kharif,Clay Loam,2022-01-10,7.81,0.3,1.05,403.8,Medium,23.2,Medium,490.5,High,39.1,High,2.69,High,1.85,High,8.43,Medium,2.71,High,17.61,High
+SHC000150,Bihar,Muzaffarpur,Sakra,Rabi,Red,2022-02-17,8.7,1.74,0.48,358.9,Medium,41.2,High,155.3,Medium,34.8,High,0.15,Low,0.49,Low,6.04,Medium,2.48,High,20.7,High
+SHC000151,Haryana,Karnal,Nilokheri,Rabi,Black (Regur),2023-08-01,5.96,2.1,0.59,514.5,Medium,23.2,Medium,397.4,High,9.9,Low,2.97,High,1.48,High,16.02,High,2.93,High,2.29,Medium
+SHC000152,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Alluvial,2022-12-15,7.42,1.57,0.8,546.3,Medium,23.0,Medium,346.3,High,32.4,High,1.41,High,0.53,Medium,17.49,High,1.19,High,5.46,High
+SHC000153,Bihar,Muzaffarpur,Sakra,Zaid,Laterite,2022-03-29,8.09,0.81,0.45,152.3,Low,19.7,Medium,239.6,Medium,32.4,High,0.55,Low,0.84,Medium,12.1,High,0.37,Medium,23.63,High
+SHC000154,Tamil Nadu,Coimbatore,Pollachi,Rabi,Red,2022-04-15,5.53,0.55,0.65,364.1,Medium,27.4,High,91.0,Low,17.4,Medium,0.37,Low,1.24,High,11.08,High,1.22,High,8.0,High
+SHC000155,Telangana,Nalgonda,Miryalaguda,Kharif,Clay Loam,2023-07-27,8.62,2.45,0.77,194.6,Low,25.9,High,138.3,Medium,15.5,Medium,1.53,High,0.22,Low,14.17,High,1.32,High,12.62,High
+SHC000156,Haryana,Karnal,Nilokheri,Rabi,Red,2022-09-10,7.88,1.29,0.82,321.5,Medium,12.5,Medium,82.8,Low,18.8,Medium,2.54,High,0.82,Medium,26.14,High,1.38,High,11.33,High
+SHC000157,Gujarat,Anand,Petlad,Zaid,Black (Regur),2022-11-04,6.28,2.37,0.4,258.2,Low,58.1,High,486.9,High,15.2,Medium,2.12,High,1.03,High,18.12,High,0.8,High,10.03,High
+SHC000158,Telangana,Nalgonda,Miryalaguda,Rabi,Alluvial,2023-08-01,5.8,2.49,0.38,457.8,Medium,6.5,Low,385.4,High,38.0,High,0.71,Medium,1.62,High,25.28,High,0.3,Medium,21.35,High
+SHC000159,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Laterite,2022-05-23,7.53,0.68,0.86,434.7,Medium,48.4,High,111.1,Medium,39.7,High,1.49,High,0.86,Medium,16.19,High,2.77,High,17.6,High
+SHC000160,Bihar,Patna,Masaurhi,Kharif,Red,2023-12-20,8.58,1.39,0.84,157.4,Low,47.3,High,356.2,High,17.4,Medium,1.98,High,0.18,Low,29.54,High,2.06,High,10.59,High
+SHC000161,Karnataka,Mysuru,Nanjangud,Rabi,Alluvial,2022-01-11,5.39,0.63,0.95,365.5,Medium,42.8,High,172.8,Medium,18.1,Medium,1.44,High,1.39,High,21.33,High,0.54,High,24.94,High
+SHC000162,Rajasthan,Sriganganagar,Padampur,Kharif,Red,2023-03-02,8.68,0.31,1.03,441.3,Medium,24.2,Medium,224.1,Medium,32.4,High,1.61,High,0.76,Medium,4.73,Medium,2.19,High,11.86,High
+SHC000163,Haryana,Karnal,Nilokheri,Rabi,Alluvial,2024-04-09,7.84,0.15,0.54,168.1,Low,49.0,High,470.6,High,30.9,High,1.6,High,1.15,High,11.27,High,1.34,High,12.09,High
+SHC000164,Telangana,Nalgonda,Miryalaguda,Zaid,Black (Regur),2022-07-10,7.56,1.14,0.23,390.2,Medium,15.9,Medium,328.7,High,18.6,Medium,2.14,High,0.49,Low,23.07,High,2.45,High,2.5,Medium
+SHC000165,Uttar Pradesh,Meerut,Sardhana,Zaid,Black (Regur),2023-01-10,6.3,1.2,0.46,499.6,Medium,34.0,High,348.4,High,25.9,High,1.87,High,1.22,High,11.74,High,2.55,High,15.82,High
+SHC000166,West Bengal,Bardhaman,Kalna,Zaid,Red,2023-09-22,7.36,1.71,0.51,225.0,Low,11.4,Medium,236.8,Medium,9.9,Low,1.23,High,1.23,High,18.09,High,1.33,High,12.68,High
+SHC000167,Bihar,Patna,Masaurhi,Zaid,Clay Loam,2022-06-27,7.22,1.28,0.34,258.4,Low,29.8,High,102.5,Low,17.6,Medium,0.13,Low,0.36,Low,24.83,High,2.9,High,13.13,High
+SHC000168,Rajasthan,Sriganganagar,Padampur,Rabi,Clay Loam,2023-05-19,6.66,2.12,0.69,156.4,Low,6.7,Low,399.6,High,15.2,Medium,0.9,Medium,1.12,High,6.71,Medium,1.43,High,18.82,High
+SHC000169,Rajasthan,Sriganganagar,Padampur,Zaid,Sandy Loam,2022-04-26,7.29,0.74,0.74,556.0,Medium,34.8,High,397.9,High,31.6,High,1.38,High,0.52,Medium,13.9,High,2.23,High,16.69,High
+SHC000170,Maharashtra,Nashik,Niphad,Rabi,Alluvial,2023-04-06,6.05,2.17,0.29,500.7,Medium,11.5,Medium,421.0,High,12.3,Medium,2.24,High,1.41,High,26.11,High,1.87,High,11.28,High
+SHC000171,Gujarat,Rajkot,Gondal,Kharif,Black (Regur),2024-04-13,5.83,0.24,0.55,243.7,Low,34.6,High,215.9,Medium,29.6,High,0.94,Medium,0.61,Medium,26.02,High,2.96,High,17.3,High
+SHC000172,Uttar Pradesh,Meerut,Sardhana,Kharif,Laterite,2022-03-02,8.97,2.18,0.33,501.1,Medium,18.7,Medium,378.8,High,34.0,High,2.31,High,1.38,High,15.7,High,1.77,High,7.45,High
+SHC000173,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Laterite,2022-03-19,7.53,2.21,0.29,346.9,Medium,20.3,Medium,473.3,High,17.9,Medium,2.86,High,0.72,Medium,2.07,Low,2.34,High,18.59,High
+SHC000174,Chhattisgarh,Raipur,Arang,Rabi,Clay Loam,2023-11-12,7.79,2.14,1.0,295.0,Medium,58.2,High,426.4,High,22.3,High,1.04,Medium,0.64,Medium,17.32,High,0.48,Medium,21.46,High
+SHC000175,Karnataka,Mysuru,Nanjangud,Zaid,Alluvial,2022-02-17,5.4,1.98,0.66,174.7,Low,52.2,High,265.3,Medium,5.0,Low,2.88,High,0.48,Low,21.28,High,0.48,Medium,16.6,High
+SHC000176,Madhya Pradesh,Indore,Depalpur,Rabi,Alluvial,2023-11-02,6.44,0.3,0.86,405.5,Medium,7.8,Low,342.8,High,30.4,High,2.29,High,0.92,Medium,4.55,Medium,0.38,Medium,6.12,High
+SHC000177,Haryana,Karnal,Nilokheri,Kharif,Sandy Loam,2022-08-20,7.08,1.17,0.21,271.2,Low,11.6,Medium,441.3,High,29.3,High,1.49,High,0.53,Medium,4.5,Medium,2.44,High,3.48,Medium
+SHC000178,Andhra Pradesh,Guntur,Tenali,Rabi,Black (Regur),2023-01-27,8.09,1.91,0.33,556.9,Medium,12.9,Medium,302.8,High,5.3,Low,1.99,High,0.94,Medium,22.23,High,1.92,High,4.63,Medium
+SHC000179,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Clay Loam,2023-03-30,8.44,0.31,0.3,451.1,Medium,37.4,High,241.3,Medium,38.7,High,1.01,Medium,0.37,Low,9.76,Medium,0.34,Medium,14.28,High
+SHC000180,Gujarat,Rajkot,Gondal,Zaid,Sandy Loam,2022-10-19,8.12,1.76,1.05,409.7,Medium,21.6,Medium,297.5,High,22.8,High,2.27,High,0.66,Medium,3.53,Low,2.7,High,23.91,High
+SHC000181,Rajasthan,Sriganganagar,Padampur,Rabi,Alluvial,2022-09-04,7.0,1.53,0.73,550.2,Medium,59.3,High,472.2,High,9.6,Low,2.6,High,1.18,High,12.23,High,2.08,High,19.31,High
+SHC000182,Haryana,Karnal,Nilokheri,Kharif,Sandy Loam,2022-03-11,5.06,0.62,1.12,537.4,Medium,26.9,High,200.3,Medium,29.9,High,2.32,High,0.9,Medium,13.26,High,1.96,High,13.9,High
+SHC000183,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Alluvial,2022-11-14,5.32,2.31,1.17,188.4,Low,23.0,Medium,326.3,High,31.7,High,1.98,High,1.32,High,10.68,High,1.37,High,23.88,High
+SHC000184,Maharashtra,Nashik,Niphad,Kharif,Black (Regur),2022-03-30,8.7,0.38,0.81,144.2,Low,41.6,High,356.4,High,11.1,Medium,0.14,Low,0.36,Low,2.32,Low,1.54,High,9.32,High
+SHC000185,Rajasthan,Kota,Ramganjmandi,Zaid,Red,2022-06-20,6.49,1.9,1.07,442.5,Medium,11.5,Medium,458.0,High,16.7,Medium,1.35,High,1.1,High,9.36,Medium,2.93,High,16.06,High
+SHC000186,Rajasthan,Sriganganagar,Padampur,Rabi,Sandy Loam,2023-01-04,5.22,2.16,0.37,189.2,Low,47.5,High,455.6,High,28.6,High,0.43,Low,1.51,High,2.07,Low,2.59,High,1.29,Low
+SHC000187,Punjab,Amritsar,Ajnala,Rabi,Red,2023-01-28,8.68,0.53,1.16,135.6,Low,49.2,High,379.9,High,27.9,High,0.75,Medium,0.57,Medium,27.64,High,1.03,High,20.82,High
+SHC000188,Bihar,Muzaffarpur,Sakra,Rabi,Alluvial,2023-05-30,7.69,0.23,0.42,346.9,Medium,7.5,Low,248.4,Medium,35.7,High,2.61,High,1.57,High,10.7,High,0.35,Medium,11.96,High
+SHC000189,Andhra Pradesh,Guntur,Tenali,Kharif,Red,2023-08-01,8.14,1.87,0.44,282.0,Medium,58.5,High,499.1,High,32.2,High,2.22,High,1.14,High,24.29,High,0.54,High,23.38,High
+SHC000190,Punjab,Ludhiana,Sahnewal,Kharif,Sandy Loam,2022-12-21,7.54,1.76,0.21,267.4,Low,46.7,High,238.0,Medium,30.8,High,0.99,Medium,0.49,Low,29.53,High,1.32,High,24.07,High
+SHC000191,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Red,2022-04-06,5.18,0.66,1.05,301.7,Medium,54.3,High,272.6,Medium,31.2,High,1.78,High,1.06,High,19.84,High,1.24,High,15.21,High
+SHC000192,Punjab,Amritsar,Ajnala,Rabi,Clay Loam,2022-05-14,5.95,0.73,0.52,472.4,Medium,43.5,High,388.8,High,16.1,Medium,0.89,Medium,0.24,Low,7.68,Medium,2.36,High,15.03,High
+SHC000193,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Black (Regur),2023-04-06,6.86,1.08,0.74,544.4,Medium,16.4,Medium,209.5,Medium,14.3,Medium,0.45,Low,0.4,Low,21.21,High,2.5,High,17.73,High
+SHC000194,Punjab,Amritsar,Ajnala,Kharif,Red,2022-06-01,5.36,0.7,0.56,345.9,Medium,42.2,High,189.3,Medium,39.7,High,0.19,Low,0.87,Medium,14.66,High,2.27,High,7.0,High
+SHC000195,Tamil Nadu,Coimbatore,Pollachi,Kharif,Black (Regur),2022-05-05,5.05,2.09,1.18,177.5,Low,50.3,High,236.3,Medium,27.1,High,1.97,High,1.21,High,9.25,Medium,2.46,High,1.52,Low
+SHC000196,Haryana,Karnal,Nilokheri,Kharif,Clay Loam,2023-03-31,8.24,0.32,1.05,475.9,Medium,11.7,Medium,475.8,High,6.8,Low,2.78,High,0.92,Medium,22.28,High,1.54,High,10.19,High
+SHC000197,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Red,2022-08-08,8.63,0.76,0.65,185.4,Low,38.8,High,339.1,High,27.7,High,1.55,High,1.78,High,15.41,High,0.35,Medium,10.19,High
+SHC000198,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Clay Loam,2024-03-27,7.1,1.61,1.0,469.7,Medium,59.4,High,408.4,High,17.6,Medium,1.68,High,1.02,High,27.55,High,1.56,High,10.32,High
+SHC000199,Madhya Pradesh,Indore,Depalpur,Kharif,Red,2023-09-04,5.88,2.25,0.98,145.8,Low,59.5,High,302.4,High,31.8,High,3.0,High,1.95,High,4.8,Medium,2.0,High,7.4,High
+SHC000200,Chhattisgarh,Raipur,Arang,Kharif,Black (Regur),2023-08-13,8.39,2.01,0.55,489.3,Medium,51.5,High,154.0,Medium,25.7,High,2.44,High,1.43,High,27.59,High,0.18,Low,17.81,High
+SHC000201,Bihar,Muzaffarpur,Sakra,Zaid,Black (Regur),2023-07-31,8.79,2.11,1.01,547.0,Medium,34.8,High,153.7,Medium,6.3,Low,0.26,Low,1.24,High,2.56,Low,1.49,High,8.96,High
+SHC000202,Gujarat,Rajkot,Gondal,Kharif,Black (Regur),2022-12-15,7.87,2.31,1.04,262.4,Low,6.2,Low,326.4,High,37.1,High,2.35,High,1.71,High,26.1,High,2.89,High,9.97,High
+SHC000203,West Bengal,Bardhaman,Kalna,Rabi,Sandy Loam,2022-04-14,6.35,0.87,1.18,442.2,Medium,29.0,High,348.5,High,22.1,High,1.02,Medium,1.44,High,17.74,High,2.68,High,15.73,High
+SHC000204,Andhra Pradesh,Guntur,Tenali,Kharif,Clay Loam,2023-08-27,8.26,1.01,0.93,249.6,Low,14.8,Medium,80.8,Low,29.6,High,1.76,High,1.72,High,23.58,High,1.75,High,5.37,High
+SHC000205,Karnataka,Mysuru,Nanjangud,Zaid,Black (Regur),2023-10-17,7.26,2.35,0.34,448.0,Medium,18.1,Medium,492.6,High,10.9,Medium,2.67,High,0.27,Low,21.85,High,1.95,High,22.28,High
+SHC000206,Tamil Nadu,Coimbatore,Pollachi,Kharif,Red,2022-08-03,6.0,0.26,0.46,167.5,Low,5.1,Low,242.1,Medium,30.6,High,2.91,High,1.78,High,15.81,High,1.2,High,14.1,High
+SHC000207,Uttar Pradesh,Meerut,Sardhana,Rabi,Sandy Loam,2023-10-29,8.03,0.64,0.65,471.6,Medium,6.8,Low,88.4,Low,14.1,Medium,0.4,Low,0.75,Medium,26.86,High,0.57,High,2.8,Medium
+SHC000208,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2023-09-21,8.57,1.79,0.63,407.6,Medium,38.4,High,262.4,Medium,6.9,Low,1.06,Medium,1.95,High,13.46,High,1.71,High,23.21,High
+SHC000209,Bihar,Patna,Masaurhi,Rabi,Clay Loam,2022-10-16,6.19,0.33,0.59,361.9,Medium,32.0,High,102.9,Low,5.1,Low,0.35,Low,1.67,High,19.5,High,1.49,High,3.33,Medium
+SHC000210,Madhya Pradesh,Bhopal,Berasia,Kharif,Clay Loam,2022-10-26,8.91,1.24,0.32,465.3,Medium,30.9,High,455.8,High,14.3,Medium,1.96,High,0.84,Medium,12.39,High,1.21,High,5.48,High
+SHC000211,Punjab,Amritsar,Ajnala,Rabi,Laterite,2023-04-22,6.05,2.11,0.76,186.5,Low,43.3,High,120.6,Medium,28.4,High,2.44,High,0.89,Medium,23.18,High,0.76,High,2.46,Medium
+SHC000212,Telangana,Nalgonda,Miryalaguda,Zaid,Laterite,2023-07-03,7.75,2.35,0.77,223.7,Low,21.4,Medium,245.8,Medium,34.9,High,0.2,Low,1.19,High,16.47,High,1.76,High,24.59,High
+SHC000213,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Laterite,2022-06-27,8.8,0.5,0.41,204.8,Low,7.3,Low,112.9,Medium,28.9,High,0.69,Medium,1.66,High,6.14,Medium,1.83,High,8.67,High
+SHC000214,Chhattisgarh,Raipur,Arang,Kharif,Alluvial,2023-02-02,7.23,1.42,1.06,348.7,Medium,55.4,High,85.2,Low,29.5,High,1.8,High,1.59,High,5.15,Medium,0.53,High,14.6,High
+SHC000215,Bihar,Muzaffarpur,Sakra,Kharif,Alluvial,2023-07-31,8.12,1.99,1.07,507.3,Medium,53.3,High,190.9,Medium,27.9,High,1.76,High,1.0,Medium,6.82,Medium,1.27,High,15.84,High
+SHC000216,West Bengal,Bardhaman,Kalna,Zaid,Laterite,2022-02-09,6.58,2.21,0.89,141.7,Low,31.1,High,192.8,Medium,18.0,Medium,1.08,Medium,1.61,High,10.71,High,2.54,High,21.6,High
+SHC000217,West Bengal,Bardhaman,Kalna,Kharif,Black (Regur),2022-05-18,6.2,1.88,0.97,261.2,Low,45.1,High,334.1,High,8.1,Low,1.38,High,1.84,High,13.4,High,1.5,High,13.4,High
+SHC000218,Andhra Pradesh,Guntur,Tenali,Kharif,Sandy Loam,2024-03-21,5.64,0.85,0.71,179.7,Low,51.8,High,449.3,High,6.0,Low,0.66,Medium,1.68,High,25.44,High,0.82,High,11.95,High
+SHC000219,Andhra Pradesh,Guntur,Tenali,Zaid,Black (Regur),2022-10-08,6.47,1.21,0.6,526.2,Medium,42.5,High,181.6,Medium,22.1,High,1.39,High,1.92,High,15.29,High,1.7,High,9.26,High
+SHC000220,Maharashtra,Pune,Baramati,Zaid,Clay Loam,2022-04-03,6.14,1.03,0.36,371.8,Medium,58.1,High,440.0,High,27.7,High,2.07,High,0.61,Medium,13.47,High,0.16,Low,19.73,High
+SHC000221,West Bengal,Bardhaman,Kalna,Kharif,Laterite,2022-05-16,7.59,1.54,0.21,231.1,Low,49.3,High,208.3,Medium,38.8,High,1.96,High,0.91,Medium,12.54,High,1.11,High,7.05,High
+SHC000222,Tamil Nadu,Coimbatore,Pollachi,Rabi,Clay Loam,2023-06-18,8.3,1.05,0.3,345.1,Medium,41.4,High,434.2,High,18.1,Medium,1.98,High,1.26,High,10.36,High,0.41,Medium,2.53,Medium
+SHC000223,Maharashtra,Pune,Baramati,Zaid,Red,2024-06-01,6.11,1.67,1.15,406.6,Medium,15.4,Medium,297.3,High,13.4,Medium,0.26,Low,1.73,High,24.68,High,1.27,High,8.67,High
+SHC000224,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Alluvial,2023-11-03,6.99,0.81,1.11,298.0,Medium,45.5,High,324.9,High,39.8,High,2.47,High,0.75,Medium,21.97,High,2.09,High,16.32,High
+SHC000225,Rajasthan,Sriganganagar,Padampur,Zaid,Red,2023-06-04,6.2,0.51,0.86,365.6,Medium,21.2,Medium,277.7,Medium,30.9,High,2.2,High,1.16,High,27.55,High,2.85,High,22.59,High
+SHC000226,Gujarat,Anand,Petlad,Kharif,Black (Regur),2022-12-30,5.89,2.19,0.62,510.2,Medium,25.4,High,325.9,High,21.2,High,0.44,Low,0.2,Low,19.76,High,1.78,High,15.9,High
+SHC000227,Rajasthan,Sriganganagar,Padampur,Kharif,Sandy Loam,2022-05-03,8.47,1.02,0.5,143.8,Low,52.0,High,137.7,Medium,12.0,Medium,1.29,High,1.18,High,27.39,High,1.43,High,8.59,High
+SHC000228,Odisha,Cuttack,Athagarh,Kharif,Alluvial,2023-05-15,6.33,2.47,0.51,145.5,Low,29.9,High,167.9,Medium,32.1,High,1.77,High,0.4,Low,23.99,High,2.36,High,4.11,Medium
+SHC000229,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Laterite,2023-02-18,6.72,1.25,0.2,354.9,Medium,45.2,High,479.0,High,36.2,High,2.29,High,1.11,High,2.5,Low,0.11,Low,18.61,High
+SHC000230,Maharashtra,Nashik,Niphad,Zaid,Red,2022-11-16,5.52,1.02,0.79,193.5,Low,50.3,High,205.2,Medium,15.2,Medium,2.21,High,1.23,High,11.46,High,2.68,High,24.89,High
+SHC000231,Karnataka,Mysuru,Nanjangud,Rabi,Red,2024-02-08,5.75,2.38,1.12,297.5,Medium,17.6,Medium,385.4,High,9.6,Low,2.23,High,1.22,High,6.73,Medium,1.16,High,16.61,High
+SHC000232,Punjab,Amritsar,Ajnala,Rabi,Clay Loam,2022-09-19,8.08,1.6,0.79,141.1,Low,10.9,Low,431.2,High,6.7,Low,0.44,Low,0.94,Medium,5.46,Medium,0.83,High,17.84,High
+SHC000233,Madhya Pradesh,Bhopal,Berasia,Zaid,Clay Loam,2023-10-08,5.04,1.11,0.3,348.9,Medium,39.3,High,374.3,High,19.7,Medium,2.71,High,1.07,High,19.3,High,0.92,High,19.83,High
+SHC000234,Rajasthan,Sriganganagar,Padampur,Kharif,Sandy Loam,2022-07-24,8.11,2.1,1.17,277.5,Low,27.5,High,147.4,Medium,24.2,High,2.74,High,1.41,High,15.46,High,0.78,High,1.31,Low
+SHC000235,Haryana,Karnal,Nilokheri,Kharif,Sandy Loam,2023-11-17,6.98,2.38,0.98,153.0,Low,44.8,High,460.0,High,27.6,High,1.42,High,1.96,High,9.4,Medium,0.25,Medium,20.52,High
+SHC000236,Punjab,Amritsar,Ajnala,Rabi,Red,2024-03-31,7.71,1.12,0.32,494.5,Medium,54.0,High,84.1,Low,9.8,Low,1.98,High,0.72,Medium,27.05,High,2.87,High,7.44,High
+SHC000237,Chhattisgarh,Raipur,Arang,Kharif,Red,2024-04-14,6.37,0.37,0.6,320.9,Medium,51.0,High,369.8,High,21.7,High,1.32,High,1.78,High,6.67,Medium,0.48,Medium,18.43,High
+SHC000238,Madhya Pradesh,Indore,Depalpur,Kharif,Laterite,2023-08-28,6.93,1.47,0.64,389.0,Medium,47.9,High,336.8,High,35.2,High,2.65,High,1.48,High,26.97,High,1.5,High,12.71,High
+SHC000239,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Alluvial,2022-03-06,6.05,0.85,0.9,418.3,Medium,47.2,High,322.2,High,24.8,High,2.94,High,1.37,High,11.47,High,1.62,High,17.81,High
+SHC000240,Uttar Pradesh,Meerut,Sardhana,Rabi,Clay Loam,2024-01-15,5.99,0.93,0.88,289.3,Medium,51.1,High,314.5,High,39.6,High,0.26,Low,1.32,High,6.39,Medium,2.56,High,21.44,High
+SHC000241,Madhya Pradesh,Indore,Depalpur,Kharif,Laterite,2022-11-25,5.96,2.43,0.25,218.0,Low,40.4,High,249.4,Medium,13.2,Medium,1.43,High,1.62,High,14.55,High,2.58,High,11.73,High
+SHC000242,Uttar Pradesh,Meerut,Sardhana,Rabi,Clay Loam,2023-11-01,5.07,1.07,0.24,361.6,Medium,50.4,High,412.5,High,38.7,High,1.95,High,1.79,High,17.75,High,2.0,High,11.95,High
+SHC000243,Karnataka,Mysuru,Nanjangud,Rabi,Alluvial,2024-04-16,5.89,1.19,0.76,392.7,Medium,31.0,High,356.0,High,30.1,High,0.43,Low,1.54,High,8.21,Medium,1.09,High,20.92,High
+SHC000244,Karnataka,Belagavi,Athani,Zaid,Sandy Loam,2023-01-18,7.81,0.21,0.36,181.8,Low,44.4,High,383.1,High,8.7,Low,1.87,High,0.46,Low,28.05,High,1.24,High,11.97,High
+SHC000245,Madhya Pradesh,Bhopal,Berasia,Zaid,Red,2022-04-21,8.03,0.21,0.83,415.7,Medium,11.8,Medium,454.5,High,21.0,High,1.81,High,1.06,High,28.99,High,0.11,Low,18.67,High
+SHC000246,Bihar,Patna,Masaurhi,Rabi,Sandy Loam,2023-05-10,8.7,1.97,1.11,424.4,Medium,14.6,Medium,422.4,High,8.6,Low,2.01,High,1.25,High,11.01,High,2.66,High,11.05,High
+SHC000247,Gujarat,Rajkot,Gondal,Zaid,Black (Regur),2022-10-08,6.59,0.92,0.49,474.1,Medium,12.6,Medium,333.1,High,36.0,High,1.59,High,1.7,High,17.34,High,1.01,High,18.68,High
+SHC000248,Bihar,Patna,Masaurhi,Zaid,Black (Regur),2022-07-25,5.84,1.81,0.89,525.3,Medium,12.3,Medium,378.4,High,39.1,High,0.62,Medium,1.13,High,19.83,High,2.16,High,19.26,High
+SHC000249,Bihar,Patna,Masaurhi,Rabi,Sandy Loam,2023-08-08,8.77,1.8,0.87,513.3,Medium,34.4,High,448.5,High,19.8,Medium,0.14,Low,0.3,Low,12.66,High,0.25,Medium,2.36,Medium
+SHC000250,Maharashtra,Pune,Baramati,Kharif,Red,2023-12-01,6.0,2.11,0.89,249.9,Low,46.4,High,93.6,Low,33.5,High,0.4,Low,1.75,High,22.71,High,2.61,High,18.82,High
+SHC000251,Bihar,Patna,Masaurhi,Rabi,Black (Regur),2023-06-08,8.14,2.02,0.49,412.4,Medium,56.0,High,242.8,Medium,38.5,High,2.93,High,0.69,Medium,17.46,High,0.14,Low,7.03,High
+SHC000252,Gujarat,Rajkot,Gondal,Rabi,Black (Regur),2023-10-11,7.82,1.65,0.96,360.5,Medium,38.2,High,406.0,High,38.8,High,0.95,Medium,0.44,Low,21.11,High,0.64,High,5.17,High
+SHC000253,Rajasthan,Kota,Ramganjmandi,Kharif,Laterite,2022-02-11,6.71,1.44,0.33,377.0,Medium,19.0,Medium,218.8,Medium,29.8,High,0.55,Low,0.39,Low,11.03,High,0.25,Medium,23.38,High
+SHC000254,Gujarat,Rajkot,Gondal,Zaid,Red,2023-05-18,8.16,1.42,0.27,431.4,Medium,33.9,High,481.9,High,23.2,High,2.38,High,0.4,Low,17.21,High,1.27,High,9.39,High
+SHC000255,Madhya Pradesh,Bhopal,Berasia,Zaid,Red,2022-12-06,6.44,0.62,0.95,353.4,Medium,59.8,High,425.9,High,39.3,High,0.13,Low,1.37,High,14.48,High,2.72,High,15.73,High
+SHC000256,Gujarat,Rajkot,Gondal,Kharif,Alluvial,2023-11-30,8.54,1.02,1.0,169.9,Low,19.1,Medium,384.1,High,5.9,Low,1.6,High,1.56,High,16.4,High,1.58,High,12.68,High
+SHC000257,Karnataka,Belagavi,Athani,Zaid,Black (Regur),2022-11-25,7.06,2.38,0.37,540.8,Medium,34.6,High,83.1,Low,7.3,Low,2.04,High,1.57,High,26.22,High,1.33,High,3.49,Medium
+SHC000258,Bihar,Patna,Masaurhi,Zaid,Clay Loam,2024-03-04,6.74,2.06,0.27,421.9,Medium,6.3,Low,381.1,High,6.3,Low,0.31,Low,0.44,Low,9.05,Medium,0.3,Medium,20.72,High
+SHC000259,Maharashtra,Pune,Baramati,Rabi,Laterite,2023-04-07,7.52,1.14,0.22,416.3,Medium,34.4,High,349.4,High,26.6,High,2.29,High,1.21,High,21.62,High,0.31,Medium,23.27,High
+SHC000260,Uttar Pradesh,Meerut,Sardhana,Rabi,Clay Loam,2022-11-05,7.43,0.78,1.13,287.8,Medium,50.2,High,92.9,Low,10.5,Medium,0.74,Medium,1.52,High,24.31,High,2.56,High,8.08,High
+SHC000261,Gujarat,Anand,Petlad,Kharif,Red,2023-11-25,8.55,2.42,1.07,405.1,Medium,57.7,High,84.7,Low,35.6,High,0.51,Low,0.18,Low,18.04,High,1.24,High,14.14,High
+SHC000262,Haryana,Karnal,Nilokheri,Rabi,Black (Regur),2024-02-06,7.97,1.84,0.41,518.5,Medium,51.8,High,139.8,Medium,11.4,Medium,1.89,High,0.58,Medium,5.21,Medium,2.05,High,14.62,High
+SHC000263,Punjab,Amritsar,Ajnala,Zaid,Laterite,2023-10-23,7.2,0.8,0.27,163.2,Low,44.9,High,284.6,High,16.6,Medium,0.47,Low,1.35,High,4.8,Medium,1.9,High,22.6,High
+SHC000264,Karnataka,Mysuru,Nanjangud,Rabi,Laterite,2022-12-03,7.47,0.83,0.78,368.8,Medium,25.0,Medium,212.9,Medium,20.0,Medium,0.11,Low,0.57,Medium,8.2,Medium,2.25,High,11.47,High
+SHC000265,Andhra Pradesh,Guntur,Tenali,Kharif,Clay Loam,2024-01-21,6.33,1.25,0.65,460.9,Medium,31.8,High,125.7,Medium,27.6,High,0.34,Low,0.63,Medium,25.14,High,2.68,High,5.71,High
+SHC000266,Chhattisgarh,Raipur,Arang,Zaid,Alluvial,2024-01-15,5.3,0.14,0.71,133.7,Low,37.0,High,250.2,Medium,25.7,High,2.73,High,1.15,High,17.22,High,3.0,High,12.33,High
+SHC000267,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Laterite,2022-08-17,8.57,1.52,1.06,178.9,Low,32.6,High,118.0,Medium,17.7,Medium,0.13,Low,0.55,Medium,28.99,High,2.95,High,17.42,High
+SHC000268,Rajasthan,Kota,Ramganjmandi,Kharif,Laterite,2022-06-13,5.72,2.38,0.86,545.8,Medium,45.5,High,283.1,High,17.6,Medium,0.73,Medium,1.03,High,3.76,Low,1.17,High,2.03,Medium
+SHC000269,Madhya Pradesh,Bhopal,Berasia,Zaid,Red,2023-02-02,6.88,1.19,0.25,551.5,Medium,22.8,Medium,375.6,High,23.2,High,2.51,High,1.69,High,9.37,Medium,1.68,High,5.17,High
+SHC000270,Gujarat,Anand,Petlad,Rabi,Red,2023-08-25,7.61,2.11,0.72,285.6,Medium,54.9,High,296.9,High,17.4,Medium,2.62,High,1.03,High,15.5,High,1.85,High,13.04,High
+SHC000271,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Black (Regur),2022-08-24,5.31,1.64,0.41,202.2,Low,24.9,Medium,381.3,High,9.1,Low,0.77,Medium,1.64,High,22.17,High,1.5,High,12.49,High
+SHC000272,Madhya Pradesh,Bhopal,Berasia,Zaid,Black (Regur),2023-10-25,8.33,0.15,0.24,372.3,Medium,13.9,Medium,344.4,High,6.4,Low,1.76,High,0.21,Low,9.23,Medium,0.62,High,24.0,High
+SHC000273,Gujarat,Rajkot,Gondal,Zaid,Clay Loam,2022-01-20,8.51,1.85,1.02,536.8,Medium,16.9,Medium,334.7,High,21.5,High,1.5,High,0.52,Medium,13.5,High,0.51,High,14.98,High
+SHC000274,Madhya Pradesh,Indore,Depalpur,Zaid,Clay Loam,2023-06-08,6.06,1.84,0.54,319.5,Medium,37.5,High,176.5,Medium,18.5,Medium,0.41,Low,0.48,Low,26.07,High,1.56,High,11.08,High
+SHC000275,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Alluvial,2022-07-01,6.9,1.58,0.24,464.9,Medium,32.7,High,129.4,Medium,21.9,High,0.48,Low,1.25,High,25.17,High,2.7,High,19.6,High
+SHC000276,Gujarat,Anand,Petlad,Rabi,Sandy Loam,2023-03-07,6.48,0.2,0.73,221.0,Low,49.1,High,411.6,High,18.3,Medium,1.81,High,1.51,High,23.32,High,2.12,High,3.35,Medium
+SHC000277,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Laterite,2024-02-24,5.93,2.16,0.48,505.8,Medium,27.5,High,159.4,Medium,29.8,High,2.39,High,1.2,High,5.3,Medium,0.12,Low,16.71,High
+SHC000278,Odisha,Cuttack,Athagarh,Rabi,Laterite,2023-01-06,5.43,1.12,0.79,235.0,Low,34.5,High,317.2,High,26.4,High,2.98,High,0.86,Medium,7.7,Medium,1.7,High,14.38,High
+SHC000279,Madhya Pradesh,Indore,Depalpur,Rabi,Sandy Loam,2023-07-23,6.94,2.47,0.78,460.6,Medium,26.9,High,138.0,Medium,35.2,High,0.45,Low,0.54,Medium,23.93,High,2.85,High,3.41,Medium
+SHC000280,Rajasthan,Kota,Ramganjmandi,Rabi,Red,2024-03-31,7.2,1.77,0.91,190.7,Low,58.1,High,82.2,Low,8.2,Low,0.52,Low,1.86,High,14.19,High,0.29,Medium,6.32,High
+SHC000281,Haryana,Karnal,Nilokheri,Zaid,Alluvial,2024-01-12,6.54,2.46,0.81,349.2,Medium,44.1,High,330.9,High,38.1,High,2.48,High,1.32,High,14.29,High,0.68,High,16.77,High
+SHC000282,Rajasthan,Kota,Ramganjmandi,Rabi,Black (Regur),2022-02-04,8.14,1.33,0.9,390.7,Medium,42.1,High,231.1,Medium,27.9,High,2.93,High,0.27,Low,9.73,Medium,1.26,High,17.07,High
+SHC000283,Telangana,Nalgonda,Miryalaguda,Zaid,Black (Regur),2023-06-15,5.06,1.79,1.12,361.8,Medium,44.9,High,314.8,High,25.4,High,1.11,Medium,1.65,High,8.34,Medium,2.89,High,11.91,High
+SHC000284,Telangana,Nalgonda,Miryalaguda,Zaid,Alluvial,2022-09-25,5.7,1.31,0.76,341.4,Medium,23.7,Medium,129.1,Medium,23.0,High,0.85,Medium,1.12,High,24.21,High,0.83,High,11.63,High
+SHC000285,Telangana,Nalgonda,Miryalaguda,Zaid,Laterite,2024-02-28,5.97,0.92,0.98,419.9,Medium,54.3,High,442.0,High,21.9,High,0.85,Medium,0.83,Medium,24.08,High,0.74,High,17.83,High
+SHC000286,Karnataka,Mysuru,Nanjangud,Rabi,Red,2023-06-13,7.14,1.78,0.46,246.4,Low,26.9,High,394.5,High,17.0,Medium,1.71,High,0.44,Low,10.79,High,0.73,High,14.77,High
+SHC000287,Madhya Pradesh,Indore,Depalpur,Zaid,Clay Loam,2022-07-14,7.0,0.58,0.94,504.0,Medium,16.4,Medium,165.2,Medium,13.7,Medium,1.89,High,0.4,Low,4.99,Medium,2.77,High,17.22,High
+SHC000288,West Bengal,Bardhaman,Kalna,Rabi,Sandy Loam,2022-01-07,8.06,1.4,0.24,332.2,Medium,39.1,High,286.8,High,39.5,High,2.7,High,1.75,High,15.74,High,2.95,High,22.98,High
+SHC000289,Maharashtra,Pune,Baramati,Rabi,Black (Regur),2024-02-08,7.31,0.23,1.0,330.5,Medium,34.7,High,291.0,High,18.8,Medium,2.09,High,0.43,Low,29.34,High,2.12,High,12.04,High
+SHC000290,Odisha,Cuttack,Athagarh,Kharif,Alluvial,2023-11-22,5.84,1.49,0.53,389.6,Medium,19.3,Medium,310.4,High,13.3,Medium,1.47,High,1.26,High,12.25,High,1.55,High,6.05,High
+SHC000291,Odisha,Cuttack,Athagarh,Rabi,Red,2024-05-24,6.6,1.18,0.77,550.9,Medium,42.7,High,422.0,High,30.2,High,2.43,High,1.16,High,25.98,High,0.67,High,20.2,High
+SHC000292,Chhattisgarh,Raipur,Arang,Kharif,Laterite,2024-04-05,5.04,1.11,0.33,513.0,Medium,39.7,High,304.3,High,16.1,Medium,1.51,High,0.58,Medium,26.04,High,0.24,Medium,3.38,Medium
+SHC000293,Madhya Pradesh,Indore,Depalpur,Kharif,Black (Regur),2024-04-13,6.02,2.11,0.3,447.6,Medium,19.3,Medium,231.3,Medium,24.5,High,2.45,High,0.75,Medium,13.53,High,1.12,High,17.31,High
+SHC000294,Gujarat,Rajkot,Gondal,Kharif,Sandy Loam,2023-08-13,7.6,1.39,1.18,245.2,Low,22.9,Medium,294.4,High,32.1,High,1.4,High,0.25,Low,19.18,High,1.44,High,23.96,High
+SHC000295,Madhya Pradesh,Indore,Depalpur,Zaid,Red,2023-03-08,7.53,1.47,1.05,151.4,Low,13.9,Medium,175.9,Medium,16.1,Medium,0.94,Medium,0.61,Medium,20.05,High,0.89,High,11.68,High
+SHC000296,Andhra Pradesh,Guntur,Tenali,Zaid,Sandy Loam,2023-06-18,8.86,1.09,0.38,130.2,Low,45.0,High,358.0,High,37.9,High,2.13,High,0.25,Low,6.67,Medium,0.4,Medium,2.53,Medium
+SHC000297,Rajasthan,Sriganganagar,Padampur,Zaid,Alluvial,2022-01-27,8.08,1.36,1.2,165.7,Low,39.0,High,115.4,Medium,37.6,High,1.23,High,0.54,Medium,22.65,High,1.39,High,4.03,Medium
+SHC000298,Rajasthan,Kota,Ramganjmandi,Kharif,Alluvial,2022-02-05,7.65,2.16,0.53,329.5,Medium,58.6,High,307.0,High,14.5,Medium,1.39,High,1.94,High,21.53,High,0.61,High,15.34,High
+SHC000299,Gujarat,Anand,Petlad,Zaid,Clay Loam,2024-06-17,7.26,1.36,0.84,256.3,Low,24.1,Medium,306.7,High,33.2,High,1.38,High,0.79,Medium,9.27,Medium,0.98,High,1.0,Low
+SHC000300,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Red,2023-04-26,7.14,1.75,0.69,452.4,Medium,21.5,Medium,401.7,High,32.9,High,1.83,High,1.61,High,17.35,High,0.65,High,22.17,High
+SHC000301,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Black (Regur),2022-06-17,7.86,1.65,1.03,217.1,Low,9.4,Low,342.6,High,23.1,High,2.42,High,1.27,High,21.43,High,0.89,High,16.56,High
+SHC000302,Bihar,Patna,Masaurhi,Rabi,Laterite,2022-07-12,8.41,0.54,0.49,400.2,Medium,39.0,High,194.3,Medium,26.8,High,0.64,Medium,0.14,Low,3.39,Low,1.65,High,5.46,High
+SHC000303,Uttar Pradesh,Meerut,Sardhana,Rabi,Red,2022-05-09,7.86,1.85,0.43,186.3,Low,32.1,High,223.6,Medium,15.9,Medium,2.42,High,2.0,High,14.98,High,2.4,High,8.93,High
+SHC000304,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Red,2024-03-05,6.57,1.4,0.38,514.1,Medium,18.8,Medium,240.3,Medium,5.4,Low,2.93,High,1.46,High,12.77,High,2.93,High,6.93,High
+SHC000305,Punjab,Amritsar,Ajnala,Kharif,Laterite,2024-01-23,8.08,1.35,1.18,328.0,Medium,42.5,High,211.1,Medium,16.3,Medium,1.92,High,0.18,Low,28.25,High,1.61,High,7.08,High
+SHC000306,Gujarat,Anand,Petlad,Rabi,Black (Regur),2023-01-05,8.55,2.17,0.42,169.7,Low,39.8,High,216.3,Medium,10.9,Medium,0.9,Medium,0.33,Low,24.1,High,0.13,Low,2.01,Medium
+SHC000307,Odisha,Cuttack,Athagarh,Rabi,Clay Loam,2023-09-03,5.62,1.95,0.45,340.0,Medium,42.7,High,222.1,Medium,38.9,High,2.3,High,0.21,Low,11.95,High,0.55,High,13.87,High
+SHC000308,Uttar Pradesh,Meerut,Sardhana,Kharif,Laterite,2022-08-27,6.27,1.44,0.84,272.8,Low,54.0,High,387.9,High,5.7,Low,1.2,Medium,1.48,High,9.02,Medium,0.21,Medium,17.96,High
+SHC000309,Bihar,Patna,Masaurhi,Rabi,Sandy Loam,2023-12-15,6.96,1.46,0.74,262.4,Low,30.8,High,444.4,High,26.0,High,2.6,High,0.4,Low,16.87,High,1.4,High,20.67,High
+SHC000310,Bihar,Patna,Masaurhi,Rabi,Laterite,2022-01-01,8.1,1.31,0.93,508.5,Medium,39.1,High,232.9,Medium,26.7,High,1.03,Medium,0.22,Low,29.08,High,2.48,High,5.56,High
+SHC000311,West Bengal,Bardhaman,Kalna,Rabi,Sandy Loam,2022-06-07,7.45,0.87,0.84,168.6,Low,33.8,High,108.0,Low,34.2,High,0.48,Low,1.76,High,7.66,Medium,1.51,High,3.37,Medium
+SHC000312,Bihar,Muzaffarpur,Sakra,Zaid,Laterite,2023-11-05,6.96,1.6,0.79,141.6,Low,17.1,Medium,381.5,High,5.5,Low,2.77,High,1.35,High,28.0,High,2.51,High,12.23,High
+SHC000313,Gujarat,Anand,Petlad,Kharif,Red,2023-07-26,7.97,2.24,1.02,469.5,Medium,8.2,Low,339.1,High,23.5,High,2.23,High,1.69,High,4.18,Low,0.73,High,13.47,High
+SHC000314,Uttar Pradesh,Meerut,Sardhana,Zaid,Black (Regur),2023-06-29,6.54,0.56,0.86,370.8,Medium,57.1,High,314.5,High,24.5,High,2.26,High,1.56,High,18.14,High,2.06,High,17.86,High
+SHC000315,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Black (Regur),2024-03-22,5.72,1.06,0.54,189.6,Low,59.9,High,266.1,Medium,17.3,Medium,1.01,Medium,1.98,High,11.09,High,1.18,High,19.34,High
+SHC000316,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Red,2023-09-16,5.96,1.41,0.58,362.1,Medium,46.0,High,231.2,Medium,20.8,High,2.88,High,0.1,Low,2.97,Low,0.92,High,1.39,Low
+SHC000317,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Alluvial,2022-11-04,8.94,0.62,0.51,459.5,Medium,56.9,High,425.4,High,37.2,High,1.58,High,1.18,High,18.01,High,0.37,Medium,12.05,High
+SHC000318,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Red,2023-01-11,8.56,0.7,0.46,252.1,Low,36.4,High,319.0,High,12.6,Medium,0.32,Low,0.72,Medium,15.51,High,1.52,High,22.58,High
+SHC000319,Odisha,Cuttack,Athagarh,Zaid,Alluvial,2023-09-02,7.57,0.19,1.01,287.9,Medium,47.9,High,467.2,High,16.7,Medium,2.65,High,0.93,Medium,28.05,High,0.45,Medium,19.49,High
+SHC000320,Chhattisgarh,Raipur,Arang,Zaid,Sandy Loam,2022-01-12,7.54,1.62,0.25,350.7,Medium,22.6,Medium,317.3,High,16.4,Medium,2.12,High,0.39,Low,20.86,High,2.99,High,24.3,High
+SHC000321,Gujarat,Rajkot,Gondal,Zaid,Sandy Loam,2022-04-03,5.89,0.8,0.59,178.2,Low,9.5,Low,320.0,High,6.7,Low,1.26,High,0.26,Low,16.05,High,2.34,High,4.13,Medium
+SHC000322,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Sandy Loam,2022-07-22,6.95,1.67,0.4,391.0,Medium,45.5,High,183.4,Medium,7.5,Low,2.35,High,0.71,Medium,27.88,High,0.36,Medium,17.12,High
+SHC000323,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Red,2022-07-15,6.28,1.53,0.22,254.1,Low,59.3,High,338.8,High,39.7,High,1.38,High,0.38,Low,3.26,Low,2.47,High,5.79,High
+SHC000324,Andhra Pradesh,Guntur,Tenali,Kharif,Clay Loam,2024-05-23,5.34,1.87,0.44,393.2,Medium,13.1,Medium,429.6,High,15.1,Medium,1.1,Medium,1.63,High,10.54,High,1.47,High,8.97,High
+SHC000325,Chhattisgarh,Raipur,Arang,Zaid,Black (Regur),2022-07-28,7.19,1.9,0.75,394.1,Medium,59.6,High,371.9,High,28.4,High,1.19,Medium,1.82,High,16.75,High,0.84,High,2.44,Medium
+SHC000326,Madhya Pradesh,Bhopal,Berasia,Zaid,Sandy Loam,2022-10-05,5.21,1.67,0.21,291.0,Medium,19.9,Medium,437.9,High,28.1,High,2.61,High,0.14,Low,26.29,High,1.98,High,6.55,High
+SHC000327,Telangana,Nalgonda,Miryalaguda,Zaid,Clay Loam,2022-04-12,8.62,1.26,0.8,158.7,Low,15.9,Medium,486.1,High,24.6,High,2.17,High,0.18,Low,27.82,High,0.98,High,12.76,High
+SHC000328,Chhattisgarh,Raipur,Arang,Kharif,Alluvial,2022-12-22,7.74,0.95,0.5,558.2,Medium,58.8,High,195.9,Medium,7.2,Low,0.85,Medium,0.84,Medium,30.0,High,2.97,High,23.66,High
+SHC000329,Maharashtra,Pune,Baramati,Kharif,Black (Regur),2022-12-16,8.59,1.68,0.29,288.2,Medium,57.8,High,337.2,High,26.9,High,0.76,Medium,0.56,Medium,6.28,Medium,2.91,High,22.83,High
+SHC000330,Karnataka,Mysuru,Nanjangud,Rabi,Sandy Loam,2022-05-15,5.83,0.43,0.74,472.0,Medium,52.4,High,209.8,Medium,29.7,High,1.62,High,0.36,Low,29.88,High,2.93,High,4.48,Medium
+SHC000331,Bihar,Muzaffarpur,Sakra,Kharif,Red,2022-03-11,7.23,2.38,0.32,259.7,Low,53.4,High,385.4,High,31.8,High,2.65,High,0.89,Medium,13.52,High,1.38,High,23.41,High
+SHC000332,Gujarat,Anand,Petlad,Zaid,Red,2022-06-05,8.12,0.36,0.38,455.5,Medium,38.7,High,192.1,Medium,24.8,High,0.77,Medium,0.54,Medium,21.25,High,1.14,High,17.52,High
+SHC000333,Rajasthan,Sriganganagar,Padampur,Kharif,Sandy Loam,2024-05-16,7.42,1.81,0.57,494.9,Medium,32.0,High,137.8,Medium,11.8,Medium,0.19,Low,1.55,High,2.42,Low,0.88,High,10.91,High
+SHC000334,Chhattisgarh,Raipur,Arang,Zaid,Black (Regur),2024-02-15,5.82,0.52,1.15,313.3,Medium,38.9,High,368.9,High,35.3,High,2.67,High,0.91,Medium,23.73,High,1.86,High,20.78,High
+SHC000335,Chhattisgarh,Raipur,Arang,Rabi,Laterite,2023-09-19,8.76,1.47,0.74,402.2,Medium,43.7,High,96.2,Low,8.8,Low,1.43,High,1.77,High,26.58,High,0.81,High,13.91,High
+SHC000336,Chhattisgarh,Raipur,Arang,Kharif,Sandy Loam,2023-02-01,7.06,1.61,0.25,248.1,Low,26.9,High,207.9,Medium,34.0,High,1.44,High,0.9,Medium,19.17,High,0.26,Medium,13.41,High
+SHC000337,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Clay Loam,2023-04-08,5.36,1.3,0.38,377.6,Medium,54.2,High,309.5,High,18.8,Medium,1.04,Medium,0.15,Low,14.7,High,2.7,High,22.5,High
+SHC000338,Tamil Nadu,Coimbatore,Pollachi,Kharif,Red,2022-11-28,7.77,2.28,1.0,436.1,Medium,11.8,Medium,127.9,Medium,20.7,High,1.15,Medium,1.1,High,12.75,High,2.39,High,13.28,High
+SHC000339,Madhya Pradesh,Indore,Depalpur,Rabi,Sandy Loam,2023-01-25,5.18,0.51,0.54,503.4,Medium,52.4,High,148.1,Medium,10.1,Medium,2.33,High,0.2,Low,10.63,High,2.22,High,24.06,High
+SHC000340,Karnataka,Belagavi,Athani,Zaid,Black (Regur),2022-05-01,8.59,2.41,0.2,456.8,Medium,5.7,Low,289.0,High,22.5,High,2.44,High,1.26,High,15.82,High,0.73,High,16.83,High
+SHC000341,Tamil Nadu,Coimbatore,Pollachi,Rabi,Laterite,2022-03-23,7.4,0.12,1.08,242.4,Low,39.6,High,424.5,High,12.3,Medium,0.64,Medium,0.2,Low,11.77,High,0.52,High,1.78,Low
+SHC000342,Bihar,Muzaffarpur,Sakra,Zaid,Red,2022-12-06,8.68,0.22,0.62,198.4,Low,42.0,High,336.7,High,29.2,High,1.83,High,1.6,High,6.97,Medium,1.42,High,14.9,High
+SHC000343,Punjab,Amritsar,Ajnala,Kharif,Red,2022-11-27,6.47,1.01,0.27,308.0,Medium,35.3,High,203.0,Medium,9.7,Low,2.11,High,0.62,Medium,16.76,High,1.62,High,17.7,High
+SHC000344,Gujarat,Rajkot,Gondal,Kharif,Alluvial,2023-08-09,7.92,1.61,1.19,332.8,Medium,42.9,High,472.2,High,39.5,High,0.93,Medium,1.26,High,10.86,High,1.62,High,24.88,High
+SHC000345,Andhra Pradesh,Guntur,Tenali,Kharif,Sandy Loam,2023-07-31,6.99,1.85,0.7,475.5,Medium,53.6,High,177.7,Medium,15.2,Medium,0.66,Medium,0.32,Low,15.02,High,2.41,High,18.7,High
+SHC000346,Madhya Pradesh,Bhopal,Berasia,Zaid,Laterite,2023-02-28,5.18,0.94,1.01,213.4,Low,40.2,High,369.8,High,13.9,Medium,0.3,Low,0.67,Medium,17.4,High,2.32,High,3.73,Medium
+SHC000347,Karnataka,Mysuru,Nanjangud,Rabi,Laterite,2024-01-12,7.28,2.4,1.03,205.4,Low,50.9,High,467.4,High,21.8,High,1.48,High,0.17,Low,5.8,Medium,0.55,High,12.05,High
+SHC000348,Bihar,Patna,Masaurhi,Rabi,Laterite,2024-03-13,8.26,2.33,0.26,349.3,Medium,36.1,High,364.8,High,24.4,High,0.15,Low,1.2,High,11.29,High,2.76,High,20.1,High
+SHC000349,Haryana,Karnal,Nilokheri,Kharif,Red,2024-05-10,5.12,2.46,0.83,490.7,Medium,36.4,High,243.6,Medium,25.8,High,2.61,High,1.53,High,21.75,High,1.01,High,1.76,Low
+SHC000350,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Laterite,2024-06-17,5.95,1.18,1.15,215.1,Low,21.6,Medium,127.1,Medium,32.5,High,2.36,High,1.84,High,14.43,High,0.17,Low,12.58,High
+SHC000351,Rajasthan,Kota,Ramganjmandi,Kharif,Black (Regur),2022-12-15,8.69,1.86,0.72,461.2,Medium,12.9,Medium,446.2,High,33.8,High,2.82,High,1.39,High,5.72,Medium,2.2,High,12.02,High
+SHC000352,Odisha,Cuttack,Athagarh,Zaid,Alluvial,2022-01-05,6.24,0.21,1.05,503.6,Medium,23.3,Medium,453.5,High,8.6,Low,2.32,High,1.52,High,2.63,Low,2.3,High,16.33,High
+SHC000353,Madhya Pradesh,Bhopal,Berasia,Rabi,Black (Regur),2022-07-17,6.15,1.38,0.97,415.3,Medium,20.0,Medium,146.1,Medium,9.0,Low,2.88,High,1.16,High,4.87,Medium,1.67,High,14.18,High
+SHC000354,Maharashtra,Pune,Baramati,Kharif,Clay Loam,2024-04-03,6.13,0.69,0.27,389.8,Medium,23.6,Medium,266.3,Medium,9.6,Low,1.47,High,1.38,High,4.97,Medium,0.26,Medium,11.24,High
+SHC000355,Madhya Pradesh,Indore,Depalpur,Zaid,Sandy Loam,2023-08-30,7.52,1.76,0.65,276.5,Low,23.3,Medium,163.2,Medium,31.5,High,2.45,High,0.25,Low,27.84,High,2.32,High,14.63,High
+SHC000356,Haryana,Karnal,Nilokheri,Zaid,Laterite,2022-04-10,6.82,1.74,0.91,324.8,Medium,17.7,Medium,174.0,Medium,35.1,High,1.89,High,1.83,High,12.98,High,2.13,High,16.96,High
+SHC000357,Karnataka,Mysuru,Nanjangud,Rabi,Laterite,2022-01-31,5.26,0.37,0.68,492.1,Medium,20.5,Medium,226.4,Medium,25.1,High,1.57,High,0.87,Medium,22.0,High,0.41,Medium,14.35,High
+SHC000358,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2023-04-18,6.6,1.09,0.82,361.1,Medium,58.6,High,241.2,Medium,16.9,Medium,2.46,High,1.22,High,23.96,High,1.36,High,19.9,High
+SHC000359,Bihar,Patna,Masaurhi,Zaid,Black (Regur),2022-06-27,7.65,0.29,1.13,372.6,Medium,31.8,High,328.7,High,21.2,High,1.71,High,1.66,High,6.93,Medium,2.87,High,2.67,Medium
+SHC000360,Uttar Pradesh,Meerut,Sardhana,Zaid,Sandy Loam,2024-02-29,8.28,0.89,0.84,147.1,Low,17.0,Medium,138.3,Medium,25.3,High,2.29,High,1.64,High,23.2,High,2.02,High,11.87,High
+SHC000361,Karnataka,Belagavi,Athani,Rabi,Sandy Loam,2023-08-15,6.79,0.59,1.08,251.9,Low,48.7,High,365.4,High,37.1,High,2.82,High,1.46,High,27.62,High,2.97,High,14.99,High
+SHC000362,Gujarat,Rajkot,Gondal,Zaid,Laterite,2024-05-17,5.51,0.81,0.57,361.5,Medium,7.9,Low,375.4,High,33.7,High,1.14,Medium,1.74,High,26.24,High,0.78,High,17.85,High
+SHC000363,Telangana,Nalgonda,Miryalaguda,Zaid,Red,2023-12-30,6.53,1.02,0.75,411.5,Medium,31.1,High,159.1,Medium,18.5,Medium,2.78,High,1.7,High,6.32,Medium,2.99,High,17.08,High
+SHC000364,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Alluvial,2023-10-26,5.06,1.83,0.69,312.2,Medium,59.5,High,115.6,Medium,27.5,High,1.31,High,0.97,Medium,24.09,High,1.85,High,11.22,High
+SHC000365,Madhya Pradesh,Indore,Depalpur,Rabi,Sandy Loam,2023-03-11,7.21,1.18,0.56,201.7,Low,38.3,High,322.7,High,34.6,High,0.79,Medium,1.05,High,13.5,High,1.68,High,9.81,High
+SHC000366,Punjab,Amritsar,Ajnala,Zaid,Laterite,2023-12-23,6.47,1.49,1.16,155.2,Low,45.2,High,301.1,High,35.1,High,2.28,High,0.63,Medium,16.47,High,1.62,High,15.64,High
+SHC000367,Maharashtra,Nashik,Niphad,Rabi,Clay Loam,2024-01-30,7.65,1.7,0.88,357.2,Medium,36.9,High,337.5,High,36.6,High,1.65,High,0.12,Low,14.71,High,2.73,High,14.78,High
+SHC000368,Karnataka,Mysuru,Nanjangud,Rabi,Red,2024-03-28,6.18,0.5,0.9,383.0,Medium,21.7,Medium,409.7,High,14.1,Medium,1.92,High,1.2,High,18.04,High,2.0,High,8.0,High
+SHC000369,Chhattisgarh,Raipur,Arang,Zaid,Alluvial,2022-10-21,6.94,0.4,0.28,464.9,Medium,18.9,Medium,338.6,High,14.6,Medium,0.85,Medium,1.51,High,18.91,High,2.74,High,18.74,High
+SHC000370,West Bengal,Bardhaman,Kalna,Rabi,Red,2024-04-07,5.7,1.98,0.44,199.6,Low,34.0,High,93.9,Low,39.4,High,2.91,High,1.23,High,25.01,High,2.53,High,19.07,High
+SHC000371,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Black (Regur),2023-11-08,6.76,1.63,0.41,443.1,Medium,24.0,Medium,349.7,High,31.4,High,0.44,Low,0.42,Low,13.16,High,0.97,High,18.91,High
+SHC000372,Bihar,Patna,Masaurhi,Kharif,Laterite,2023-12-01,7.82,1.24,0.35,502.9,Medium,5.7,Low,469.4,High,20.7,High,2.07,High,1.93,High,21.12,High,0.22,Medium,23.03,High
+SHC000373,Gujarat,Anand,Petlad,Rabi,Laterite,2023-09-18,8.67,2.16,0.53,237.5,Low,10.4,Low,354.8,High,18.7,Medium,2.34,High,1.52,High,22.56,High,1.81,High,5.68,High
+SHC000374,Karnataka,Mysuru,Nanjangud,Zaid,Clay Loam,2022-07-04,6.25,0.13,0.21,149.9,Low,27.6,High,300.6,High,29.0,High,1.12,Medium,1.48,High,9.05,Medium,0.2,Medium,15.87,High
+SHC000375,Punjab,Amritsar,Ajnala,Zaid,Clay Loam,2024-05-05,5.87,1.54,0.32,541.4,Medium,9.8,Low,334.0,High,18.2,Medium,2.32,High,1.33,High,24.49,High,0.64,High,3.66,Medium
+SHC000376,Madhya Pradesh,Indore,Depalpur,Rabi,Red,2023-04-24,7.64,0.28,0.65,557.9,Medium,47.3,High,370.7,High,28.4,High,2.33,High,0.59,Medium,23.86,High,0.9,High,2.5,Medium
+SHC000377,Telangana,Nalgonda,Miryalaguda,Rabi,Alluvial,2022-09-22,8.82,0.74,0.64,336.4,Medium,56.1,High,336.3,High,11.2,Medium,1.53,High,0.37,Low,23.52,High,0.73,High,16.44,High
+SHC000378,Tamil Nadu,Coimbatore,Pollachi,Zaid,Red,2022-04-16,5.14,0.27,0.93,462.0,Medium,6.0,Low,289.0,High,27.9,High,0.1,Low,0.17,Low,12.93,High,0.54,High,8.92,High
+SHC000379,Telangana,Nalgonda,Miryalaguda,Zaid,Alluvial,2023-06-12,7.83,1.95,0.68,297.7,Medium,45.0,High,421.2,High,7.5,Low,0.75,Medium,0.83,Medium,21.3,High,2.36,High,3.91,Medium
+SHC000380,Bihar,Patna,Masaurhi,Rabi,Red,2023-11-30,6.21,0.23,1.2,404.7,Medium,25.1,High,438.4,High,16.9,Medium,2.54,High,1.54,High,10.12,High,0.69,High,14.31,High
+SHC000381,Telangana,Nalgonda,Miryalaguda,Zaid,Black (Regur),2022-11-03,7.78,2.25,0.83,278.1,Low,9.7,Low,345.8,High,30.7,High,0.51,Low,0.47,Low,22.15,High,1.82,High,12.74,High
+SHC000382,Haryana,Karnal,Nilokheri,Zaid,Clay Loam,2022-11-12,7.0,2.42,1.01,545.3,Medium,5.9,Low,222.5,Medium,16.8,Medium,2.19,High,0.87,Medium,7.93,Medium,2.0,High,13.55,High
+SHC000383,West Bengal,Bardhaman,Kalna,Zaid,Black (Regur),2024-01-29,7.32,2.32,0.24,182.3,Low,41.0,High,277.9,Medium,37.1,High,0.23,Low,1.43,High,5.66,Medium,0.6,High,2.2,Medium
+SHC000384,Karnataka,Belagavi,Athani,Kharif,Laterite,2023-09-18,5.68,1.52,1.02,166.8,Low,32.3,High,415.7,High,12.7,Medium,2.43,High,0.91,Medium,24.72,High,2.95,High,17.28,High
+SHC000385,Karnataka,Mysuru,Nanjangud,Kharif,Clay Loam,2023-08-13,7.18,0.87,1.16,213.8,Low,7.5,Low,152.8,Medium,7.2,Low,0.89,Medium,1.54,High,6.71,Medium,1.17,High,4.96,Medium
+SHC000386,Maharashtra,Nashik,Niphad,Zaid,Alluvial,2022-05-17,5.4,2.13,0.81,462.2,Medium,5.9,Low,284.5,High,5.2,Low,0.62,Medium,0.27,Low,20.25,High,2.67,High,10.99,High
+SHC000387,Rajasthan,Sriganganagar,Padampur,Zaid,Black (Regur),2022-07-31,5.57,0.75,0.65,225.3,Low,14.6,Medium,370.5,High,25.9,High,2.18,High,1.26,High,4.46,Low,2.5,High,8.23,High
+SHC000388,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Sandy Loam,2022-08-30,5.77,2.47,1.18,392.3,Medium,52.5,High,494.4,High,22.8,High,1.45,High,1.29,High,7.83,Medium,0.25,Medium,3.7,Medium
+SHC000389,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Laterite,2023-05-25,5.71,1.71,0.24,403.7,Medium,20.7,Medium,262.6,Medium,16.7,Medium,2.43,High,1.54,High,3.21,Low,2.25,High,23.2,High
+SHC000390,Madhya Pradesh,Indore,Depalpur,Kharif,Alluvial,2023-05-12,7.06,0.27,0.44,315.7,Medium,36.9,High,256.0,Medium,31.1,High,2.71,High,0.54,Medium,5.08,Medium,0.76,High,6.69,High
+SHC000391,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Laterite,2022-08-14,5.29,1.5,0.25,311.8,Medium,16.9,Medium,336.0,High,11.2,Medium,1.18,Medium,0.97,Medium,7.44,Medium,1.14,High,7.47,High
+SHC000392,Karnataka,Mysuru,Nanjangud,Kharif,Alluvial,2023-12-10,7.27,0.77,0.31,324.8,Medium,28.0,High,399.3,High,12.7,Medium,0.96,Medium,0.4,Low,24.25,High,2.86,High,22.73,High
+SHC000393,Bihar,Muzaffarpur,Sakra,Zaid,Black (Regur),2022-03-30,6.65,1.35,1.06,215.2,Low,31.0,High,274.4,Medium,5.5,Low,1.34,High,1.76,High,8.94,Medium,1.36,High,6.34,High
+SHC000394,Bihar,Muzaffarpur,Sakra,Kharif,Sandy Loam,2022-01-06,6.67,0.21,1.19,442.7,Medium,32.7,High,258.8,Medium,18.8,Medium,2.45,High,1.42,High,4.74,Medium,1.54,High,2.99,Medium
+SHC000395,Punjab,Ludhiana,Sahnewal,Zaid,Clay Loam,2023-02-21,8.8,0.42,0.5,405.0,Medium,10.0,Low,281.5,High,15.7,Medium,2.14,High,1.73,High,22.92,High,0.17,Low,11.92,High
+SHC000396,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Laterite,2022-07-09,8.16,0.99,0.66,398.7,Medium,52.3,High,109.7,Low,36.3,High,1.07,Medium,0.16,Low,13.93,High,0.88,High,23.71,High
+SHC000397,Bihar,Patna,Masaurhi,Zaid,Black (Regur),2024-03-17,7.74,1.59,0.54,530.2,Medium,33.3,High,462.2,High,17.7,Medium,0.25,Low,0.83,Medium,15.03,High,0.22,Medium,9.79,High
+SHC000398,Gujarat,Anand,Petlad,Zaid,Clay Loam,2022-03-10,7.24,1.96,0.34,267.4,Low,34.7,High,352.6,High,30.8,High,2.28,High,1.76,High,21.68,High,2.28,High,19.26,High
+SHC000399,Karnataka,Mysuru,Nanjangud,Rabi,Red,2023-05-31,7.72,0.77,0.26,271.9,Low,31.7,High,301.2,High,9.3,Low,2.16,High,1.39,High,16.92,High,0.95,High,15.9,High
+SHC000400,West Bengal,Bardhaman,Kalna,Zaid,Alluvial,2022-07-12,8.57,1.2,0.28,515.1,Medium,20.9,Medium,481.8,High,8.8,Low,0.9,Medium,1.42,High,15.9,High,2.64,High,13.5,High
+SHC000401,Gujarat,Anand,Petlad,Kharif,Red,2023-03-03,8.88,1.4,0.33,272.5,Low,29.4,High,350.8,High,15.2,Medium,0.28,Low,1.76,High,8.51,Medium,2.85,High,16.47,High
+SHC000402,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Red,2023-11-03,7.58,0.88,0.79,426.6,Medium,51.3,High,267.0,Medium,15.6,Medium,0.48,Low,1.6,High,6.81,Medium,0.85,High,12.62,High
+SHC000403,Karnataka,Belagavi,Athani,Kharif,Black (Regur),2022-12-28,6.14,2.39,0.82,190.7,Low,34.4,High,156.6,Medium,11.1,Medium,2.15,High,1.82,High,24.24,High,0.57,High,3.81,Medium
+SHC000404,Karnataka,Mysuru,Nanjangud,Zaid,Black (Regur),2023-03-28,6.04,0.54,0.76,135.3,Low,22.4,Medium,224.4,Medium,18.1,Medium,1.67,High,0.41,Low,10.44,High,2.77,High,10.71,High
+SHC000405,Rajasthan,Sriganganagar,Padampur,Kharif,Laterite,2022-11-24,5.62,2.43,0.75,343.3,Medium,40.6,High,204.1,Medium,36.4,High,2.91,High,1.53,High,29.83,High,2.03,High,20.19,High
+SHC000406,Chhattisgarh,Raipur,Arang,Rabi,Red,2023-12-07,5.45,1.25,0.24,418.3,Medium,11.4,Medium,90.4,Low,26.6,High,0.74,Medium,0.78,Medium,11.14,High,1.86,High,5.68,High
+SHC000407,Rajasthan,Kota,Ramganjmandi,Kharif,Red,2022-07-20,5.09,1.39,0.65,415.5,Medium,9.8,Low,295.0,High,11.8,Medium,1.02,Medium,1.25,High,28.42,High,2.73,High,9.67,High
+SHC000408,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Laterite,2023-01-14,6.54,0.13,0.54,255.6,Low,29.5,High,315.6,High,12.5,Medium,2.67,High,1.51,High,13.64,High,1.38,High,4.93,Medium
+SHC000409,Chhattisgarh,Raipur,Arang,Rabi,Clay Loam,2023-03-01,5.56,1.51,0.29,211.4,Low,31.1,High,444.4,High,39.5,High,0.29,Low,1.92,High,23.17,High,0.36,Medium,10.83,High
+SHC000410,Maharashtra,Pune,Baramati,Rabi,Black (Regur),2023-07-24,6.85,1.46,1.11,207.7,Low,50.8,High,201.6,Medium,22.2,High,2.49,High,0.67,Medium,18.39,High,1.53,High,18.76,High
+SHC000411,Maharashtra,Nashik,Niphad,Kharif,Alluvial,2022-06-07,6.05,2.39,1.03,327.9,Medium,41.0,High,454.9,High,19.6,Medium,1.53,High,1.41,High,8.85,Medium,0.45,Medium,7.65,High
+SHC000412,Haryana,Karnal,Nilokheri,Zaid,Clay Loam,2023-01-06,7.32,1.46,1.07,396.3,Medium,31.2,High,371.6,High,9.2,Low,1.59,High,1.19,High,25.67,High,0.57,High,2.4,Medium
+SHC000413,Karnataka,Mysuru,Nanjangud,Rabi,Clay Loam,2022-05-19,6.43,0.23,0.56,399.9,Medium,57.5,High,100.5,Low,15.2,Medium,1.95,High,0.25,Low,7.43,Medium,1.92,High,19.35,High
+SHC000414,Gujarat,Rajkot,Gondal,Kharif,Sandy Loam,2022-11-27,8.49,2.08,0.88,252.5,Low,42.7,High,369.1,High,8.4,Low,1.78,High,1.66,High,2.36,Low,1.6,High,9.95,High
+SHC000415,Rajasthan,Sriganganagar,Padampur,Rabi,Red,2022-06-16,5.41,0.47,0.42,202.9,Low,54.3,High,337.6,High,34.1,High,1.62,High,1.11,High,17.43,High,2.29,High,3.74,Medium
+SHC000416,Tamil Nadu,Coimbatore,Pollachi,Kharif,Alluvial,2024-04-18,5.52,0.14,0.55,424.1,Medium,12.6,Medium,265.6,Medium,39.6,High,1.62,High,1.94,High,6.82,Medium,0.98,High,18.87,High
+SHC000417,Uttar Pradesh,Meerut,Sardhana,Kharif,Black (Regur),2024-05-27,7.78,1.75,0.51,212.3,Low,59.0,High,258.4,Medium,31.7,High,0.42,Low,0.14,Low,15.56,High,1.35,High,5.71,High
+SHC000418,Punjab,Amritsar,Ajnala,Zaid,Sandy Loam,2023-08-31,5.24,0.39,0.45,149.1,Low,41.7,High,396.9,High,32.4,High,2.77,High,0.49,Low,27.23,High,0.64,High,9.44,High
+SHC000419,Haryana,Karnal,Nilokheri,Kharif,Clay Loam,2022-10-12,8.8,0.93,0.36,340.3,Medium,45.1,High,181.6,Medium,25.0,High,0.39,Low,1.2,High,2.39,Low,0.73,High,5.6,High
+SHC000420,Karnataka,Belagavi,Athani,Kharif,Sandy Loam,2022-01-05,8.89,0.34,0.41,341.8,Medium,43.9,High,233.9,Medium,25.6,High,1.38,High,1.92,High,7.06,Medium,1.13,High,10.11,High
+SHC000421,Madhya Pradesh,Bhopal,Berasia,Zaid,Black (Regur),2023-02-22,5.45,2.46,0.32,168.5,Low,12.5,Medium,400.2,High,29.7,High,1.72,High,0.18,Low,11.19,High,0.44,Medium,7.81,High
+SHC000422,Gujarat,Rajkot,Gondal,Zaid,Red,2023-12-05,8.9,1.17,0.75,247.9,Low,52.0,High,159.3,Medium,7.4,Low,2.54,High,1.0,Medium,21.02,High,0.62,High,24.97,High
+SHC000423,Rajasthan,Sriganganagar,Padampur,Zaid,Alluvial,2023-02-10,6.75,1.68,0.29,183.1,Low,27.0,High,328.0,High,8.6,Low,2.78,High,1.96,High,3.81,Low,2.93,High,9.13,High
+SHC000424,Gujarat,Rajkot,Gondal,Rabi,Alluvial,2022-08-27,8.35,1.84,0.48,433.9,Medium,37.0,High,194.6,Medium,32.6,High,1.97,High,0.86,Medium,15.32,High,1.85,High,10.71,High
+SHC000425,Rajasthan,Sriganganagar,Padampur,Zaid,Red,2022-05-31,8.07,0.36,0.45,338.8,Medium,39.6,High,136.5,Medium,8.5,Low,0.25,Low,0.23,Low,20.99,High,2.92,High,10.18,High
+SHC000426,West Bengal,Bardhaman,Kalna,Rabi,Black (Regur),2022-11-07,7.49,0.33,0.28,450.7,Medium,47.2,High,412.9,High,12.1,Medium,2.02,High,1.03,High,9.33,Medium,1.1,High,21.63,High
+SHC000427,Bihar,Patna,Masaurhi,Kharif,Alluvial,2023-03-17,8.52,0.39,0.65,495.3,Medium,29.3,High,95.1,Low,11.2,Medium,2.01,High,1.58,High,26.77,High,0.58,High,11.34,High
+SHC000428,Karnataka,Belagavi,Athani,Zaid,Laterite,2023-05-15,8.06,1.47,0.69,363.7,Medium,34.7,High,277.3,Medium,24.7,High,0.55,Low,0.21,Low,9.37,Medium,1.81,High,10.07,High
+SHC000429,West Bengal,Bardhaman,Kalna,Rabi,Red,2022-11-25,5.25,1.52,0.33,281.2,Medium,49.5,High,325.3,High,31.8,High,1.91,High,0.82,Medium,13.99,High,2.98,High,10.89,High
+SHC000430,Punjab,Amritsar,Ajnala,Zaid,Black (Regur),2022-09-11,5.94,0.85,0.28,422.7,Medium,52.8,High,128.1,Medium,10.9,Medium,1.66,High,0.17,Low,20.42,High,1.33,High,13.35,High
+SHC000431,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Alluvial,2023-12-14,6.88,0.15,0.52,371.0,Medium,22.7,Medium,121.0,Medium,22.1,High,2.1,High,0.49,Low,15.91,High,2.45,High,17.02,High
+SHC000432,Madhya Pradesh,Indore,Depalpur,Zaid,Red,2023-01-08,8.88,0.58,0.84,548.6,Medium,9.1,Low,437.1,High,12.5,Medium,0.87,Medium,0.66,Medium,18.06,High,2.43,High,15.99,High
+SHC000433,Haryana,Karnal,Nilokheri,Zaid,Sandy Loam,2022-04-08,7.37,0.76,0.77,353.7,Medium,28.5,High,225.9,Medium,7.7,Low,2.49,High,1.06,High,10.4,High,2.02,High,8.52,High
+SHC000434,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Red,2023-10-02,7.06,1.71,0.75,507.6,Medium,39.5,High,296.8,High,11.5,Medium,1.55,High,1.36,High,25.07,High,2.82,High,7.43,High
+SHC000435,Gujarat,Anand,Petlad,Zaid,Sandy Loam,2024-05-23,8.08,1.14,0.77,395.8,Medium,33.7,High,233.0,Medium,10.2,Medium,0.54,Low,1.4,High,10.41,High,1.36,High,8.65,High
+SHC000436,Haryana,Karnal,Nilokheri,Zaid,Black (Regur),2024-05-16,6.65,2.08,0.85,232.8,Low,38.1,High,250.5,Medium,9.0,Low,0.66,Medium,0.57,Medium,25.16,High,1.45,High,14.44,High
+SHC000437,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Clay Loam,2022-02-07,5.81,0.75,0.23,467.5,Medium,20.3,Medium,311.3,High,27.6,High,0.22,Low,1.47,High,23.9,High,0.26,Medium,22.52,High
+SHC000438,Karnataka,Mysuru,Nanjangud,Zaid,Red,2024-06-06,5.25,2.39,1.1,415.5,Medium,53.7,High,246.7,Medium,34.4,High,2.54,High,0.55,Medium,17.99,High,1.55,High,3.9,Medium
+SHC000439,West Bengal,Bardhaman,Kalna,Zaid,Sandy Loam,2022-09-15,6.99,0.32,0.8,460.2,Medium,22.2,Medium,429.6,High,30.8,High,2.44,High,1.51,High,28.19,High,0.73,High,3.56,Medium
+SHC000440,Madhya Pradesh,Bhopal,Berasia,Rabi,Laterite,2023-02-23,6.02,1.51,0.69,284.9,Medium,57.2,High,212.9,Medium,19.8,Medium,2.08,High,1.93,High,26.62,High,2.82,High,9.71,High
+SHC000441,Odisha,Cuttack,Athagarh,Rabi,Red,2022-01-22,7.58,2.27,0.23,445.4,Medium,48.9,High,103.0,Low,37.1,High,2.05,High,0.58,Medium,12.77,High,1.95,High,17.81,High
+SHC000442,West Bengal,Bardhaman,Kalna,Kharif,Sandy Loam,2024-06-06,5.95,1.16,0.21,542.7,Medium,56.0,High,465.5,High,15.5,Medium,2.82,High,1.54,High,10.33,High,2.59,High,4.85,Medium
+SHC000443,Tamil Nadu,Coimbatore,Pollachi,Zaid,Red,2024-06-19,8.25,1.65,0.99,240.6,Low,9.4,Low,407.4,High,22.2,High,2.24,High,1.86,High,11.32,High,1.32,High,23.05,High
+SHC000444,Uttar Pradesh,Meerut,Sardhana,Kharif,Clay Loam,2022-09-25,7.03,0.94,0.8,477.9,Medium,45.6,High,270.4,Medium,6.0,Low,0.25,Low,1.32,High,19.64,High,2.39,High,4.27,Medium
+SHC000445,Telangana,Nalgonda,Miryalaguda,Kharif,Clay Loam,2022-11-09,6.25,0.3,0.36,347.2,Medium,58.3,High,428.9,High,31.7,High,2.56,High,1.4,High,24.19,High,1.03,High,12.48,High
+SHC000446,Chhattisgarh,Raipur,Arang,Kharif,Red,2022-06-27,7.75,2.08,1.0,207.4,Low,27.8,High,156.4,Medium,35.7,High,2.84,High,1.78,High,8.29,Medium,2.85,High,23.15,High
+SHC000447,Gujarat,Anand,Petlad,Zaid,Clay Loam,2022-08-23,8.63,2.44,0.4,428.6,Medium,14.3,Medium,248.4,Medium,20.0,Medium,0.85,Medium,0.27,Low,12.3,High,2.85,High,3.82,Medium
+SHC000448,Odisha,Cuttack,Athagarh,Zaid,Laterite,2024-03-02,8.68,1.19,0.87,172.1,Low,44.2,High,160.0,Medium,35.2,High,2.37,High,0.65,Medium,15.84,High,0.48,Medium,21.55,High
+SHC000449,Gujarat,Rajkot,Gondal,Kharif,Red,2024-01-15,7.71,1.1,0.61,184.2,Low,21.0,Medium,190.0,Medium,26.6,High,2.73,High,0.8,Medium,21.16,High,1.43,High,1.25,Low
+SHC000450,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Clay Loam,2023-02-12,7.75,1.81,0.91,443.9,Medium,19.1,Medium,120.0,Medium,7.1,Low,1.07,Medium,0.55,Medium,27.43,High,2.99,High,23.54,High
+SHC000451,Gujarat,Rajkot,Gondal,Zaid,Clay Loam,2024-04-09,5.18,0.71,0.82,253.1,Low,26.7,High,235.8,Medium,38.9,High,1.72,High,1.2,High,9.29,Medium,1.56,High,23.33,High
+SHC000452,Tamil Nadu,Coimbatore,Pollachi,Kharif,Alluvial,2022-11-21,7.84,1.14,0.46,257.8,Low,58.8,High,289.7,High,39.1,High,0.91,Medium,0.79,Medium,14.04,High,2.72,High,7.32,High
+SHC000453,Maharashtra,Pune,Baramati,Zaid,Red,2023-03-23,8.57,0.86,1.19,456.0,Medium,13.3,Medium,438.3,High,28.0,High,2.41,High,0.2,Low,6.16,Medium,0.77,High,1.86,Low
+SHC000454,Maharashtra,Pune,Baramati,Kharif,Clay Loam,2023-04-24,6.75,2.49,1.13,137.9,Low,24.6,Medium,377.8,High,22.0,High,1.53,High,1.71,High,26.27,High,0.46,Medium,3.25,Medium
+SHC000455,Karnataka,Belagavi,Athani,Kharif,Black (Regur),2024-02-07,7.03,0.75,1.09,377.7,Medium,37.1,High,488.1,High,23.4,High,1.76,High,0.89,Medium,4.15,Low,2.33,High,17.25,High
+SHC000456,Karnataka,Mysuru,Nanjangud,Kharif,Red,2023-11-29,8.93,0.39,0.57,528.8,Medium,10.8,Low,215.9,Medium,6.0,Low,1.43,High,1.44,High,15.44,High,1.92,High,7.46,High
+SHC000457,West Bengal,Bardhaman,Kalna,Kharif,Red,2022-02-14,7.62,2.38,0.52,441.9,Medium,45.4,High,482.1,High,24.9,High,0.71,Medium,0.19,Low,20.02,High,1.04,High,2.33,Medium
+SHC000458,Haryana,Karnal,Nilokheri,Zaid,Sandy Loam,2023-01-26,5.37,0.71,0.44,459.2,Medium,26.9,High,88.6,Low,12.3,Medium,1.23,High,0.86,Medium,20.12,High,2.87,High,4.7,Medium
+SHC000459,Karnataka,Belagavi,Athani,Rabi,Laterite,2024-01-24,8.23,0.84,0.88,177.8,Low,41.6,High,429.5,High,22.9,High,1.52,High,1.78,High,15.34,High,1.73,High,11.15,High
+SHC000460,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Sandy Loam,2022-07-10,6.74,1.12,0.24,270.4,Low,30.5,High,174.2,Medium,29.0,High,0.55,Low,1.04,High,19.63,High,1.62,High,7.98,High
+SHC000461,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Laterite,2022-11-04,5.59,0.41,1.1,490.3,Medium,33.8,High,204.1,Medium,6.7,Low,0.32,Low,0.19,Low,5.01,Medium,1.33,High,3.27,Medium
+SHC000462,West Bengal,Bardhaman,Kalna,Zaid,Sandy Loam,2024-04-12,6.01,0.71,0.28,341.5,Medium,11.3,Medium,357.9,High,11.3,Medium,0.63,Medium,0.85,Medium,4.33,Low,2.64,High,8.14,High
+SHC000463,Bihar,Muzaffarpur,Sakra,Zaid,Laterite,2024-02-15,7.68,1.6,0.47,545.4,Medium,52.9,High,158.6,Medium,11.5,Medium,2.27,High,1.25,High,26.41,High,0.41,Medium,13.83,High
+SHC000464,Punjab,Ludhiana,Sahnewal,Rabi,Alluvial,2022-01-14,5.69,1.25,0.89,502.3,Medium,58.1,High,332.8,High,22.0,High,1.89,High,1.95,High,12.1,High,2.05,High,17.57,High
+SHC000465,Telangana,Nalgonda,Miryalaguda,Rabi,Alluvial,2022-05-09,5.54,0.56,1.02,426.3,Medium,15.4,Medium,91.3,Low,21.8,High,0.52,Low,0.56,Medium,25.58,High,2.59,High,13.93,High
+SHC000466,Haryana,Karnal,Nilokheri,Rabi,Laterite,2022-06-01,6.9,0.15,0.37,187.1,Low,43.6,High,484.8,High,21.5,High,2.59,High,1.21,High,7.64,Medium,1.75,High,21.01,High
+SHC000467,Punjab,Amritsar,Ajnala,Rabi,Alluvial,2022-04-16,7.52,1.81,1.18,493.4,Medium,45.5,High,330.3,High,24.4,High,0.94,Medium,1.03,High,15.61,High,1.81,High,15.68,High
+SHC000468,West Bengal,Bardhaman,Kalna,Rabi,Black (Regur),2024-01-02,5.24,0.15,0.78,363.4,Medium,19.7,Medium,352.3,High,36.1,High,0.44,Low,1.28,High,20.09,High,1.4,High,11.47,High
+SHC000469,Madhya Pradesh,Indore,Depalpur,Rabi,Clay Loam,2022-07-16,6.88,1.15,0.71,378.6,Medium,42.7,High,467.1,High,34.9,High,2.17,High,0.99,Medium,26.73,High,2.2,High,10.37,High
+SHC000470,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Clay Loam,2024-01-23,6.44,1.23,1.17,191.3,Low,16.4,Medium,370.1,High,8.0,Low,1.5,High,0.43,Low,6.38,Medium,1.53,High,20.04,High
+SHC000471,Rajasthan,Sriganganagar,Padampur,Rabi,Black (Regur),2022-08-03,7.23,2.5,0.56,234.8,Low,42.2,High,153.4,Medium,35.1,High,1.56,High,1.63,High,11.46,High,0.43,Medium,6.44,High
+SHC000472,Bihar,Patna,Masaurhi,Kharif,Laterite,2022-09-22,8.97,1.98,0.97,458.8,Medium,35.6,High,456.5,High,34.9,High,2.63,High,1.25,High,4.92,Medium,0.25,Medium,23.71,High
+SHC000473,Tamil Nadu,Coimbatore,Pollachi,Kharif,Alluvial,2024-03-11,7.44,1.98,1.15,482.4,Medium,7.3,Low,124.3,Medium,27.0,High,2.63,High,1.83,High,6.4,Medium,0.95,High,11.6,High
+SHC000474,Rajasthan,Kota,Ramganjmandi,Rabi,Clay Loam,2024-06-10,5.4,1.65,0.53,180.6,Low,51.7,High,264.4,Medium,19.6,Medium,2.33,High,0.57,Medium,24.66,High,1.09,High,13.12,High
+SHC000475,Haryana,Karnal,Nilokheri,Rabi,Red,2024-01-03,8.02,0.97,0.86,186.7,Low,46.4,High,257.1,Medium,13.0,Medium,2.43,High,0.89,Medium,13.46,High,1.43,High,21.46,High
+SHC000476,West Bengal,Bardhaman,Kalna,Rabi,Alluvial,2023-03-30,5.58,0.12,1.01,535.2,Medium,9.7,Low,212.2,Medium,39.4,High,0.58,Low,0.22,Low,23.26,High,2.01,High,16.4,High
+SHC000477,Bihar,Muzaffarpur,Sakra,Kharif,Clay Loam,2024-01-01,8.2,2.2,1.17,304.5,Medium,53.7,High,374.3,High,35.6,High,2.19,High,0.7,Medium,11.64,High,2.5,High,22.61,High
+SHC000478,Gujarat,Rajkot,Gondal,Kharif,Clay Loam,2023-02-18,6.78,0.59,0.74,466.9,Medium,40.9,High,372.9,High,36.1,High,2.37,High,0.87,Medium,7.52,Medium,0.97,High,1.89,Low
+SHC000479,Karnataka,Mysuru,Nanjangud,Rabi,Clay Loam,2024-01-07,7.96,0.4,1.19,244.9,Low,10.1,Low,311.8,High,23.2,High,2.3,High,0.4,Low,2.78,Low,2.41,High,15.22,High
+SHC000480,Maharashtra,Nashik,Niphad,Rabi,Clay Loam,2023-03-09,8.95,0.37,0.26,284.1,Medium,39.5,High,228.9,Medium,6.7,Low,1.99,High,0.34,Low,10.34,High,2.24,High,11.88,High
+SHC000481,Maharashtra,Nashik,Niphad,Zaid,Sandy Loam,2023-08-03,7.86,2.35,0.87,491.6,Medium,17.9,Medium,205.7,Medium,28.3,High,2.46,High,1.19,High,5.92,Medium,1.2,High,18.7,High
+SHC000482,Uttar Pradesh,Meerut,Sardhana,Rabi,Sandy Loam,2023-08-20,5.77,1.97,0.65,184.5,Low,28.4,High,253.1,Medium,8.2,Low,1.33,High,0.35,Low,8.01,Medium,0.33,Medium,17.24,High
+SHC000483,Telangana,Nalgonda,Miryalaguda,Zaid,Sandy Loam,2023-06-16,8.12,2.19,0.78,400.0,Medium,59.8,High,369.4,High,38.2,High,2.22,High,0.89,Medium,6.56,Medium,1.57,High,12.63,High
+SHC000484,Tamil Nadu,Coimbatore,Pollachi,Kharif,Clay Loam,2023-06-10,8.45,0.38,0.41,328.3,Medium,46.1,High,476.5,High,17.9,Medium,2.86,High,1.24,High,13.44,High,0.45,Medium,14.72,High
+SHC000485,Punjab,Amritsar,Ajnala,Zaid,Black (Regur),2022-05-01,6.49,2.48,0.5,333.8,Medium,48.5,High,139.7,Medium,25.6,High,0.24,Low,1.8,High,26.89,High,0.73,High,20.66,High
+SHC000486,Rajasthan,Sriganganagar,Padampur,Kharif,Alluvial,2023-07-15,6.39,2.19,0.62,372.1,Medium,36.1,High,458.1,High,32.3,High,1.48,High,1.47,High,18.96,High,2.31,High,13.11,High
+SHC000487,Tamil Nadu,Coimbatore,Pollachi,Rabi,Clay Loam,2023-04-05,5.6,1.85,0.29,394.9,Medium,39.3,High,242.6,Medium,36.5,High,1.08,Medium,0.19,Low,20.77,High,1.38,High,7.66,High
+SHC000488,Haryana,Karnal,Nilokheri,Kharif,Clay Loam,2022-01-26,7.29,2.01,0.91,366.9,Medium,11.8,Medium,314.9,High,11.7,Medium,1.89,High,1.2,High,3.48,Low,1.75,High,5.55,High
+SHC000489,Rajasthan,Sriganganagar,Padampur,Zaid,Alluvial,2022-05-04,7.63,1.38,1.16,241.0,Low,16.3,Medium,428.5,High,34.4,High,1.78,High,0.26,Low,16.94,High,1.03,High,15.13,High
+SHC000490,Rajasthan,Sriganganagar,Padampur,Kharif,Red,2023-03-24,5.72,0.16,0.73,288.1,Medium,10.0,Low,491.5,High,24.0,High,0.93,Medium,0.45,Low,23.51,High,0.55,High,23.85,High
+SHC000491,West Bengal,Bardhaman,Kalna,Kharif,Alluvial,2023-09-22,8.84,0.54,0.91,251.1,Low,10.4,Low,139.8,Medium,36.3,High,0.85,Medium,1.89,High,27.19,High,0.25,Medium,6.75,High
+SHC000492,Gujarat,Rajkot,Gondal,Zaid,Black (Regur),2023-05-20,7.03,1.31,1.15,238.5,Low,22.5,Medium,312.3,High,7.3,Low,0.18,Low,1.3,High,27.58,High,0.15,Low,14.3,High
+SHC000493,Bihar,Muzaffarpur,Sakra,Zaid,Alluvial,2022-09-10,8.05,1.66,0.33,370.0,Medium,29.5,High,435.4,High,22.5,High,2.37,High,0.37,Low,17.13,High,0.59,High,6.88,High
+SHC000494,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Laterite,2022-02-12,5.0,1.22,1.03,247.3,Low,58.5,High,80.2,Low,37.7,High,1.5,High,1.24,High,25.51,High,1.2,High,9.43,High
+SHC000495,Gujarat,Anand,Petlad,Kharif,Sandy Loam,2024-05-10,7.04,0.21,0.94,367.8,Medium,21.5,Medium,246.0,Medium,9.3,Low,0.5,Low,1.16,High,9.82,Medium,1.35,High,15.65,High
+SHC000496,Karnataka,Mysuru,Nanjangud,Zaid,Red,2023-10-13,6.05,1.91,0.65,228.2,Low,59.1,High,223.5,Medium,21.1,High,1.84,High,0.13,Low,21.37,High,1.97,High,1.05,Low
+SHC000497,Rajasthan,Sriganganagar,Padampur,Kharif,Alluvial,2023-11-20,5.69,1.43,0.9,335.1,Medium,26.6,High,114.1,Medium,35.7,High,1.99,High,1.12,High,26.99,High,2.47,High,11.68,High
+SHC000498,Uttar Pradesh,Meerut,Sardhana,Rabi,Laterite,2024-04-27,7.41,1.03,1.04,477.2,Medium,59.1,High,132.4,Medium,18.0,Medium,0.66,Medium,0.12,Low,22.81,High,2.3,High,17.33,High
+SHC000499,Odisha,Cuttack,Athagarh,Rabi,Black (Regur),2022-04-03,8.27,1.6,1.01,217.3,Low,58.9,High,486.3,High,6.3,Low,1.53,High,1.44,High,18.97,High,0.12,Low,24.62,High
+SHC000500,Gujarat,Anand,Petlad,Rabi,Alluvial,2024-06-09,6.11,1.3,0.37,205.3,Low,45.6,High,362.3,High,26.1,High,0.61,Medium,1.22,High,22.89,High,0.47,Medium,23.41,High
+SHC000501,Maharashtra,Nashik,Niphad,Zaid,Clay Loam,2024-03-12,6.1,2.13,0.22,546.7,Medium,42.3,High,338.1,High,28.8,High,2.66,High,0.1,Low,13.96,High,2.05,High,16.6,High
+SHC000502,Karnataka,Mysuru,Nanjangud,Rabi,Laterite,2022-10-08,5.49,1.34,0.7,347.6,Medium,7.4,Low,382.9,High,6.6,Low,2.76,High,1.11,High,10.85,High,1.24,High,9.03,High
+SHC000503,Bihar,Muzaffarpur,Sakra,Kharif,Clay Loam,2022-08-20,8.91,1.12,0.27,230.0,Low,14.0,Medium,210.5,Medium,26.9,High,0.38,Low,1.01,High,24.63,High,1.82,High,16.03,High
+SHC000504,Karnataka,Mysuru,Nanjangud,Rabi,Black (Regur),2022-04-21,6.89,2.4,1.03,481.5,Medium,33.6,High,179.4,Medium,7.6,Low,1.84,High,0.93,Medium,4.68,Medium,1.39,High,4.0,Medium
+SHC000505,Punjab,Amritsar,Ajnala,Kharif,Laterite,2022-11-17,8.56,1.76,0.98,147.3,Low,49.1,High,103.0,Low,26.4,High,1.35,High,0.29,Low,3.56,Low,0.25,Medium,21.4,High
+SHC000506,Telangana,Nalgonda,Miryalaguda,Kharif,Sandy Loam,2024-02-10,6.64,2.17,0.99,394.6,Medium,29.9,High,275.0,Medium,20.0,Medium,1.9,High,0.29,Low,20.23,High,2.06,High,1.62,Low
+SHC000507,Rajasthan,Kota,Ramganjmandi,Rabi,Sandy Loam,2022-07-17,5.43,0.13,0.91,380.9,Medium,51.2,High,459.8,High,9.4,Low,1.58,High,0.78,Medium,15.48,High,1.9,High,5.46,High
+SHC000508,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Alluvial,2022-05-11,6.25,1.15,1.16,451.9,Medium,22.1,Medium,451.8,High,32.1,High,0.53,Low,0.69,Medium,11.6,High,1.17,High,1.19,Low
+SHC000509,Bihar,Muzaffarpur,Sakra,Zaid,Clay Loam,2022-05-29,5.23,1.32,1.04,497.8,Medium,28.2,High,162.1,Medium,12.0,Medium,2.73,High,1.59,High,11.56,High,2.04,High,17.67,High
+SHC000510,Tamil Nadu,Coimbatore,Pollachi,Zaid,Clay Loam,2022-12-06,8.41,1.46,0.54,251.8,Low,23.1,Medium,124.0,Medium,35.7,High,2.74,High,1.04,High,27.76,High,1.95,High,17.64,High
+SHC000511,Tamil Nadu,Coimbatore,Pollachi,Zaid,Black (Regur),2022-09-02,6.92,1.94,1.01,475.2,Medium,25.7,High,248.1,Medium,33.9,High,0.12,Low,0.12,Low,12.02,High,1.71,High,4.42,Medium
+SHC000512,Tamil Nadu,Coimbatore,Pollachi,Kharif,Clay Loam,2023-08-23,8.65,0.96,1.18,207.6,Low,20.6,Medium,172.0,Medium,14.2,Medium,0.61,Medium,1.71,High,8.89,Medium,0.67,High,5.23,High
+SHC000513,Maharashtra,Pune,Baramati,Kharif,Alluvial,2024-05-01,7.71,1.01,0.99,168.8,Low,56.5,High,208.1,Medium,13.4,Medium,2.45,High,1.36,High,28.35,High,2.93,High,24.94,High
+SHC000514,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Alluvial,2022-05-02,5.58,2.32,0.99,204.3,Low,25.8,High,237.2,Medium,26.0,High,2.93,High,0.56,Medium,3.29,Low,1.89,High,5.54,High
+SHC000515,Bihar,Patna,Masaurhi,Rabi,Black (Regur),2022-12-02,5.99,1.61,0.48,175.6,Low,33.0,High,325.3,High,22.1,High,2.21,High,1.59,High,24.15,High,1.88,High,5.02,High
+SHC000516,Telangana,Nalgonda,Miryalaguda,Zaid,Sandy Loam,2023-01-19,6.99,1.21,0.52,284.5,Medium,43.2,High,380.6,High,22.3,High,0.88,Medium,0.86,Medium,27.79,High,1.79,High,1.88,Low
+SHC000517,Maharashtra,Nashik,Niphad,Kharif,Laterite,2024-06-02,5.94,0.62,0.63,285.9,Medium,13.6,Medium,433.8,High,13.9,Medium,0.35,Low,1.53,High,10.26,High,1.6,High,6.52,High
+SHC000518,Punjab,Amritsar,Ajnala,Rabi,Sandy Loam,2023-09-29,6.35,1.18,0.63,281.7,Medium,32.4,High,194.7,Medium,5.9,Low,1.38,High,0.6,Medium,4.12,Low,2.71,High,8.07,High
+SHC000519,Rajasthan,Kota,Ramganjmandi,Zaid,Sandy Loam,2023-10-22,5.31,0.76,0.43,172.2,Low,24.8,Medium,309.3,High,16.7,Medium,2.06,High,0.58,Medium,22.87,High,2.33,High,21.29,High
+SHC000520,Madhya Pradesh,Bhopal,Berasia,Zaid,Sandy Loam,2022-05-22,8.99,1.91,0.94,521.4,Medium,5.5,Low,205.8,Medium,33.8,High,2.37,High,0.87,Medium,13.36,High,1.78,High,16.73,High
+SHC000521,Rajasthan,Sriganganagar,Padampur,Zaid,Sandy Loam,2024-02-19,8.81,2.18,0.43,438.3,Medium,16.5,Medium,178.2,Medium,25.5,High,1.7,High,0.99,Medium,24.8,High,1.09,High,3.06,Medium
+SHC000522,Madhya Pradesh,Bhopal,Berasia,Rabi,Clay Loam,2023-03-04,5.84,1.18,0.76,284.9,Medium,36.8,High,133.9,Medium,38.0,High,0.13,Low,1.64,High,25.36,High,1.09,High,11.06,High
+SHC000523,West Bengal,Bardhaman,Kalna,Rabi,Clay Loam,2023-07-05,6.2,1.51,0.77,134.2,Low,12.7,Medium,490.4,High,39.8,High,1.75,High,1.62,High,27.59,High,1.76,High,10.38,High
+SHC000524,Telangana,Nalgonda,Miryalaguda,Kharif,Laterite,2022-03-07,7.14,0.55,0.31,370.6,Medium,29.8,High,455.8,High,8.3,Low,0.4,Low,1.15,High,2.9,Low,2.1,High,12.73,High
+SHC000525,Madhya Pradesh,Indore,Depalpur,Kharif,Alluvial,2023-01-31,6.14,0.66,0.86,150.8,Low,8.2,Low,297.8,High,11.0,Medium,2.59,High,0.88,Medium,6.4,Medium,0.42,Medium,13.87,High
+SHC000526,Rajasthan,Sriganganagar,Padampur,Zaid,Alluvial,2023-02-03,8.82,2.18,0.33,210.5,Low,28.8,High,378.1,High,21.6,High,1.85,High,1.88,High,18.45,High,1.56,High,17.44,High
+SHC000527,Maharashtra,Pune,Baramati,Kharif,Alluvial,2022-05-27,6.78,2.08,0.8,228.6,Low,23.1,Medium,319.1,High,22.2,High,1.44,High,0.17,Low,4.55,Medium,1.97,High,23.05,High
+SHC000528,Andhra Pradesh,Guntur,Tenali,Zaid,Clay Loam,2024-03-22,6.19,1.57,1.01,197.1,Low,18.7,Medium,458.0,High,30.7,High,1.43,High,1.83,High,7.14,Medium,1.75,High,10.45,High
+SHC000529,Punjab,Amritsar,Ajnala,Kharif,Black (Regur),2022-10-08,8.53,1.39,0.87,149.4,Low,45.0,High,458.9,High,36.8,High,1.29,High,1.55,High,5.39,Medium,1.17,High,19.13,High
+SHC000530,Rajasthan,Kota,Ramganjmandi,Rabi,Laterite,2023-04-07,5.66,0.6,0.24,131.8,Low,40.1,High,363.8,High,21.2,High,1.1,Medium,0.86,Medium,7.44,Medium,0.21,Medium,7.01,High
+SHC000531,Odisha,Cuttack,Athagarh,Kharif,Red,2023-11-18,7.99,1.26,0.27,361.3,Medium,18.3,Medium,479.0,High,9.9,Low,2.48,High,1.7,High,6.78,Medium,0.15,Low,3.41,Medium
+SHC000532,Karnataka,Belagavi,Athani,Kharif,Sandy Loam,2024-01-30,6.56,0.29,0.96,418.0,Medium,13.4,Medium,230.4,Medium,12.6,Medium,0.2,Low,1.38,High,8.05,Medium,2.12,High,21.08,High
+SHC000533,Rajasthan,Kota,Ramganjmandi,Zaid,Clay Loam,2024-01-04,7.64,0.35,0.89,315.4,Medium,37.9,High,100.4,Low,18.2,Medium,0.69,Medium,0.57,Medium,27.45,High,0.68,High,1.38,Low
+SHC000534,Punjab,Ludhiana,Sahnewal,Kharif,Red,2024-04-20,5.77,1.71,0.42,508.2,Medium,48.8,High,428.8,High,10.9,Medium,0.58,Low,0.89,Medium,5.02,Medium,1.05,High,14.49,High
+SHC000535,Madhya Pradesh,Bhopal,Berasia,Zaid,Black (Regur),2023-07-09,6.58,1.13,0.43,166.6,Low,22.8,Medium,86.3,Low,27.9,High,0.13,Low,0.5,Medium,8.16,Medium,2.01,High,7.68,High
+SHC000536,Gujarat,Rajkot,Gondal,Rabi,Alluvial,2022-03-10,8.54,1.09,0.97,339.8,Medium,59.5,High,379.3,High,32.7,High,2.77,High,1.18,High,9.05,Medium,0.37,Medium,8.78,High
+SHC000537,Gujarat,Anand,Petlad,Zaid,Laterite,2023-11-26,8.7,1.95,0.33,197.1,Low,46.9,High,368.8,High,39.2,High,2.03,High,0.23,Low,2.49,Low,2.75,High,11.77,High
+SHC000538,Rajasthan,Kota,Ramganjmandi,Zaid,Clay Loam,2022-08-27,7.01,1.79,0.21,129.3,Low,46.7,High,132.1,Medium,13.3,Medium,1.34,High,0.56,Medium,4.22,Low,0.5,Medium,12.97,High
+SHC000539,Madhya Pradesh,Bhopal,Berasia,Kharif,Laterite,2022-07-29,7.57,0.67,0.93,555.0,Medium,29.4,High,448.5,High,9.7,Low,1.02,Medium,1.6,High,3.11,Low,2.4,High,10.96,High
+SHC000540,Karnataka,Belagavi,Athani,Kharif,Black (Regur),2024-05-17,7.93,0.92,0.41,143.8,Low,55.5,High,495.1,High,33.1,High,2.12,High,0.52,Medium,26.44,High,1.61,High,5.41,High
+SHC000541,Gujarat,Anand,Petlad,Kharif,Alluvial,2024-06-09,6.97,2.39,0.25,556.5,Medium,56.6,High,132.7,Medium,11.1,Medium,1.69,High,1.61,High,7.72,Medium,1.57,High,11.23,High
+SHC000542,Tamil Nadu,Coimbatore,Pollachi,Rabi,Black (Regur),2024-01-09,5.79,1.12,0.81,253.4,Low,36.7,High,486.4,High,12.0,Medium,2.6,High,1.01,High,28.63,High,1.14,High,10.07,High
+SHC000543,Rajasthan,Sriganganagar,Padampur,Rabi,Laterite,2023-06-02,7.44,1.14,0.36,539.7,Medium,31.5,High,400.0,High,20.0,Medium,0.34,Low,1.82,High,10.41,High,1.66,High,14.27,High
+SHC000544,Madhya Pradesh,Indore,Depalpur,Rabi,Laterite,2023-04-20,6.22,0.78,0.76,331.6,Medium,23.3,Medium,380.2,High,11.9,Medium,2.76,High,0.11,Low,26.13,High,2.22,High,9.98,High
+SHC000545,Telangana,Nalgonda,Miryalaguda,Rabi,Laterite,2024-01-31,6.49,1.27,0.84,378.9,Medium,27.5,High,96.3,Low,37.3,High,1.22,High,1.17,High,7.44,Medium,1.37,High,7.13,High
+SHC000546,Chhattisgarh,Raipur,Arang,Rabi,Sandy Loam,2023-12-28,6.95,1.75,0.9,406.4,Medium,56.0,High,389.0,High,13.5,Medium,0.2,Low,1.64,High,19.67,High,2.06,High,17.74,High
+SHC000547,Gujarat,Anand,Petlad,Kharif,Red,2023-09-12,6.82,1.73,0.45,384.9,Medium,57.3,High,433.4,High,5.4,Low,2.34,High,1.32,High,27.67,High,1.25,High,15.07,High
+SHC000548,Haryana,Karnal,Nilokheri,Zaid,Black (Regur),2024-06-16,6.69,2.09,0.45,253.0,Low,58.2,High,356.6,High,18.4,Medium,0.99,Medium,0.88,Medium,26.54,High,2.21,High,3.13,Medium
+SHC000549,Gujarat,Anand,Petlad,Zaid,Red,2024-04-13,5.57,1.9,1.13,295.1,Medium,21.9,Medium,494.6,High,33.6,High,0.1,Low,0.23,Low,21.5,High,1.62,High,16.71,High
+SHC000550,Chhattisgarh,Raipur,Arang,Rabi,Black (Regur),2022-06-30,6.5,1.79,0.4,200.1,Low,57.2,High,269.3,Medium,33.5,High,0.64,Medium,0.21,Low,7.12,Medium,2.3,High,7.22,High
+SHC000551,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Clay Loam,2023-10-02,5.44,1.63,0.28,157.7,Low,11.9,Medium,107.0,Low,6.0,Low,0.78,Medium,1.02,High,23.29,High,0.13,Low,7.39,High
+SHC000552,Punjab,Ludhiana,Sahnewal,Zaid,Sandy Loam,2024-03-19,8.95,0.33,0.72,123.2,Low,38.2,High,494.5,High,31.6,High,2.8,High,1.0,Medium,11.44,High,1.35,High,9.9,High
+SHC000553,Karnataka,Mysuru,Nanjangud,Rabi,Black (Regur),2023-01-05,7.66,1.01,0.26,276.7,Low,23.2,Medium,122.1,Medium,21.0,High,2.13,High,1.48,High,26.86,High,0.5,Medium,15.45,High
+SHC000554,Rajasthan,Kota,Ramganjmandi,Rabi,Clay Loam,2024-02-09,8.26,0.98,0.82,409.9,Medium,31.1,High,253.5,Medium,11.6,Medium,2.96,High,1.92,High,24.75,High,0.15,Low,9.64,High
+SHC000555,Punjab,Amritsar,Ajnala,Zaid,Red,2023-11-26,6.78,1.56,0.6,389.5,Medium,9.5,Low,259.7,Medium,37.6,High,2.8,High,1.98,High,26.0,High,2.73,High,18.62,High
+SHC000556,Karnataka,Belagavi,Athani,Zaid,Black (Regur),2023-12-31,5.57,1.35,0.77,497.0,Medium,32.8,High,133.7,Medium,32.9,High,0.97,Medium,1.38,High,17.36,High,2.64,High,5.03,High
+SHC000557,Tamil Nadu,Coimbatore,Pollachi,Kharif,Laterite,2023-11-10,7.16,0.68,0.37,535.5,Medium,43.5,High,124.3,Medium,39.8,High,0.18,Low,1.87,High,11.14,High,1.21,High,7.73,High
+SHC000558,Chhattisgarh,Raipur,Arang,Rabi,Clay Loam,2023-05-03,8.81,1.71,0.87,526.0,Medium,39.8,High,286.6,High,32.8,High,1.07,Medium,0.53,Medium,18.13,High,2.78,High,2.55,Medium
+SHC000559,Karnataka,Mysuru,Nanjangud,Rabi,Clay Loam,2024-01-31,7.94,1.02,0.84,367.2,Medium,52.1,High,419.5,High,12.8,Medium,0.44,Low,0.27,Low,4.5,Medium,2.25,High,23.49,High
+SHC000560,Chhattisgarh,Raipur,Arang,Kharif,Sandy Loam,2023-01-12,5.51,0.85,0.58,444.2,Medium,22.1,Medium,327.8,High,11.6,Medium,1.23,High,0.91,Medium,23.6,High,2.41,High,23.41,High
+SHC000561,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Clay Loam,2023-09-09,7.36,0.36,0.21,495.0,Medium,22.4,Medium,422.8,High,15.4,Medium,0.73,Medium,1.39,High,6.13,Medium,0.92,High,18.93,High
+SHC000562,Odisha,Cuttack,Athagarh,Kharif,Sandy Loam,2022-11-24,6.24,2.48,0.32,558.6,Medium,43.9,High,280.9,High,34.0,High,1.54,High,1.44,High,12.55,High,2.95,High,9.0,High
+SHC000563,Odisha,Cuttack,Athagarh,Kharif,Clay Loam,2024-04-09,5.9,1.87,1.12,461.5,Medium,52.1,High,385.5,High,15.5,Medium,2.46,High,1.83,High,6.46,Medium,0.16,Low,10.41,High
+SHC000564,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Laterite,2022-12-23,8.03,1.04,0.73,244.5,Low,43.3,High,161.9,Medium,35.0,High,1.24,High,0.35,Low,23.06,High,1.78,High,20.32,High
+SHC000565,Odisha,Cuttack,Athagarh,Rabi,Laterite,2023-11-02,5.65,0.43,0.9,248.1,Low,13.0,Medium,171.6,Medium,31.2,High,2.23,High,0.12,Low,22.33,High,1.77,High,17.28,High
+SHC000566,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Laterite,2023-11-27,8.37,2.32,0.3,548.6,Medium,14.9,Medium,102.0,Low,39.3,High,1.99,High,1.23,High,29.15,High,1.92,High,10.7,High
+SHC000567,Punjab,Amritsar,Ajnala,Kharif,Black (Regur),2023-02-11,6.95,1.75,1.15,407.2,Medium,25.6,High,370.6,High,32.8,High,2.01,High,1.58,High,26.22,High,1.99,High,7.61,High
+SHC000568,Gujarat,Anand,Petlad,Rabi,Red,2022-01-12,5.48,0.3,0.69,414.3,Medium,33.0,High,89.7,Low,25.1,High,1.76,High,0.62,Medium,22.87,High,2.4,High,5.35,High
+SHC000569,Rajasthan,Sriganganagar,Padampur,Zaid,Clay Loam,2023-03-21,6.19,0.4,0.53,434.1,Medium,52.4,High,305.8,High,19.2,Medium,2.13,High,0.85,Medium,24.89,High,2.37,High,13.72,High
+SHC000570,Haryana,Karnal,Nilokheri,Zaid,Sandy Loam,2023-07-06,7.85,2.0,0.32,451.3,Medium,58.1,High,457.0,High,11.3,Medium,1.84,High,0.44,Low,17.53,High,2.42,High,3.95,Medium
+SHC000571,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Black (Regur),2023-10-31,5.64,1.45,1.05,135.4,Low,58.9,High,292.6,High,17.7,Medium,1.68,High,0.9,Medium,28.47,High,0.1,Low,8.21,High
+SHC000572,Rajasthan,Kota,Ramganjmandi,Rabi,Clay Loam,2023-07-01,6.78,1.48,0.9,350.0,Medium,59.2,High,227.9,Medium,23.8,High,0.71,Medium,0.29,Low,24.95,High,0.79,High,5.51,High
+SHC000573,Karnataka,Belagavi,Athani,Kharif,Black (Regur),2023-09-09,7.21,1.52,0.48,440.8,Medium,28.2,High,310.9,High,14.1,Medium,1.98,High,0.41,Low,14.77,High,2.84,High,17.24,High
+SHC000574,Odisha,Cuttack,Athagarh,Kharif,Sandy Loam,2022-07-28,5.28,1.86,1.2,426.6,Medium,15.6,Medium,236.3,Medium,28.0,High,2.48,High,1.25,High,13.75,High,0.55,High,24.82,High
+SHC000575,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Alluvial,2023-09-11,5.99,0.75,0.73,421.0,Medium,27.4,High,218.3,Medium,8.1,Low,2.74,High,1.58,High,6.1,Medium,2.41,High,7.57,High
+SHC000576,Uttar Pradesh,Meerut,Sardhana,Rabi,Black (Regur),2023-01-23,8.81,1.98,0.32,351.6,Medium,53.2,High,327.3,High,33.2,High,0.38,Low,0.76,Medium,18.02,High,0.92,High,7.51,High
+SHC000577,Uttar Pradesh,Meerut,Sardhana,Kharif,Black (Regur),2022-11-22,8.79,1.03,0.55,446.2,Medium,58.2,High,303.3,High,25.8,High,2.56,High,1.01,High,5.57,Medium,0.13,Low,13.33,High
+SHC000578,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Black (Regur),2022-05-27,6.52,1.87,0.25,439.2,Medium,58.6,High,377.2,High,13.7,Medium,1.87,High,1.44,High,7.13,Medium,2.96,High,20.16,High
+SHC000579,Rajasthan,Kota,Ramganjmandi,Rabi,Red,2023-03-15,7.08,1.82,1.12,220.7,Low,40.0,High,116.5,Medium,15.7,Medium,2.33,High,1.71,High,19.77,High,0.32,Medium,6.76,High
+SHC000580,Haryana,Karnal,Nilokheri,Kharif,Sandy Loam,2022-02-28,5.34,0.79,1.13,475.7,Medium,5.6,Low,478.3,High,28.7,High,2.8,High,0.36,Low,15.94,High,2.09,High,17.24,High
+SHC000581,Bihar,Patna,Masaurhi,Zaid,Alluvial,2023-02-20,5.06,0.56,1.03,123.2,Low,28.4,High,304.4,High,17.1,Medium,2.98,High,1.36,High,27.77,High,3.0,High,23.68,High
+SHC000582,West Bengal,Bardhaman,Kalna,Zaid,Alluvial,2023-09-14,6.79,0.5,1.13,456.0,Medium,54.7,High,153.4,Medium,17.8,Medium,0.49,Low,0.77,Medium,3.43,Low,1.54,High,5.09,High
+SHC000583,Uttar Pradesh,Meerut,Sardhana,Rabi,Clay Loam,2022-09-13,8.33,2.14,1.06,247.6,Low,31.6,High,191.2,Medium,5.1,Low,1.93,High,0.85,Medium,27.85,High,2.79,High,24.02,High
+SHC000584,Rajasthan,Kota,Ramganjmandi,Kharif,Laterite,2023-09-25,8.39,0.24,0.21,322.6,Medium,21.4,Medium,125.0,Medium,17.2,Medium,2.2,High,0.86,Medium,2.25,Low,1.35,High,5.74,High
+SHC000585,Rajasthan,Kota,Ramganjmandi,Zaid,Black (Regur),2023-02-25,5.5,1.27,0.36,408.9,Medium,17.4,Medium,246.1,Medium,15.5,Medium,1.34,High,0.45,Low,24.72,High,0.42,Medium,11.53,High
+SHC000586,Tamil Nadu,Coimbatore,Pollachi,Kharif,Black (Regur),2022-12-29,7.99,0.11,1.08,432.1,Medium,11.1,Medium,199.7,Medium,9.7,Low,1.32,High,0.73,Medium,2.88,Low,2.03,High,23.76,High
+SHC000587,West Bengal,Bardhaman,Kalna,Rabi,Alluvial,2023-03-08,6.96,1.29,0.88,176.1,Low,46.3,High,407.7,High,19.0,Medium,2.21,High,1.51,High,25.12,High,0.48,Medium,23.98,High
+SHC000588,Punjab,Ludhiana,Sahnewal,Kharif,Black (Regur),2022-12-19,7.0,1.94,0.44,418.5,Medium,23.8,Medium,490.1,High,30.8,High,1.36,High,0.65,Medium,15.61,High,2.31,High,6.95,High
+SHC000589,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Sandy Loam,2022-07-11,6.0,1.94,1.06,557.5,Medium,18.6,Medium,424.7,High,11.9,Medium,2.15,High,1.64,High,21.63,High,1.56,High,5.35,High
+SHC000590,Bihar,Muzaffarpur,Sakra,Zaid,Clay Loam,2022-06-02,5.92,0.42,0.24,555.8,Medium,56.1,High,259.0,Medium,26.6,High,0.36,Low,0.2,Low,13.4,High,0.99,High,16.2,High
+SHC000591,Maharashtra,Nashik,Niphad,Kharif,Red,2023-03-13,6.92,1.32,0.84,253.9,Low,19.8,Medium,197.8,Medium,17.3,Medium,1.31,High,0.71,Medium,3.33,Low,0.22,Medium,2.25,Medium
+SHC000592,Chhattisgarh,Raipur,Arang,Rabi,Black (Regur),2022-10-20,6.89,2.28,0.3,201.3,Low,57.2,High,232.7,Medium,15.7,Medium,0.38,Low,0.13,Low,17.45,High,2.6,High,8.95,High
+SHC000593,Chhattisgarh,Raipur,Arang,Rabi,Clay Loam,2024-03-08,7.36,1.55,0.44,241.4,Low,37.1,High,116.6,Medium,8.7,Low,1.93,High,1.24,High,3.15,Low,2.91,High,22.22,High
+SHC000594,Madhya Pradesh,Bhopal,Berasia,Kharif,Clay Loam,2023-04-02,8.7,0.28,0.75,270.9,Low,44.9,High,495.7,High,12.1,Medium,2.19,High,0.18,Low,7.37,Medium,1.7,High,7.06,High
+SHC000595,Bihar,Patna,Masaurhi,Rabi,Red,2023-04-05,7.52,0.38,0.64,332.4,Medium,33.8,High,480.0,High,32.7,High,0.58,Low,0.62,Medium,29.09,High,0.94,High,23.94,High
+SHC000596,Punjab,Amritsar,Ajnala,Zaid,Black (Regur),2024-01-29,8.26,1.29,0.73,345.9,Medium,9.1,Low,263.9,Medium,22.8,High,1.73,High,0.84,Medium,19.0,High,0.7,High,1.09,Low
+SHC000597,Bihar,Muzaffarpur,Sakra,Kharif,Sandy Loam,2023-12-15,5.04,2.33,0.71,341.7,Medium,44.6,High,188.7,Medium,34.8,High,0.96,Medium,0.61,Medium,5.33,Medium,0.75,High,13.81,High
+SHC000598,Karnataka,Belagavi,Athani,Kharif,Clay Loam,2022-06-01,8.77,0.77,0.33,504.3,Medium,7.8,Low,491.6,High,39.6,High,0.71,Medium,0.32,Low,20.16,High,1.93,High,24.33,High
+SHC000599,Karnataka,Mysuru,Nanjangud,Kharif,Clay Loam,2023-07-17,6.06,0.42,1.1,249.8,Low,59.2,High,342.9,High,5.4,Low,1.13,Medium,1.49,High,9.83,Medium,0.84,High,1.38,Low
+SHC000600,West Bengal,Bardhaman,Kalna,Zaid,Alluvial,2024-01-10,7.98,1.02,0.85,502.8,Medium,39.9,High,311.4,High,33.6,High,0.74,Medium,0.61,Medium,18.29,High,2.44,High,19.07,High
+SHC000601,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Black (Regur),2024-01-18,7.91,0.98,1.1,161.2,Low,15.0,Medium,157.7,Medium,35.2,High,0.65,Medium,1.03,High,22.43,High,1.98,High,1.51,Low
+SHC000602,Madhya Pradesh,Indore,Depalpur,Kharif,Laterite,2023-12-05,7.43,0.27,0.27,227.9,Low,55.0,High,487.6,High,8.5,Low,1.63,High,1.48,High,24.62,High,1.85,High,10.07,High
+SHC000603,Punjab,Ludhiana,Sahnewal,Kharif,Alluvial,2024-02-21,8.32,2.34,0.33,458.9,Medium,19.7,Medium,474.2,High,26.0,High,2.4,High,0.12,Low,24.17,High,1.67,High,20.64,High
+SHC000604,Odisha,Cuttack,Athagarh,Kharif,Black (Regur),2022-05-23,6.92,1.45,0.64,191.8,Low,23.2,Medium,144.9,Medium,7.0,Low,2.11,High,1.29,High,5.45,Medium,2.49,High,3.47,Medium
+SHC000605,Karnataka,Belagavi,Athani,Kharif,Sandy Loam,2024-05-06,6.66,0.1,0.42,219.7,Low,26.2,High,228.4,Medium,15.0,Medium,2.77,High,1.4,High,21.23,High,2.17,High,22.64,High
+SHC000606,Rajasthan,Sriganganagar,Padampur,Kharif,Alluvial,2022-08-18,5.41,2.39,0.56,390.9,Medium,11.5,Medium,467.8,High,37.2,High,2.7,High,1.25,High,6.99,Medium,1.64,High,15.39,High
+SHC000607,West Bengal,Bardhaman,Kalna,Rabi,Black (Regur),2023-11-15,7.75,1.6,0.49,505.2,Medium,19.9,Medium,289.7,High,17.9,Medium,0.87,Medium,1.82,High,24.36,High,2.39,High,21.68,High
+SHC000608,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Black (Regur),2022-11-24,5.59,1.17,1.0,549.6,Medium,49.8,High,127.5,Medium,20.0,Medium,2.21,High,0.37,Low,11.05,High,0.47,Medium,19.42,High
+SHC000609,Andhra Pradesh,Guntur,Tenali,Rabi,Laterite,2023-03-11,6.93,2.43,0.8,400.1,Medium,12.6,Medium,476.5,High,37.3,High,1.21,High,1.14,High,17.08,High,1.53,High,13.87,High
+SHC000610,Maharashtra,Nashik,Niphad,Rabi,Alluvial,2023-08-18,7.86,1.36,0.98,477.0,Medium,17.1,Medium,116.6,Medium,17.7,Medium,0.69,Medium,1.72,High,12.15,High,1.47,High,4.21,Medium
+SHC000611,Uttar Pradesh,Meerut,Sardhana,Kharif,Red,2023-01-05,8.4,2.18,1.02,249.7,Low,12.9,Medium,438.4,High,39.0,High,2.75,High,0.56,Medium,25.18,High,0.26,Medium,4.31,Medium
+SHC000612,Odisha,Cuttack,Athagarh,Zaid,Black (Regur),2023-01-22,7.93,1.77,0.62,143.8,Low,10.8,Low,324.3,High,21.7,High,1.82,High,0.4,Low,6.11,Medium,0.51,High,6.88,High
+SHC000613,Punjab,Ludhiana,Sahnewal,Zaid,Laterite,2022-06-03,8.06,1.23,0.34,352.1,Medium,57.2,High,277.5,Medium,30.3,High,1.39,High,1.33,High,2.37,Low,0.42,Medium,2.44,Medium
+SHC000614,Gujarat,Anand,Petlad,Kharif,Sandy Loam,2024-02-09,5.69,0.48,0.6,306.4,Medium,57.2,High,270.8,Medium,29.9,High,0.85,Medium,1.19,High,10.57,High,0.76,High,23.35,High
+SHC000615,Maharashtra,Pune,Baramati,Kharif,Sandy Loam,2023-01-22,8.91,0.4,0.41,392.4,Medium,17.0,Medium,157.2,Medium,31.1,High,1.72,High,1.7,High,24.86,High,1.46,High,8.52,High
+SHC000616,Gujarat,Anand,Petlad,Rabi,Laterite,2022-06-18,5.22,0.99,0.62,238.8,Low,10.7,Low,232.3,Medium,32.3,High,1.07,Medium,0.56,Medium,6.56,Medium,0.41,Medium,6.09,High
+SHC000617,Punjab,Ludhiana,Sahnewal,Rabi,Black (Regur),2023-07-19,5.81,2.33,0.44,157.4,Low,36.4,High,98.8,Low,39.5,High,1.5,High,0.19,Low,4.61,Medium,0.99,High,24.53,High
+SHC000618,Karnataka,Belagavi,Athani,Rabi,Sandy Loam,2022-07-19,6.26,1.04,0.56,177.0,Low,42.1,High,219.2,Medium,36.4,High,1.56,High,1.05,High,23.7,High,0.17,Low,20.11,High
+SHC000619,Rajasthan,Sriganganagar,Padampur,Zaid,Alluvial,2022-10-25,5.64,1.74,0.28,395.4,Medium,57.4,High,177.3,Medium,12.5,Medium,2.08,High,0.37,Low,22.12,High,2.98,High,13.04,High
+SHC000620,Chhattisgarh,Raipur,Arang,Zaid,Clay Loam,2023-06-20,8.72,0.92,0.99,269.2,Low,24.8,Medium,439.5,High,20.1,High,2.68,High,1.57,High,12.85,High,0.71,High,15.65,High
+SHC000621,Haryana,Karnal,Nilokheri,Kharif,Sandy Loam,2023-10-05,8.98,0.33,0.21,457.2,Medium,22.0,Medium,444.4,High,32.9,High,2.7,High,1.05,High,14.73,High,0.59,High,8.09,High
+SHC000622,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2023-01-08,6.41,0.27,0.91,322.7,Medium,59.2,High,491.0,High,31.7,High,1.38,High,1.86,High,28.32,High,2.92,High,12.72,High
+SHC000623,Andhra Pradesh,Guntur,Tenali,Rabi,Laterite,2023-02-23,8.43,2.3,0.33,281.4,Medium,51.5,High,479.9,High,18.1,Medium,2.08,High,1.06,High,9.36,Medium,2.64,High,17.38,High
+SHC000624,Gujarat,Rajkot,Gondal,Zaid,Alluvial,2024-01-29,8.16,1.78,0.76,188.0,Low,10.8,Low,237.8,Medium,25.0,High,2.58,High,0.52,Medium,26.48,High,2.04,High,9.37,High
+SHC000625,Tamil Nadu,Coimbatore,Pollachi,Zaid,Sandy Loam,2024-04-17,6.86,0.31,0.93,523.7,Medium,55.7,High,402.7,High,12.0,Medium,1.05,Medium,0.7,Medium,29.9,High,1.51,High,17.85,High
+SHC000626,Rajasthan,Sriganganagar,Padampur,Kharif,Red,2023-04-11,5.15,0.47,0.67,401.7,Medium,22.6,Medium,93.2,Low,26.0,High,1.2,Medium,1.88,High,12.12,High,1.35,High,12.36,High
+SHC000627,Punjab,Amritsar,Ajnala,Kharif,Alluvial,2024-02-16,7.73,0.75,0.84,156.8,Low,8.8,Low,250.1,Medium,15.4,Medium,2.17,High,1.76,High,16.69,High,2.04,High,7.23,High
+SHC000628,Punjab,Amritsar,Ajnala,Kharif,Laterite,2022-12-17,8.85,0.81,0.4,534.5,Medium,31.5,High,304.9,High,32.4,High,2.9,High,0.93,Medium,27.55,High,1.75,High,20.75,High
+SHC000629,Bihar,Patna,Masaurhi,Zaid,Black (Regur),2022-03-21,7.89,1.49,0.34,412.2,Medium,50.3,High,388.4,High,33.9,High,2.23,High,0.13,Low,27.1,High,2.81,High,12.99,High
+SHC000630,Karnataka,Mysuru,Nanjangud,Kharif,Clay Loam,2023-02-21,6.05,1.83,1.19,535.1,Medium,52.1,High,346.4,High,27.4,High,1.78,High,0.17,Low,22.88,High,0.64,High,17.71,High
+SHC000631,Madhya Pradesh,Indore,Depalpur,Zaid,Laterite,2022-08-10,6.39,2.39,1.17,373.8,Medium,5.8,Low,421.8,High,5.6,Low,2.7,High,1.05,High,26.3,High,2.13,High,16.57,High
+SHC000632,Tamil Nadu,Coimbatore,Pollachi,Rabi,Laterite,2022-12-27,6.41,1.4,0.72,456.6,Medium,11.2,Medium,153.8,Medium,20.0,Medium,0.61,Medium,1.23,High,17.2,High,1.21,High,21.28,High
+SHC000633,Odisha,Cuttack,Athagarh,Zaid,Laterite,2023-10-12,6.13,1.59,1.13,497.1,Medium,59.7,High,418.5,High,8.6,Low,1.98,High,1.27,High,13.52,High,1.54,High,19.04,High
+SHC000634,Bihar,Patna,Masaurhi,Kharif,Clay Loam,2023-03-31,7.01,2.03,0.87,494.8,Medium,16.7,Medium,406.3,High,24.3,High,0.43,Low,1.73,High,28.62,High,1.12,High,20.05,High
+SHC000635,Tamil Nadu,Coimbatore,Pollachi,Rabi,Clay Loam,2023-12-22,8.14,1.05,1.14,464.2,Medium,32.9,High,192.4,Medium,28.1,High,0.99,Medium,1.82,High,27.46,High,2.05,High,1.1,Low
+SHC000636,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Alluvial,2022-01-27,5.61,1.0,1.02,480.8,Medium,38.0,High,220.7,Medium,38.6,High,2.98,High,0.56,Medium,29.26,High,0.66,High,16.47,High
+SHC000637,Punjab,Amritsar,Ajnala,Zaid,Laterite,2022-05-12,8.76,1.04,0.93,297.4,Medium,22.5,Medium,146.5,Medium,13.1,Medium,2.16,High,0.34,Low,5.31,Medium,1.77,High,10.41,High
+SHC000638,Gujarat,Anand,Petlad,Rabi,Sandy Loam,2022-06-12,8.79,0.59,0.29,312.5,Medium,39.6,High,329.2,High,6.0,Low,2.15,High,1.85,High,4.21,Low,1.21,High,18.82,High
+SHC000639,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Clay Loam,2023-10-09,8.11,0.55,0.85,217.6,Low,15.7,Medium,433.0,High,30.4,High,2.44,High,0.82,Medium,9.29,Medium,0.25,Medium,2.99,Medium
+SHC000640,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Alluvial,2023-10-16,8.94,2.18,0.31,528.0,Medium,11.7,Medium,139.6,Medium,14.2,Medium,0.62,Medium,0.25,Low,25.65,High,2.75,High,5.99,High
+SHC000641,Uttar Pradesh,Meerut,Sardhana,Rabi,Alluvial,2023-02-28,5.29,2.4,0.28,422.4,Medium,25.6,High,211.7,Medium,36.8,High,2.44,High,0.44,Low,2.28,Low,0.62,High,14.62,High
+SHC000642,Gujarat,Rajkot,Gondal,Kharif,Alluvial,2022-12-18,8.97,1.26,0.81,360.5,Medium,13.7,Medium,391.5,High,37.4,High,0.66,Medium,0.16,Low,2.65,Low,1.58,High,4.66,Medium
+SHC000643,Andhra Pradesh,Guntur,Tenali,Kharif,Black (Regur),2022-01-31,6.31,0.63,0.93,533.5,Medium,19.7,Medium,282.3,High,38.4,High,1.11,Medium,1.15,High,10.24,High,2.26,High,12.9,High
+SHC000644,Rajasthan,Kota,Ramganjmandi,Rabi,Black (Regur),2022-09-14,5.69,1.75,1.09,243.7,Low,26.6,High,325.1,High,31.8,High,1.0,Medium,1.61,High,28.71,High,1.51,High,22.19,High
+SHC000645,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Clay Loam,2022-10-06,8.26,1.59,0.81,308.9,Medium,36.2,High,237.1,Medium,27.1,High,0.29,Low,0.42,Low,2.95,Low,1.58,High,15.08,High
+SHC000646,Karnataka,Belagavi,Athani,Zaid,Clay Loam,2023-06-28,6.41,0.17,0.38,262.0,Low,48.5,High,230.3,Medium,7.5,Low,2.01,High,0.81,Medium,23.83,High,0.45,Medium,8.65,High
+SHC000647,Punjab,Ludhiana,Sahnewal,Zaid,Red,2022-08-07,6.86,2.01,1.1,367.1,Medium,26.2,High,332.8,High,23.5,High,0.4,Low,0.63,Medium,19.02,High,2.66,High,21.64,High
+SHC000648,Haryana,Karnal,Nilokheri,Zaid,Clay Loam,2023-03-08,7.73,1.14,1.01,207.2,Low,7.7,Low,287.5,High,6.6,Low,0.9,Medium,0.33,Low,14.68,High,1.84,High,15.19,High
+SHC000649,Maharashtra,Nashik,Niphad,Zaid,Alluvial,2022-10-19,5.07,1.98,0.78,122.0,Low,30.4,High,135.0,Medium,38.8,High,0.21,Low,1.11,High,16.77,High,1.08,High,1.39,Low
+SHC000650,Rajasthan,Sriganganagar,Padampur,Kharif,Laterite,2024-01-11,6.2,0.86,0.55,155.1,Low,47.6,High,287.4,High,6.6,Low,0.97,Medium,1.97,High,15.81,High,1.96,High,22.85,High
+SHC000651,Andhra Pradesh,Guntur,Tenali,Zaid,Alluvial,2022-01-30,5.9,2.08,0.34,557.2,Medium,52.4,High,384.2,High,12.9,Medium,0.36,Low,1.48,High,24.74,High,2.47,High,13.9,High
+SHC000652,Punjab,Ludhiana,Sahnewal,Zaid,Alluvial,2022-09-23,8.53,0.2,0.25,253.9,Low,19.5,Medium,368.9,High,32.7,High,1.2,Medium,1.43,High,27.9,High,1.79,High,3.88,Medium
+SHC000653,Karnataka,Mysuru,Nanjangud,Kharif,Sandy Loam,2024-05-20,8.86,1.09,0.65,173.8,Low,34.0,High,322.7,High,28.1,High,2.93,High,0.71,Medium,22.46,High,0.75,High,7.33,High
+SHC000654,Karnataka,Belagavi,Athani,Zaid,Alluvial,2022-12-28,7.23,2.19,0.86,443.5,Medium,16.3,Medium,112.8,Medium,39.0,High,0.27,Low,0.12,Low,8.05,Medium,2.47,High,5.51,High
+SHC000655,Uttar Pradesh,Meerut,Sardhana,Rabi,Black (Regur),2024-04-13,7.36,1.37,1.06,454.6,Medium,22.2,Medium,270.7,Medium,10.4,Medium,1.56,High,1.84,High,8.13,Medium,1.15,High,24.4,High
+SHC000656,Gujarat,Rajkot,Gondal,Zaid,Black (Regur),2024-03-09,6.6,0.26,0.62,422.0,Medium,57.3,High,322.4,High,8.6,Low,1.44,High,0.3,Low,5.09,Medium,0.15,Low,12.06,High
+SHC000657,Maharashtra,Pune,Baramati,Kharif,Laterite,2023-11-09,7.12,0.94,0.32,362.1,Medium,24.5,Medium,169.1,Medium,18.9,Medium,1.35,High,0.73,Medium,14.36,High,1.17,High,2.18,Medium
+SHC000658,Telangana,Nalgonda,Miryalaguda,Zaid,Laterite,2022-07-18,6.18,1.07,0.79,353.0,Medium,32.1,High,262.1,Medium,28.8,High,1.97,High,1.92,High,8.15,Medium,0.25,Medium,1.86,Low
+SHC000659,Maharashtra,Pune,Baramati,Kharif,Alluvial,2023-06-29,5.4,0.64,0.82,435.0,Medium,26.6,High,122.5,Medium,30.7,High,2.65,High,0.61,Medium,7.76,Medium,2.38,High,9.34,High
+SHC000660,Karnataka,Belagavi,Athani,Zaid,Sandy Loam,2022-10-22,7.94,0.33,0.7,428.2,Medium,31.2,High,208.2,Medium,36.7,High,0.79,Medium,0.7,Medium,3.94,Low,0.64,High,22.6,High
+SHC000661,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Clay Loam,2023-05-01,6.71,0.15,1.17,507.8,Medium,14.4,Medium,399.3,High,5.3,Low,1.12,Medium,1.0,Medium,2.03,Low,2.63,High,12.34,High
+SHC000662,Punjab,Amritsar,Ajnala,Kharif,Sandy Loam,2023-11-28,8.96,2.1,0.73,193.6,Low,13.1,Medium,119.4,Medium,15.7,Medium,2.23,High,0.96,Medium,22.57,High,2.97,High,7.18,High
+SHC000663,Rajasthan,Sriganganagar,Padampur,Rabi,Red,2023-04-15,5.05,0.95,0.91,512.2,Medium,47.6,High,439.9,High,36.6,High,1.83,High,0.31,Low,21.2,High,2.21,High,1.5,Low
+SHC000664,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Clay Loam,2022-05-26,6.43,0.17,0.78,426.2,Medium,28.7,High,166.6,Medium,8.1,Low,2.77,High,0.82,Medium,5.02,Medium,0.89,High,16.05,High
+SHC000665,Bihar,Patna,Masaurhi,Rabi,Sandy Loam,2022-06-29,6.06,1.73,1.09,292.1,Medium,28.0,High,497.5,High,15.8,Medium,0.22,Low,1.09,High,11.61,High,1.88,High,11.4,High
+SHC000666,Tamil Nadu,Coimbatore,Pollachi,Zaid,Red,2022-10-23,5.44,0.12,1.13,184.7,Low,42.5,High,299.7,High,15.1,Medium,1.72,High,0.41,Low,15.63,High,0.29,Medium,8.07,High
+SHC000667,Tamil Nadu,Coimbatore,Pollachi,Kharif,Black (Regur),2022-10-17,8.3,0.4,0.69,122.2,Low,24.4,Medium,430.3,High,6.7,Low,0.5,Low,1.77,High,23.99,High,1.56,High,24.0,High
+SHC000668,Bihar,Patna,Masaurhi,Kharif,Alluvial,2024-01-01,6.08,2.49,0.4,377.5,Medium,9.4,Low,171.9,Medium,21.6,High,1.13,Medium,1.64,High,19.84,High,1.33,High,24.21,High
+SHC000669,Uttar Pradesh,Meerut,Sardhana,Rabi,Red,2023-09-04,6.24,1.45,0.88,261.9,Low,36.8,High,367.0,High,12.0,Medium,0.49,Low,1.15,High,10.43,High,0.35,Medium,14.6,High
+SHC000670,Gujarat,Anand,Petlad,Rabi,Sandy Loam,2022-07-07,6.5,2.2,0.64,181.0,Low,29.3,High,211.6,Medium,37.7,High,2.17,High,0.99,Medium,13.97,High,1.32,High,10.85,High
+SHC000671,Punjab,Ludhiana,Sahnewal,Zaid,Alluvial,2024-02-25,6.68,1.91,0.82,253.1,Low,18.3,Medium,295.1,High,9.5,Low,1.68,High,1.17,High,10.21,High,2.29,High,10.42,High
+SHC000672,Telangana,Nalgonda,Miryalaguda,Zaid,Alluvial,2023-04-19,8.23,2.2,0.66,143.9,Low,8.0,Low,428.6,High,27.7,High,1.07,Medium,0.29,Low,10.14,High,1.5,High,8.95,High
+SHC000673,Punjab,Amritsar,Ajnala,Kharif,Clay Loam,2023-08-22,7.7,1.87,0.25,210.2,Low,12.9,Medium,391.0,High,22.3,High,0.75,Medium,1.38,High,25.86,High,0.97,High,8.46,High
+SHC000674,Punjab,Ludhiana,Sahnewal,Rabi,Sandy Loam,2023-12-06,5.8,0.26,0.35,507.2,Medium,33.6,High,183.8,Medium,8.6,Low,0.17,Low,1.06,High,12.94,High,2.79,High,8.2,High
+SHC000675,Rajasthan,Sriganganagar,Padampur,Kharif,Black (Regur),2024-05-11,8.39,0.72,0.81,313.2,Medium,41.2,High,131.7,Medium,10.1,Medium,0.16,Low,0.37,Low,22.85,High,0.8,High,13.28,High
+SHC000676,Odisha,Cuttack,Athagarh,Zaid,Black (Regur),2023-05-03,6.92,0.79,0.3,379.1,Medium,25.2,High,195.6,Medium,18.5,Medium,2.42,High,0.98,Medium,24.78,High,0.53,High,7.8,High
+SHC000677,Uttar Pradesh,Meerut,Sardhana,Zaid,Laterite,2022-01-12,7.32,0.18,0.85,409.2,Medium,29.4,High,461.4,High,17.4,Medium,0.5,Low,1.78,High,14.83,High,0.13,Low,4.8,Medium
+SHC000678,Rajasthan,Kota,Ramganjmandi,Zaid,Black (Regur),2022-12-24,8.61,1.36,0.71,196.8,Low,13.3,Medium,355.5,High,24.7,High,1.43,High,1.73,High,5.92,Medium,2.38,High,16.8,High
+SHC000679,Telangana,Nalgonda,Miryalaguda,Kharif,Clay Loam,2023-05-11,6.51,1.23,0.86,373.5,Medium,56.0,High,405.7,High,23.4,High,0.48,Low,0.72,Medium,28.75,High,1.11,High,15.82,High
+SHC000680,Telangana,Nalgonda,Miryalaguda,Kharif,Alluvial,2022-01-31,8.41,0.48,0.3,166.7,Low,56.4,High,280.1,High,31.6,High,2.95,High,1.64,High,22.51,High,0.79,High,22.6,High
+SHC000681,Madhya Pradesh,Indore,Depalpur,Zaid,Laterite,2024-02-13,8.89,2.31,0.26,230.2,Low,7.1,Low,395.0,High,20.5,High,1.19,Medium,1.3,High,2.82,Low,0.6,High,3.58,Medium
+SHC000682,Tamil Nadu,Coimbatore,Pollachi,Rabi,Black (Regur),2023-10-15,7.3,0.58,0.45,312.5,Medium,20.7,Medium,164.5,Medium,10.7,Medium,2.46,High,1.64,High,7.38,Medium,1.79,High,16.1,High
+SHC000683,West Bengal,Bardhaman,Kalna,Kharif,Black (Regur),2022-02-04,8.24,2.24,0.56,299.5,Medium,35.1,High,110.2,Medium,11.5,Medium,2.22,High,1.83,High,19.98,High,1.54,High,20.98,High
+SHC000684,Bihar,Muzaffarpur,Sakra,Rabi,Sandy Loam,2022-12-27,6.43,2.26,1.05,472.7,Medium,29.1,High,342.7,High,35.6,High,1.75,High,0.34,Low,16.48,High,0.39,Medium,12.97,High
+SHC000685,Punjab,Amritsar,Ajnala,Zaid,Sandy Loam,2022-12-05,5.09,2.07,0.49,484.4,Medium,26.5,High,230.3,Medium,35.5,High,0.56,Low,0.65,Medium,16.96,High,0.8,High,13.43,High
+SHC000686,Gujarat,Rajkot,Gondal,Zaid,Red,2023-02-13,7.47,1.41,1.09,376.4,Medium,56.5,High,493.7,High,27.9,High,0.19,Low,0.9,Medium,7.61,Medium,2.68,High,2.43,Medium
+SHC000687,Madhya Pradesh,Bhopal,Berasia,Zaid,Clay Loam,2022-12-04,8.7,1.69,1.08,223.7,Low,9.0,Low,478.2,High,36.7,High,2.14,High,1.55,High,2.99,Low,2.95,High,23.8,High
+SHC000688,Gujarat,Rajkot,Gondal,Zaid,Sandy Loam,2022-03-24,8.55,1.25,0.33,438.3,Medium,10.7,Low,288.6,High,12.9,Medium,1.12,Medium,1.01,High,23.88,High,2.64,High,6.47,High
+SHC000689,Punjab,Amritsar,Ajnala,Kharif,Black (Regur),2023-07-02,7.43,1.01,0.88,128.0,Low,31.5,High,242.6,Medium,18.2,Medium,0.46,Low,1.43,High,17.39,High,0.44,Medium,3.83,Medium
+SHC000690,Gujarat,Rajkot,Gondal,Rabi,Red,2022-07-18,6.37,2.3,0.44,160.5,Low,5.6,Low,253.5,Medium,31.3,High,2.44,High,1.12,High,3.28,Low,2.43,High,21.96,High
+SHC000691,Maharashtra,Nashik,Niphad,Kharif,Alluvial,2022-02-28,5.51,0.53,0.24,273.9,Low,41.0,High,182.6,Medium,15.2,Medium,1.86,High,1.01,High,5.43,Medium,0.32,Medium,7.0,High
+SHC000692,Bihar,Patna,Masaurhi,Kharif,Laterite,2023-12-24,7.94,0.96,1.12,216.9,Low,44.2,High,475.4,High,32.3,High,0.95,Medium,1.34,High,16.75,High,0.88,High,17.75,High
+SHC000693,Rajasthan,Kota,Ramganjmandi,Kharif,Alluvial,2022-12-21,8.6,1.79,0.82,243.1,Low,16.2,Medium,137.6,Medium,39.2,High,0.77,Medium,1.51,High,7.9,Medium,1.18,High,20.59,High
+SHC000694,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Black (Regur),2023-12-17,6.76,1.93,1.15,129.4,Low,51.0,High,193.5,Medium,25.6,High,0.97,Medium,1.93,High,3.67,Low,2.58,High,10.21,High
+SHC000695,Punjab,Ludhiana,Sahnewal,Rabi,Laterite,2023-03-31,5.18,0.59,0.38,309.7,Medium,7.9,Low,208.2,Medium,24.0,High,1.11,Medium,0.15,Low,19.04,High,2.69,High,23.14,High
+SHC000696,Maharashtra,Pune,Baramati,Zaid,Black (Regur),2024-02-15,5.11,1.84,0.82,500.9,Medium,48.0,High,470.0,High,31.3,High,2.44,High,1.15,High,28.67,High,2.8,High,7.9,High
+SHC000697,Bihar,Patna,Masaurhi,Rabi,Laterite,2023-08-10,7.88,1.95,0.46,542.5,Medium,30.7,High,496.9,High,13.3,Medium,2.73,High,0.63,Medium,21.11,High,0.9,High,24.97,High
+SHC000698,Bihar,Patna,Masaurhi,Rabi,Red,2023-08-08,6.58,1.58,0.56,410.1,Medium,48.0,High,420.3,High,26.3,High,0.46,Low,1.18,High,10.99,High,0.87,High,5.29,High
+SHC000699,Tamil Nadu,Coimbatore,Pollachi,Kharif,Laterite,2022-01-10,6.87,2.42,0.68,491.5,Medium,17.0,Medium,104.6,Low,37.9,High,0.9,Medium,1.26,High,10.79,High,0.29,Medium,5.32,High
+SHC000700,Maharashtra,Pune,Baramati,Rabi,Laterite,2022-05-11,5.91,0.52,1.07,408.6,Medium,17.8,Medium,354.9,High,11.4,Medium,1.57,High,0.94,Medium,10.89,High,1.7,High,6.47,High
+SHC000701,Odisha,Cuttack,Athagarh,Rabi,Red,2022-01-17,7.71,2.16,0.55,436.1,Medium,38.0,High,226.9,Medium,7.7,Low,1.39,High,1.07,High,8.64,Medium,1.04,High,9.91,High
+SHC000702,West Bengal,Bardhaman,Kalna,Rabi,Alluvial,2023-10-20,6.71,0.78,0.22,387.1,Medium,24.8,Medium,489.5,High,36.4,High,1.19,Medium,1.89,High,10.23,High,0.19,Low,9.84,High
+SHC000703,Karnataka,Belagavi,Athani,Kharif,Sandy Loam,2022-01-27,5.42,0.61,0.51,434.9,Medium,45.8,High,409.1,High,29.9,High,2.83,High,0.82,Medium,18.32,High,2.01,High,4.6,Medium
+SHC000704,Gujarat,Anand,Petlad,Kharif,Alluvial,2022-08-18,7.26,2.49,0.83,442.9,Medium,34.6,High,130.9,Medium,35.7,High,2.41,High,1.25,High,20.46,High,1.61,High,8.61,High
+SHC000705,Madhya Pradesh,Bhopal,Berasia,Zaid,Red,2022-09-07,6.31,2.02,1.18,221.6,Low,22.3,Medium,488.4,High,29.3,High,1.39,High,1.92,High,13.48,High,0.33,Medium,14.45,High
+SHC000706,Haryana,Karnal,Nilokheri,Rabi,Clay Loam,2023-05-11,7.42,1.18,0.62,370.5,Medium,50.5,High,132.6,Medium,23.8,High,2.35,High,0.87,Medium,18.37,High,0.5,Medium,7.25,High
+SHC000707,Karnataka,Belagavi,Athani,Rabi,Red,2022-05-01,5.33,1.11,1.18,373.4,Medium,39.8,High,404.5,High,36.5,High,2.64,High,0.13,Low,5.38,Medium,0.86,High,14.31,High
+SHC000708,Rajasthan,Sriganganagar,Padampur,Zaid,Alluvial,2022-05-10,8.48,2.1,0.22,193.5,Low,9.0,Low,296.3,High,23.5,High,1.23,High,0.9,Medium,5.57,Medium,2.12,High,6.79,High
+SHC000709,Karnataka,Belagavi,Athani,Kharif,Red,2024-04-24,8.59,1.52,0.82,557.4,Medium,7.5,Low,390.3,High,17.4,Medium,1.4,High,0.88,Medium,14.59,High,2.52,High,7.94,High
+SHC000710,Rajasthan,Sriganganagar,Padampur,Zaid,Black (Regur),2024-01-22,5.73,1.94,1.12,532.1,Medium,9.6,Low,456.2,High,25.8,High,1.17,Medium,1.33,High,12.62,High,1.37,High,13.21,High
+SHC000711,Bihar,Muzaffarpur,Sakra,Rabi,Alluvial,2022-08-26,6.19,0.92,0.76,514.8,Medium,36.9,High,434.5,High,19.9,Medium,1.04,Medium,0.71,Medium,7.0,Medium,0.52,High,20.54,High
+SHC000712,Chhattisgarh,Raipur,Arang,Zaid,Black (Regur),2023-03-17,7.08,1.48,0.82,163.8,Low,20.7,Medium,129.8,Medium,14.6,Medium,1.37,High,1.78,High,10.08,High,2.76,High,24.73,High
+SHC000713,Uttar Pradesh,Meerut,Sardhana,Kharif,Clay Loam,2022-10-13,5.56,0.6,1.04,452.1,Medium,6.5,Low,459.1,High,38.6,High,1.67,High,1.62,High,2.19,Low,2.51,High,1.62,Low
+SHC000714,Madhya Pradesh,Bhopal,Berasia,Rabi,Sandy Loam,2023-03-13,7.93,1.35,1.03,249.8,Low,11.0,Medium,376.7,High,34.6,High,1.39,High,0.92,Medium,9.37,Medium,2.61,High,24.83,High
+SHC000715,Chhattisgarh,Raipur,Arang,Zaid,Alluvial,2022-12-29,8.21,1.89,0.42,152.7,Low,13.6,Medium,220.8,Medium,20.9,High,2.23,High,1.38,High,4.07,Low,2.1,High,22.41,High
+SHC000716,Punjab,Amritsar,Ajnala,Rabi,Alluvial,2023-12-24,8.18,0.86,1.04,410.9,Medium,53.3,High,95.0,Low,27.2,High,0.12,Low,0.36,Low,12.53,High,2.84,High,17.16,High
+SHC000717,Maharashtra,Pune,Baramati,Rabi,Black (Regur),2023-05-12,8.26,1.86,0.48,207.4,Low,53.2,High,479.3,High,35.0,High,2.27,High,0.11,Low,3.88,Low,1.72,High,6.01,High
+SHC000718,Madhya Pradesh,Indore,Depalpur,Kharif,Laterite,2023-12-06,6.05,1.01,0.78,400.6,Medium,31.6,High,355.9,High,11.3,Medium,0.97,Medium,0.54,Medium,10.18,High,1.51,High,20.12,High
+SHC000719,Telangana,Nalgonda,Miryalaguda,Zaid,Red,2023-07-11,6.92,0.33,0.31,507.6,Medium,46.5,High,200.7,Medium,38.9,High,1.04,Medium,1.36,High,5.24,Medium,1.45,High,8.65,High
+SHC000720,Uttar Pradesh,Meerut,Sardhana,Rabi,Clay Loam,2023-02-12,7.82,1.96,0.68,474.1,Medium,31.9,High,253.0,Medium,13.2,Medium,0.94,Medium,1.06,High,26.91,High,2.37,High,2.46,Medium
+SHC000721,Karnataka,Mysuru,Nanjangud,Rabi,Clay Loam,2022-11-22,6.64,2.04,0.63,234.7,Low,8.0,Low,283.9,High,12.7,Medium,1.95,High,0.19,Low,14.53,High,0.74,High,22.01,High
+SHC000722,Bihar,Patna,Masaurhi,Kharif,Clay Loam,2022-04-23,8.79,1.57,0.53,386.2,Medium,6.1,Low,383.3,High,33.1,High,0.36,Low,1.44,High,27.54,High,2.32,High,14.27,High
+SHC000723,Gujarat,Anand,Petlad,Kharif,Sandy Loam,2022-08-04,6.45,0.58,0.36,355.7,Medium,52.3,High,176.3,Medium,33.0,High,2.74,High,0.73,Medium,8.04,Medium,2.23,High,23.56,High
+SHC000724,Punjab,Amritsar,Ajnala,Kharif,Sandy Loam,2022-04-15,7.01,2.0,0.24,244.6,Low,6.3,Low,345.3,High,29.1,High,0.2,Low,1.52,High,24.76,High,1.2,High,10.62,High
+SHC000725,Chhattisgarh,Raipur,Arang,Rabi,Alluvial,2022-03-20,5.3,1.83,0.96,302.8,Medium,5.8,Low,428.7,High,26.2,High,0.54,Low,1.5,High,24.19,High,0.66,High,15.54,High
+SHC000726,Karnataka,Belagavi,Athani,Rabi,Laterite,2023-06-09,7.97,0.83,0.66,163.9,Low,58.3,High,322.0,High,18.2,Medium,1.35,High,0.52,Medium,13.38,High,0.91,High,7.83,High
+SHC000727,Odisha,Cuttack,Athagarh,Zaid,Sandy Loam,2022-09-08,6.53,2.48,0.93,538.6,Medium,46.9,High,380.1,High,20.8,High,1.78,High,0.15,Low,23.59,High,1.4,High,12.44,High
+SHC000728,Uttar Pradesh,Meerut,Sardhana,Zaid,Red,2022-12-07,5.58,1.61,0.28,366.8,Medium,16.4,Medium,475.7,High,25.8,High,0.34,Low,0.87,Medium,25.47,High,1.62,High,21.15,High
+SHC000729,Maharashtra,Nashik,Niphad,Kharif,Laterite,2022-09-16,6.65,1.88,1.03,136.1,Low,42.9,High,331.5,High,35.5,High,0.88,Medium,0.5,Medium,17.75,High,1.52,High,13.0,High
+SHC000730,Gujarat,Anand,Petlad,Kharif,Red,2023-04-18,7.84,1.33,1.06,556.8,Medium,9.5,Low,124.1,Medium,29.5,High,1.19,Medium,1.54,High,6.54,Medium,2.27,High,4.99,Medium
+SHC000731,Tamil Nadu,Coimbatore,Pollachi,Kharif,Alluvial,2023-03-11,6.98,1.6,0.72,181.5,Low,53.1,High,255.6,Medium,5.3,Low,0.44,Low,1.99,High,22.16,High,2.65,High,7.51,High
+SHC000732,Karnataka,Mysuru,Nanjangud,Zaid,Red,2023-08-01,7.6,0.44,0.72,210.0,Low,38.8,High,380.1,High,23.2,High,0.83,Medium,0.98,Medium,28.21,High,2.79,High,18.28,High
+SHC000733,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Sandy Loam,2024-01-03,8.32,0.12,0.62,186.2,Low,8.7,Low,490.3,High,15.9,Medium,0.64,Medium,1.42,High,17.06,High,1.06,High,2.47,Medium
+SHC000734,Tamil Nadu,Coimbatore,Pollachi,Zaid,Black (Regur),2022-03-10,6.4,1.44,0.43,396.7,Medium,56.0,High,195.3,Medium,33.7,High,2.62,High,1.21,High,10.56,High,1.91,High,10.68,High
+SHC000735,Maharashtra,Pune,Baramati,Zaid,Sandy Loam,2023-10-19,7.64,0.29,0.35,441.5,Medium,20.4,Medium,190.4,Medium,8.6,Low,2.41,High,1.22,High,23.45,High,1.06,High,19.53,High
+SHC000736,Bihar,Muzaffarpur,Sakra,Zaid,Red,2024-04-06,7.95,1.58,1.11,212.1,Low,5.1,Low,177.4,Medium,12.6,Medium,2.8,High,1.27,High,6.01,Medium,1.48,High,1.01,Low
+SHC000737,Haryana,Karnal,Nilokheri,Kharif,Black (Regur),2023-06-08,8.23,1.12,0.67,253.1,Low,46.8,High,181.1,Medium,18.8,Medium,2.34,High,1.44,High,11.94,High,2.53,High,8.61,High
+SHC000738,Haryana,Karnal,Nilokheri,Zaid,Black (Regur),2022-06-20,8.78,2.1,0.91,489.5,Medium,35.8,High,285.8,High,32.6,High,2.09,High,1.16,High,14.19,High,1.11,High,1.61,Low
+SHC000739,Andhra Pradesh,Guntur,Tenali,Rabi,Clay Loam,2022-12-21,7.91,0.61,0.76,559.1,Medium,56.7,High,240.6,Medium,11.3,Medium,2.27,High,0.12,Low,14.38,High,1.63,High,1.13,Low
+SHC000740,Karnataka,Belagavi,Athani,Rabi,Alluvial,2023-01-13,8.66,1.31,0.21,240.1,Low,40.6,High,349.5,High,18.9,Medium,2.99,High,1.44,High,9.68,Medium,0.27,Medium,14.73,High
+SHC000741,Punjab,Ludhiana,Sahnewal,Zaid,Laterite,2023-09-15,7.53,1.28,0.67,505.0,Medium,46.3,High,419.1,High,6.3,Low,0.18,Low,1.8,High,6.29,Medium,2.23,High,21.9,High
+SHC000742,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Laterite,2024-05-04,8.38,0.23,0.84,147.4,Low,10.4,Low,308.5,High,39.4,High,0.66,Medium,1.27,High,2.47,Low,2.53,High,21.36,High
+SHC000743,Karnataka,Mysuru,Nanjangud,Zaid,Black (Regur),2023-08-24,7.89,0.98,0.21,412.4,Medium,27.9,High,360.4,High,7.2,Low,0.66,Medium,1.55,High,6.13,Medium,0.87,High,5.14,High
+SHC000744,Punjab,Amritsar,Ajnala,Rabi,Sandy Loam,2022-07-23,7.75,1.08,0.84,490.5,Medium,56.8,High,210.7,Medium,24.6,High,0.44,Low,0.99,Medium,25.41,High,0.35,Medium,23.33,High
+SHC000745,Haryana,Karnal,Nilokheri,Kharif,Alluvial,2022-07-06,7.92,0.55,0.79,544.9,Medium,47.2,High,411.3,High,12.6,Medium,1.19,Medium,0.25,Low,22.28,High,0.82,High,21.1,High
+SHC000746,Gujarat,Anand,Petlad,Kharif,Clay Loam,2024-02-13,7.95,0.85,0.58,246.3,Low,20.3,Medium,317.3,High,19.5,Medium,2.52,High,0.62,Medium,7.58,Medium,2.94,High,7.22,High
+SHC000747,Tamil Nadu,Coimbatore,Pollachi,Rabi,Alluvial,2023-05-17,6.42,0.97,0.97,350.1,Medium,50.6,High,368.6,High,11.0,Medium,2.85,High,1.21,High,6.36,Medium,1.75,High,24.85,High
+SHC000748,Tamil Nadu,Thanjavur,Kumbakonam,Rabi,Clay Loam,2024-04-10,7.73,0.79,0.54,546.1,Medium,35.3,High,392.1,High,14.4,Medium,1.59,High,0.5,Medium,8.11,Medium,0.86,High,23.13,High
+SHC000749,Rajasthan,Kota,Ramganjmandi,Zaid,Clay Loam,2022-07-10,6.9,1.22,0.52,368.1,Medium,41.2,High,458.5,High,16.3,Medium,0.4,Low,0.78,Medium,27.23,High,0.56,High,12.41,High
+SHC000750,Karnataka,Mysuru,Nanjangud,Zaid,Alluvial,2022-07-11,8.65,0.84,0.67,201.9,Low,6.2,Low,419.9,High,21.0,High,1.77,High,0.93,Medium,13.18,High,2.52,High,7.06,High
+SHC000751,Andhra Pradesh,Guntur,Tenali,Zaid,Red,2023-05-10,7.71,0.82,1.17,506.1,Medium,47.0,High,458.4,High,22.7,High,1.32,High,1.57,High,28.71,High,1.26,High,1.69,Low
+SHC000752,Rajasthan,Kota,Ramganjmandi,Kharif,Red,2023-09-04,8.86,2.36,0.4,547.9,Medium,46.4,High,134.6,Medium,16.7,Medium,2.88,High,1.94,High,10.66,High,2.32,High,20.24,High
+SHC000753,Tamil Nadu,Coimbatore,Pollachi,Rabi,Black (Regur),2023-04-17,5.0,0.45,1.08,252.6,Low,9.4,Low,179.2,Medium,12.1,Medium,0.36,Low,0.56,Medium,21.17,High,2.55,High,9.98,High
+SHC000754,Rajasthan,Sriganganagar,Padampur,Kharif,Red,2022-04-13,6.88,1.75,0.9,521.6,Medium,41.8,High,429.2,High,29.7,High,2.31,High,0.28,Low,5.6,Medium,2.31,High,4.2,Medium
+SHC000755,Karnataka,Mysuru,Nanjangud,Rabi,Clay Loam,2024-01-18,8.49,1.53,0.73,272.6,Low,41.8,High,487.5,High,5.9,Low,2.67,High,0.44,Low,8.58,Medium,1.15,High,13.03,High
+SHC000756,Punjab,Ludhiana,Sahnewal,Zaid,Sandy Loam,2024-02-09,6.59,0.29,0.43,340.0,Medium,7.4,Low,206.8,Medium,8.2,Low,1.21,High,0.44,Low,6.22,Medium,1.0,High,17.21,High
+SHC000757,Rajasthan,Sriganganagar,Padampur,Kharif,Red,2023-03-08,5.72,1.06,0.72,166.8,Low,49.3,High,225.4,Medium,30.6,High,2.0,High,0.87,Medium,24.59,High,0.57,High,4.09,Medium
+SHC000758,Rajasthan,Kota,Ramganjmandi,Rabi,Clay Loam,2023-04-11,5.05,1.67,0.87,305.9,Medium,8.0,Low,258.5,Medium,31.0,High,0.44,Low,1.63,High,27.43,High,1.56,High,19.74,High
+SHC000759,Odisha,Cuttack,Athagarh,Rabi,Sandy Loam,2023-01-09,5.45,0.53,0.62,454.2,Medium,52.9,High,113.6,Medium,5.2,Low,2.85,High,1.44,High,9.22,Medium,1.59,High,15.75,High
+SHC000760,Tamil Nadu,Coimbatore,Pollachi,Rabi,Alluvial,2023-04-21,6.13,0.39,0.69,281.5,Medium,53.9,High,368.3,High,13.8,Medium,1.08,Medium,0.66,Medium,24.94,High,1.67,High,5.29,High
+SHC000761,Andhra Pradesh,Guntur,Tenali,Rabi,Alluvial,2023-04-03,6.3,1.63,0.8,277.2,Low,7.0,Low,390.2,High,13.7,Medium,0.34,Low,0.28,Low,22.35,High,1.94,High,11.35,High
+SHC000762,Maharashtra,Pune,Baramati,Rabi,Laterite,2023-12-07,7.47,2.31,1.1,530.2,Medium,50.1,High,319.0,High,6.4,Low,1.05,Medium,0.17,Low,19.06,High,2.2,High,20.5,High
+SHC000763,Uttar Pradesh,Meerut,Sardhana,Rabi,Sandy Loam,2024-01-13,5.32,2.33,0.95,305.9,Medium,6.2,Low,479.2,High,14.0,Medium,1.99,High,1.78,High,25.43,High,1.36,High,3.79,Medium
+SHC000764,Madhya Pradesh,Bhopal,Berasia,Zaid,Red,2022-11-07,7.46,1.39,0.99,425.5,Medium,7.7,Low,320.8,High,12.5,Medium,2.81,High,0.62,Medium,21.29,High,0.64,High,13.04,High
+SHC000765,Punjab,Amritsar,Ajnala,Zaid,Laterite,2022-07-05,7.71,0.75,0.61,128.2,Low,27.8,High,134.5,Medium,14.3,Medium,1.84,High,1.95,High,10.91,High,0.74,High,1.43,Low
+SHC000766,Karnataka,Mysuru,Nanjangud,Kharif,Alluvial,2023-09-19,6.15,1.81,1.03,378.7,Medium,39.9,High,218.1,Medium,18.6,Medium,2.8,High,0.12,Low,11.54,High,1.1,High,11.67,High
+SHC000767,Tamil Nadu,Coimbatore,Pollachi,Zaid,Laterite,2022-08-04,7.13,0.51,0.59,297.3,Medium,41.3,High,320.0,High,7.8,Low,1.51,High,1.97,High,4.33,Low,2.27,High,13.71,High
+SHC000768,Karnataka,Belagavi,Athani,Rabi,Red,2023-04-08,7.7,0.17,0.82,193.4,Low,24.3,Medium,261.2,Medium,39.9,High,0.17,Low,1.95,High,17.58,High,1.52,High,6.63,High
+SHC000769,Bihar,Patna,Masaurhi,Kharif,Laterite,2023-09-14,8.8,0.4,0.6,213.0,Low,11.1,Medium,201.5,Medium,35.3,High,2.32,High,1.97,High,29.41,High,1.7,High,9.45,High
+SHC000770,Madhya Pradesh,Bhopal,Berasia,Rabi,Sandy Loam,2022-10-13,6.28,0.97,0.31,509.3,Medium,57.8,High,399.9,High,16.1,Medium,1.65,High,0.85,Medium,26.05,High,1.54,High,12.13,High
+SHC000771,Tamil Nadu,Coimbatore,Pollachi,Kharif,Black (Regur),2023-02-14,6.15,1.38,0.53,324.2,Medium,14.5,Medium,461.1,High,18.4,Medium,1.99,High,1.95,High,13.49,High,1.95,High,15.85,High
+SHC000772,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Sandy Loam,2023-05-31,9.0,1.54,0.93,536.0,Medium,22.9,Medium,185.0,Medium,24.9,High,1.47,High,0.27,Low,12.37,High,2.25,High,22.2,High
+SHC000773,Gujarat,Anand,Petlad,Rabi,Sandy Loam,2023-06-08,8.45,2.14,0.36,282.4,Medium,53.1,High,153.6,Medium,37.8,High,2.77,High,0.71,Medium,10.2,High,2.69,High,5.97,High
+SHC000774,Tamil Nadu,Coimbatore,Pollachi,Rabi,Black (Regur),2023-12-02,7.41,2.48,1.0,548.0,Medium,32.5,High,126.7,Medium,26.1,High,1.06,Medium,1.85,High,6.46,Medium,1.44,High,24.1,High
+SHC000775,Punjab,Ludhiana,Sahnewal,Zaid,Alluvial,2023-11-30,7.71,2.18,1.2,499.4,Medium,8.9,Low,255.2,Medium,14.1,Medium,2.18,High,0.33,Low,23.74,High,1.98,High,13.82,High
+SHC000776,Punjab,Ludhiana,Sahnewal,Rabi,Laterite,2024-04-27,7.9,0.8,0.6,481.8,Medium,47.3,High,232.6,Medium,30.1,High,1.58,High,1.33,High,14.0,High,0.46,Medium,4.5,Medium
+SHC000777,Maharashtra,Pune,Baramati,Zaid,Alluvial,2024-01-10,5.68,1.09,0.54,521.7,Medium,48.8,High,168.2,Medium,8.4,Low,1.96,High,0.24,Low,27.18,High,1.53,High,6.87,High
+SHC000778,Maharashtra,Pune,Baramati,Rabi,Red,2023-12-07,6.78,1.99,0.9,370.0,Medium,37.7,High,399.8,High,10.2,Medium,0.94,Medium,0.52,Medium,12.38,High,1.15,High,7.99,High
+SHC000779,Odisha,Cuttack,Athagarh,Kharif,Sandy Loam,2023-10-12,6.22,1.81,0.87,188.0,Low,49.3,High,134.0,Medium,26.3,High,2.59,High,0.59,Medium,8.38,Medium,2.57,High,15.0,High
+SHC000780,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Alluvial,2022-09-23,6.46,1.32,1.07,347.4,Medium,31.2,High,458.0,High,39.0,High,1.97,High,1.22,High,16.03,High,1.62,High,10.07,High
+SHC000781,Rajasthan,Sriganganagar,Padampur,Zaid,Black (Regur),2024-06-10,7.1,0.52,1.1,126.3,Low,57.1,High,223.8,Medium,15.8,Medium,0.75,Medium,0.63,Medium,23.78,High,2.39,High,16.6,High
+SHC000782,Andhra Pradesh,Guntur,Tenali,Rabi,Laterite,2023-08-07,8.65,2.28,1.04,492.1,Medium,48.1,High,300.1,High,13.0,Medium,0.69,Medium,1.36,High,13.16,High,0.39,Medium,8.91,High
+SHC000783,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2023-07-02,8.39,1.39,0.28,471.1,Medium,29.6,High,299.6,High,13.6,Medium,2.41,High,0.45,Low,28.22,High,2.59,High,6.48,High
+SHC000784,Odisha,Cuttack,Athagarh,Rabi,Black (Regur),2022-02-11,8.92,0.74,0.48,447.0,Medium,45.3,High,465.3,High,36.7,High,0.48,Low,0.68,Medium,7.82,Medium,0.81,High,19.28,High
+SHC000785,Rajasthan,Sriganganagar,Padampur,Rabi,Alluvial,2023-07-04,8.53,0.22,0.99,152.1,Low,31.3,High,265.6,Medium,21.7,High,0.39,Low,1.22,High,18.75,High,0.97,High,1.23,Low
+SHC000786,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Clay Loam,2023-03-30,8.11,0.57,1.01,390.3,Medium,30.1,High,80.2,Low,31.4,High,1.84,High,1.04,High,6.94,Medium,1.57,High,13.34,High
+SHC000787,Gujarat,Anand,Petlad,Rabi,Red,2024-06-07,7.13,0.92,0.88,341.3,Medium,39.4,High,126.8,Medium,31.5,High,0.63,Medium,0.11,Low,27.01,High,1.58,High,12.9,High
+SHC000788,Madhya Pradesh,Indore,Depalpur,Kharif,Laterite,2023-11-21,6.22,2.32,0.64,400.7,Medium,34.6,High,156.7,Medium,32.3,High,2.31,High,0.51,Medium,16.05,High,1.03,High,13.73,High
+SHC000789,Uttar Pradesh,Meerut,Sardhana,Zaid,Red,2023-09-17,5.84,1.71,0.52,204.4,Low,26.8,High,152.1,Medium,10.5,Medium,2.02,High,0.72,Medium,16.46,High,1.47,High,15.29,High
+SHC000790,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Red,2022-08-23,8.73,1.23,1.06,253.6,Low,13.0,Medium,220.2,Medium,17.4,Medium,2.26,High,0.95,Medium,13.91,High,1.24,High,11.01,High
+SHC000791,Telangana,Nalgonda,Miryalaguda,Kharif,Laterite,2022-12-29,7.58,0.44,0.66,240.7,Low,50.0,High,164.9,Medium,28.2,High,0.84,Medium,1.68,High,2.66,Low,1.34,High,10.18,High
+SHC000792,Bihar,Patna,Masaurhi,Zaid,Clay Loam,2022-07-24,8.19,1.58,0.64,240.5,Low,9.1,Low,147.4,Medium,30.3,High,2.83,High,1.23,High,28.66,High,2.85,High,19.75,High
+SHC000793,Telangana,Nalgonda,Miryalaguda,Zaid,Clay Loam,2023-05-14,6.0,2.47,0.79,146.1,Low,8.1,Low,223.9,Medium,23.8,High,1.37,High,0.64,Medium,15.21,High,2.65,High,2.78,Medium
+SHC000794,Chhattisgarh,Raipur,Arang,Rabi,Black (Regur),2024-06-13,5.6,0.82,0.4,158.7,Low,18.5,Medium,320.5,High,31.7,High,0.86,Medium,1.11,High,10.16,High,0.16,Low,19.53,High
+SHC000795,Haryana,Karnal,Nilokheri,Zaid,Clay Loam,2024-01-27,6.26,2.15,1.11,316.2,Medium,53.7,High,157.3,Medium,21.4,High,1.44,High,0.73,Medium,20.97,High,2.14,High,7.13,High
+SHC000796,Chhattisgarh,Raipur,Arang,Kharif,Black (Regur),2022-05-03,7.57,1.13,1.01,471.2,Medium,50.7,High,105.3,Low,39.6,High,1.18,Medium,1.17,High,29.88,High,2.88,High,21.95,High
+SHC000797,Karnataka,Mysuru,Nanjangud,Zaid,Laterite,2022-10-17,7.3,1.62,0.93,368.7,Medium,58.6,High,407.8,High,23.6,High,2.42,High,1.71,High,4.46,Low,2.78,High,15.64,High
+SHC000798,Madhya Pradesh,Bhopal,Berasia,Kharif,Clay Loam,2023-03-18,8.27,1.22,1.09,557.5,Medium,13.4,Medium,218.8,Medium,11.4,Medium,1.77,High,0.96,Medium,23.87,High,2.24,High,23.76,High
+SHC000799,Punjab,Ludhiana,Sahnewal,Rabi,Sandy Loam,2022-10-28,5.03,2.09,0.22,219.1,Low,28.5,High,188.7,Medium,12.8,Medium,2.06,High,0.72,Medium,14.82,High,2.03,High,19.48,High
+SHC000800,Bihar,Muzaffarpur,Sakra,Rabi,Clay Loam,2024-06-07,7.31,0.55,0.35,255.7,Low,10.5,Low,304.0,High,38.1,High,0.21,Low,0.34,Low,11.76,High,0.3,Medium,21.89,High
+SHC000801,Maharashtra,Nashik,Niphad,Zaid,Black (Regur),2022-07-26,6.21,1.12,0.47,532.0,Medium,16.9,Medium,229.2,Medium,9.8,Low,2.71,High,0.94,Medium,25.36,High,1.19,High,11.65,High
+SHC000802,Chhattisgarh,Raipur,Arang,Zaid,Black (Regur),2023-01-25,5.2,1.15,0.4,459.2,Medium,37.5,High,132.4,Medium,38.9,High,1.57,High,1.2,High,16.46,High,0.57,High,6.03,High
+SHC000803,Rajasthan,Sriganganagar,Padampur,Zaid,Sandy Loam,2023-01-02,8.0,0.86,0.39,553.5,Medium,49.0,High,231.1,Medium,13.9,Medium,0.42,Low,0.97,Medium,2.2,Low,2.43,High,10.61,High
+SHC000804,Uttar Pradesh,Meerut,Sardhana,Rabi,Red,2022-11-14,8.35,1.14,1.05,252.3,Low,60.0,High,115.5,Medium,27.5,High,1.23,High,1.0,Medium,28.64,High,0.9,High,16.54,High
+SHC000805,Karnataka,Mysuru,Nanjangud,Kharif,Black (Regur),2024-05-17,6.0,1.45,0.33,188.5,Low,43.2,High,400.2,High,7.1,Low,2.43,High,1.75,High,20.51,High,1.18,High,10.96,High
+SHC000806,Madhya Pradesh,Indore,Depalpur,Rabi,Black (Regur),2022-06-28,8.75,2.42,0.94,476.5,Medium,15.0,Medium,449.2,High,8.8,Low,0.57,Low,1.05,High,10.57,High,1.91,High,22.82,High
+SHC000807,Maharashtra,Pune,Baramati,Zaid,Red,2022-01-30,8.13,0.9,1.09,135.1,Low,53.0,High,463.7,High,6.6,Low,1.19,Medium,1.24,High,16.71,High,0.56,High,1.36,Low
+SHC000808,Maharashtra,Nashik,Niphad,Kharif,Laterite,2022-03-09,5.45,1.24,1.18,496.7,Medium,34.5,High,136.5,Medium,26.1,High,1.95,High,0.69,Medium,15.15,High,2.72,High,4.08,Medium
+SHC000809,West Bengal,Bardhaman,Kalna,Zaid,Red,2023-09-21,7.67,0.33,0.69,485.7,Medium,36.4,High,132.8,Medium,23.0,High,2.44,High,0.37,Low,20.46,High,2.26,High,18.21,High
+SHC000810,Karnataka,Belagavi,Athani,Zaid,Alluvial,2022-09-13,5.9,0.54,0.86,264.6,Low,58.6,High,360.7,High,23.2,High,1.77,High,1.78,High,23.28,High,0.48,Medium,11.13,High
+SHC000811,West Bengal,Bardhaman,Kalna,Kharif,Sandy Loam,2024-01-25,8.74,0.18,1.11,289.4,Medium,7.6,Low,163.1,Medium,11.4,Medium,0.51,Low,0.16,Low,24.25,High,0.57,High,8.74,High
+SHC000812,Bihar,Muzaffarpur,Sakra,Rabi,Laterite,2024-05-28,6.38,1.61,1.02,374.0,Medium,29.9,High,170.2,Medium,26.7,High,1.68,High,0.32,Low,9.82,Medium,2.33,High,23.17,High
+SHC000813,Karnataka,Mysuru,Nanjangud,Kharif,Red,2022-12-16,8.23,1.27,0.75,411.8,Medium,41.7,High,223.8,Medium,23.2,High,0.28,Low,0.79,Medium,19.98,High,2.9,High,4.03,Medium
+SHC000814,Maharashtra,Nashik,Niphad,Rabi,Alluvial,2022-05-04,7.2,0.81,1.07,255.1,Low,29.0,High,493.4,High,7.9,Low,2.61,High,1.06,High,13.13,High,2.83,High,24.97,High
+SHC000815,Madhya Pradesh,Bhopal,Berasia,Kharif,Clay Loam,2022-08-16,8.1,0.58,0.94,351.3,Medium,47.9,High,316.4,High,23.6,High,0.24,Low,1.11,High,17.1,High,2.11,High,24.93,High
+SHC000816,Madhya Pradesh,Indore,Depalpur,Rabi,Black (Regur),2022-04-13,7.72,1.62,1.06,219.6,Low,56.2,High,380.8,High,23.9,High,2.87,High,0.91,Medium,7.66,Medium,0.24,Medium,24.26,High
+SHC000817,Telangana,Nalgonda,Miryalaguda,Rabi,Laterite,2023-06-19,8.89,2.24,0.67,179.9,Low,56.6,High,80.1,Low,13.8,Medium,1.71,High,0.69,Medium,27.85,High,1.88,High,24.02,High
+SHC000818,Punjab,Amritsar,Ajnala,Rabi,Black (Regur),2022-05-28,6.92,0.48,1.17,549.6,Medium,58.8,High,244.3,Medium,10.6,Medium,1.32,High,1.22,High,8.96,Medium,1.12,High,6.43,High
+SHC000819,Maharashtra,Pune,Baramati,Kharif,Laterite,2022-05-07,7.9,1.51,0.87,210.6,Low,12.8,Medium,195.7,Medium,16.5,Medium,1.95,High,1.09,High,16.68,High,2.34,High,15.36,High
+SHC000820,Maharashtra,Nashik,Niphad,Zaid,Laterite,2022-11-02,8.29,1.4,0.81,187.6,Low,53.4,High,396.8,High,30.2,High,2.64,High,1.9,High,3.15,Low,2.53,High,7.13,High
+SHC000821,Gujarat,Anand,Petlad,Rabi,Laterite,2023-08-23,5.67,1.8,1.07,334.4,Medium,21.0,Medium,299.6,High,8.1,Low,2.22,High,1.92,High,26.22,High,0.8,High,21.4,High
+SHC000822,Rajasthan,Sriganganagar,Padampur,Zaid,Laterite,2023-03-08,5.23,0.35,0.97,490.6,Medium,45.3,High,460.0,High,27.4,High,1.05,Medium,1.37,High,9.03,Medium,1.13,High,1.31,Low
+SHC000823,Odisha,Cuttack,Athagarh,Rabi,Black (Regur),2023-08-23,6.98,1.52,0.87,165.7,Low,48.0,High,377.6,High,24.6,High,2.53,High,0.81,Medium,16.53,High,2.78,High,10.18,High
+SHC000824,Gujarat,Rajkot,Gondal,Kharif,Sandy Loam,2024-05-08,8.17,2.39,0.78,171.7,Low,47.0,High,231.5,Medium,28.5,High,2.72,High,0.9,Medium,13.02,High,2.26,High,9.34,High
+SHC000825,Tamil Nadu,Coimbatore,Pollachi,Rabi,Sandy Loam,2024-06-03,7.09,2.36,1.01,396.4,Medium,47.8,High,361.0,High,5.9,Low,1.74,High,0.15,Low,28.49,High,0.39,Medium,23.1,High
+SHC000826,Punjab,Ludhiana,Sahnewal,Zaid,Laterite,2024-05-19,8.56,0.96,0.88,275.0,Low,58.1,High,196.2,Medium,32.4,High,1.04,Medium,1.43,High,19.77,High,2.33,High,4.85,Medium
+SHC000827,Bihar,Patna,Masaurhi,Zaid,Clay Loam,2022-11-26,7.96,1.91,0.98,195.7,Low,32.5,High,117.3,Medium,17.3,Medium,1.66,High,1.63,High,29.05,High,1.02,High,8.34,High
+SHC000828,Chhattisgarh,Raipur,Arang,Kharif,Clay Loam,2023-02-20,6.25,1.29,0.39,288.4,Medium,19.6,Medium,377.1,High,17.3,Medium,2.44,High,1.8,High,23.13,High,2.88,High,8.75,High
+SHC000829,Uttar Pradesh,Meerut,Sardhana,Kharif,Sandy Loam,2022-11-14,8.64,1.78,0.76,453.0,Medium,34.6,High,247.1,Medium,29.3,High,0.68,Medium,0.27,Low,18.74,High,2.64,High,10.71,High
+SHC000830,Maharashtra,Pune,Baramati,Kharif,Clay Loam,2022-12-15,7.13,1.05,1.12,165.6,Low,57.6,High,422.1,High,36.1,High,0.95,Medium,1.18,High,4.3,Low,3.0,High,11.62,High
+SHC000831,Punjab,Amritsar,Ajnala,Kharif,Sandy Loam,2022-06-08,7.67,0.76,0.69,486.6,Medium,59.1,High,183.0,Medium,12.9,Medium,1.98,High,0.51,Medium,2.35,Low,0.81,High,1.5,Low
+SHC000832,Gujarat,Rajkot,Gondal,Rabi,Laterite,2023-03-01,7.23,2.5,0.39,201.9,Low,33.5,High,247.8,Medium,25.1,High,2.72,High,0.84,Medium,9.32,Medium,2.41,High,9.74,High
+SHC000833,Maharashtra,Pune,Baramati,Rabi,Red,2023-01-09,8.6,2.35,0.52,277.1,Low,57.7,High,136.5,Medium,35.1,High,2.96,High,0.57,Medium,17.07,High,0.47,Medium,24.54,High
+SHC000834,Rajasthan,Kota,Ramganjmandi,Zaid,Laterite,2023-07-03,6.25,2.04,0.8,436.8,Medium,44.5,High,350.9,High,24.4,High,2.96,High,0.98,Medium,18.08,High,0.25,Medium,15.85,High
+SHC000835,Rajasthan,Sriganganagar,Padampur,Zaid,Laterite,2022-03-08,8.81,0.51,0.76,366.0,Medium,8.2,Low,226.0,Medium,35.4,High,0.53,Low,1.4,High,3.83,Low,2.18,High,14.67,High
+SHC000836,Chhattisgarh,Raipur,Arang,Kharif,Clay Loam,2023-09-05,6.96,1.79,1.14,553.9,Medium,16.8,Medium,269.9,Medium,23.8,High,2.06,High,0.73,Medium,17.96,High,2.64,High,23.71,High
+SHC000837,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Clay Loam,2023-08-24,6.26,0.12,0.81,433.3,Medium,24.7,Medium,130.3,Medium,39.2,High,1.88,High,1.11,High,22.45,High,2.22,High,6.97,High
+SHC000838,Gujarat,Rajkot,Gondal,Kharif,Black (Regur),2022-01-31,7.6,1.29,0.32,159.2,Low,57.0,High,321.1,High,38.2,High,1.22,High,0.87,Medium,21.5,High,0.5,Medium,9.24,High
+SHC000839,Uttar Pradesh,Meerut,Sardhana,Rabi,Red,2022-07-01,7.83,2.21,0.7,201.2,Low,27.1,High,175.2,Medium,39.5,High,1.94,High,0.75,Medium,23.05,High,1.62,High,1.49,Low
+SHC000840,Gujarat,Rajkot,Gondal,Kharif,Sandy Loam,2022-03-02,7.73,0.33,0.2,553.5,Medium,5.7,Low,217.3,Medium,15.7,Medium,2.42,High,1.18,High,12.5,High,0.3,Medium,5.14,High
+SHC000841,Gujarat,Anand,Petlad,Zaid,Laterite,2022-07-06,7.14,2.44,0.3,420.6,Medium,13.5,Medium,237.2,Medium,11.2,Medium,1.38,High,1.71,High,23.62,High,1.57,High,20.54,High
+SHC000842,Tamil Nadu,Coimbatore,Pollachi,Kharif,Sandy Loam,2022-02-09,8.74,2.23,0.99,172.9,Low,56.4,High,472.7,High,8.8,Low,2.08,High,1.22,High,6.69,Medium,0.39,Medium,5.64,High
+SHC000843,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Red,2023-04-11,8.71,1.42,0.59,317.1,Medium,11.4,Medium,312.9,High,16.8,Medium,1.16,Medium,0.55,Medium,24.89,High,0.65,High,10.7,High
+SHC000844,Andhra Pradesh,Guntur,Tenali,Kharif,Laterite,2024-04-10,8.37,1.68,0.95,380.1,Medium,51.6,High,118.2,Medium,27.9,High,2.74,High,1.17,High,21.66,High,1.61,High,19.17,High
+SHC000845,Gujarat,Anand,Petlad,Kharif,Red,2022-11-25,5.54,1.93,0.49,395.6,Medium,27.2,High,238.4,Medium,22.2,High,1.52,High,0.71,Medium,15.55,High,1.23,High,12.94,High
+SHC000846,Karnataka,Belagavi,Athani,Zaid,Clay Loam,2022-02-26,7.11,0.2,1.15,255.1,Low,37.3,High,458.1,High,24.0,High,1.96,High,1.5,High,16.96,High,0.24,Medium,8.27,High
+SHC000847,Madhya Pradesh,Bhopal,Berasia,Rabi,Sandy Loam,2022-02-23,8.29,1.74,0.63,343.7,Medium,51.7,High,293.7,High,28.8,High,0.23,Low,0.51,Medium,14.8,High,0.64,High,6.32,High
+SHC000848,Karnataka,Mysuru,Nanjangud,Kharif,Clay Loam,2022-07-28,6.98,1.47,0.81,139.9,Low,26.0,High,458.1,High,9.1,Low,0.94,Medium,1.82,High,20.47,High,2.75,High,8.94,High
+SHC000849,Madhya Pradesh,Indore,Depalpur,Rabi,Black (Regur),2023-01-16,8.67,1.06,0.36,383.5,Medium,39.2,High,188.4,Medium,37.3,High,2.07,High,1.45,High,27.26,High,1.0,High,23.57,High
+SHC000850,Gujarat,Anand,Petlad,Zaid,Red,2023-02-24,7.76,1.1,0.61,242.4,Low,54.6,High,423.0,High,22.1,High,1.84,High,1.29,High,13.07,High,2.12,High,11.78,High
+SHC000851,West Bengal,Bardhaman,Kalna,Zaid,Black (Regur),2022-03-14,7.55,0.38,1.1,335.0,Medium,15.1,Medium,217.5,Medium,38.0,High,0.84,Medium,1.39,High,28.06,High,1.25,High,13.87,High
+SHC000852,Karnataka,Belagavi,Athani,Zaid,Red,2022-04-22,8.04,1.05,1.09,208.9,Low,9.8,Low,435.5,High,12.0,Medium,1.6,High,0.17,Low,15.41,High,0.42,Medium,1.91,Low
+SHC000853,Telangana,Nalgonda,Miryalaguda,Kharif,Alluvial,2024-02-20,7.77,0.26,0.64,283.2,Medium,45.6,High,265.7,Medium,31.9,High,2.02,High,1.06,High,29.29,High,2.33,High,18.4,High
+SHC000854,Punjab,Amritsar,Ajnala,Zaid,Alluvial,2022-06-06,6.37,2.38,1.12,274.1,Low,16.0,Medium,350.5,High,18.7,Medium,0.54,Low,0.65,Medium,3.78,Low,0.63,High,5.66,High
+SHC000855,West Bengal,Bardhaman,Kalna,Zaid,Laterite,2022-01-26,8.49,0.27,0.45,352.6,Medium,35.6,High,140.2,Medium,38.7,High,0.26,Low,1.4,High,13.48,High,1.65,High,15.85,High
+SHC000856,Madhya Pradesh,Indore,Depalpur,Zaid,Red,2023-01-15,5.15,2.26,0.88,122.6,Low,5.2,Low,104.5,Low,18.6,Medium,1.74,High,1.73,High,23.34,High,0.2,Medium,14.09,High
+SHC000857,Punjab,Ludhiana,Sahnewal,Zaid,Laterite,2023-08-09,7.58,0.78,0.82,317.9,Medium,46.1,High,366.8,High,26.4,High,1.1,Medium,1.98,High,14.74,High,2.77,High,4.68,Medium
+SHC000858,Bihar,Patna,Masaurhi,Rabi,Black (Regur),2022-05-28,6.15,1.85,1.16,290.9,Medium,19.1,Medium,147.3,Medium,30.9,High,1.35,High,0.67,Medium,3.19,Low,1.29,High,22.12,High
+SHC000859,Maharashtra,Nashik,Niphad,Rabi,Black (Regur),2024-05-10,7.51,0.6,0.61,508.8,Medium,30.3,High,270.0,Medium,38.3,High,1.44,High,0.74,Medium,20.63,High,0.49,Medium,13.72,High
+SHC000860,Maharashtra,Nashik,Niphad,Kharif,Clay Loam,2022-07-15,7.27,2.38,0.93,465.0,Medium,25.0,Medium,274.6,Medium,35.2,High,2.4,High,0.81,Medium,10.59,High,1.24,High,12.29,High
+SHC000861,Bihar,Patna,Masaurhi,Zaid,Laterite,2022-11-04,8.62,2.39,1.07,301.3,Medium,16.0,Medium,221.8,Medium,36.1,High,2.01,High,1.88,High,14.09,High,2.84,High,1.57,Low
+SHC000862,Madhya Pradesh,Bhopal,Berasia,Rabi,Sandy Loam,2023-11-15,5.69,2.46,0.88,458.5,Medium,40.3,High,321.5,High,33.0,High,0.54,Low,0.7,Medium,8.88,Medium,2.24,High,19.3,High
+SHC000863,Rajasthan,Sriganganagar,Padampur,Rabi,Sandy Loam,2024-02-21,7.45,1.86,1.08,417.5,Medium,48.3,High,116.0,Medium,5.3,Low,2.6,High,0.2,Low,25.87,High,1.01,High,22.64,High
+SHC000864,Madhya Pradesh,Bhopal,Berasia,Zaid,Black (Regur),2022-08-07,6.23,0.26,0.82,258.8,Low,54.7,High,267.6,Medium,16.9,Medium,0.61,Medium,0.68,Medium,24.47,High,0.56,High,22.13,High
+SHC000865,Madhya Pradesh,Indore,Depalpur,Rabi,Alluvial,2023-06-30,8.64,1.08,0.76,396.6,Medium,43.5,High,198.1,Medium,34.7,High,0.82,Medium,0.32,Low,28.47,High,2.74,High,3.33,Medium
+SHC000866,Punjab,Amritsar,Ajnala,Kharif,Laterite,2023-04-30,6.52,0.51,0.22,422.8,Medium,50.0,High,471.0,High,25.5,High,0.63,Medium,1.8,High,29.17,High,2.85,High,14.6,High
+SHC000867,Karnataka,Mysuru,Nanjangud,Kharif,Red,2022-03-12,5.71,1.6,0.88,523.4,Medium,11.1,Medium,472.7,High,38.6,High,0.67,Medium,1.31,High,10.19,High,2.4,High,19.88,High
+SHC000868,Andhra Pradesh,Guntur,Tenali,Zaid,Laterite,2022-01-17,7.49,1.52,1.19,280.7,Medium,18.9,Medium,295.6,High,39.4,High,2.72,High,0.14,Low,10.92,High,0.58,High,16.59,High
+SHC000869,Odisha,Cuttack,Athagarh,Rabi,Red,2023-04-05,8.98,0.91,0.47,557.8,Medium,41.1,High,357.0,High,16.7,Medium,0.19,Low,1.76,High,27.94,High,0.13,Low,14.77,High
+SHC000870,Karnataka,Belagavi,Athani,Rabi,Black (Regur),2023-04-27,6.52,0.19,0.87,426.6,Medium,23.5,Medium,417.3,High,34.9,High,2.37,High,0.87,Medium,11.58,High,2.83,High,18.26,High
+SHC000871,Bihar,Patna,Masaurhi,Kharif,Laterite,2022-10-16,6.07,2.29,1.12,157.3,Low,41.6,High,213.8,Medium,22.8,High,0.43,Low,1.64,High,24.57,High,0.41,Medium,2.79,Medium
+SHC000872,Andhra Pradesh,Guntur,Tenali,Kharif,Black (Regur),2023-08-09,8.21,1.97,1.06,124.2,Low,5.7,Low,418.9,High,35.5,High,1.89,High,0.4,Low,19.53,High,2.63,High,12.06,High
+SHC000873,Karnataka,Mysuru,Nanjangud,Zaid,Alluvial,2023-09-20,5.49,1.79,0.4,448.3,Medium,9.5,Low,118.5,Medium,38.3,High,0.11,Low,1.6,High,8.53,Medium,0.24,Medium,2.91,Medium
+SHC000874,Karnataka,Mysuru,Nanjangud,Zaid,Sandy Loam,2022-07-17,6.9,0.57,1.19,386.4,Medium,15.2,Medium,201.0,Medium,28.7,High,2.61,High,0.22,Low,7.18,Medium,0.12,Low,5.22,High
+SHC000875,Madhya Pradesh,Bhopal,Berasia,Rabi,Black (Regur),2024-06-18,7.17,2.43,0.9,429.3,Medium,9.2,Low,158.6,Medium,16.2,Medium,2.98,High,0.41,Low,19.79,High,1.82,High,15.44,High
+SHC000876,Rajasthan,Kota,Ramganjmandi,Zaid,Red,2022-08-12,6.71,2.08,0.94,353.4,Medium,41.0,High,486.6,High,13.8,Medium,2.29,High,0.22,Low,3.76,Low,1.1,High,18.59,High
+SHC000877,Gujarat,Rajkot,Gondal,Rabi,Alluvial,2023-11-22,8.06,1.82,0.21,447.5,Medium,9.9,Low,327.0,High,37.1,High,1.15,Medium,1.39,High,20.99,High,0.29,Medium,7.3,High
+SHC000878,Karnataka,Mysuru,Nanjangud,Rabi,Red,2024-01-31,8.24,0.99,0.5,335.2,Medium,35.0,High,392.9,High,13.0,Medium,0.59,Low,1.41,High,13.47,High,2.65,High,8.78,High
+SHC000879,Telangana,Nalgonda,Miryalaguda,Rabi,Laterite,2023-04-09,5.61,1.87,0.59,537.8,Medium,53.0,High,411.1,High,18.4,Medium,2.62,High,0.38,Low,12.24,High,1.36,High,20.62,High
+SHC000880,Madhya Pradesh,Indore,Depalpur,Kharif,Sandy Loam,2022-07-08,5.87,0.14,0.67,239.2,Low,15.9,Medium,288.9,High,10.5,Medium,2.51,High,1.72,High,9.77,Medium,0.65,High,15.56,High
+SHC000881,Rajasthan,Sriganganagar,Padampur,Rabi,Laterite,2024-05-22,5.64,2.43,0.26,543.0,Medium,8.7,Low,215.8,Medium,21.7,High,0.94,Medium,0.55,Medium,28.41,High,2.43,High,10.99,High
+SHC000882,Punjab,Ludhiana,Sahnewal,Rabi,Clay Loam,2022-06-12,6.35,0.85,0.82,389.1,Medium,38.0,High,302.4,High,16.9,Medium,1.18,Medium,1.41,High,5.59,Medium,1.74,High,12.36,High
+SHC000883,Punjab,Ludhiana,Sahnewal,Rabi,Red,2023-03-04,5.98,2.37,0.89,520.5,Medium,54.6,High,346.2,High,36.6,High,1.48,High,0.63,Medium,11.54,High,2.4,High,17.76,High
+SHC000884,Uttar Pradesh,Kanpur Dehat,Akbarpur,Rabi,Clay Loam,2023-08-10,8.88,0.65,0.79,224.3,Low,50.1,High,285.2,High,21.4,High,0.16,Low,1.07,High,4.68,Medium,2.28,High,15.97,High
+SHC000885,Haryana,Karnal,Nilokheri,Zaid,Laterite,2023-04-19,7.41,2.24,1.16,237.0,Low,29.7,High,406.5,High,32.7,High,0.9,Medium,0.37,Low,25.74,High,0.27,Medium,6.92,High
+SHC000886,Gujarat,Anand,Petlad,Kharif,Red,2022-12-31,8.3,1.26,0.35,240.0,Low,22.6,Medium,493.8,High,26.2,High,1.66,High,1.67,High,20.08,High,2.88,High,15.34,High
+SHC000887,Uttar Pradesh,Meerut,Sardhana,Rabi,Clay Loam,2022-03-04,7.94,0.57,1.0,244.3,Low,48.5,High,257.7,Medium,33.7,High,0.13,Low,0.6,Medium,6.03,Medium,0.17,Low,16.64,High
+SHC000888,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Red,2023-04-22,8.1,2.48,0.65,288.1,Medium,13.6,Medium,266.5,Medium,16.0,Medium,2.82,High,0.97,Medium,7.54,Medium,1.86,High,7.83,High
+SHC000889,Bihar,Muzaffarpur,Sakra,Kharif,Red,2022-01-18,5.5,2.18,0.75,282.3,Medium,22.3,Medium,382.6,High,24.3,High,1.92,High,1.33,High,13.08,High,1.05,High,21.07,High
+SHC000890,Punjab,Amritsar,Ajnala,Zaid,Red,2022-11-28,7.26,1.46,1.08,144.6,Low,44.4,High,135.4,Medium,7.2,Low,0.3,Low,0.39,Low,16.64,High,2.83,High,6.64,High
+SHC000891,Andhra Pradesh,Guntur,Tenali,Rabi,Red,2022-03-25,6.65,1.9,0.69,359.8,Medium,33.9,High,349.6,High,18.9,Medium,0.55,Low,1.66,High,24.8,High,1.4,High,3.77,Medium
+SHC000892,Maharashtra,Pune,Baramati,Kharif,Black (Regur),2022-02-27,7.58,1.44,0.25,490.9,Medium,17.4,Medium,97.8,Low,12.7,Medium,0.77,Medium,0.39,Low,26.37,High,1.55,High,8.75,High
+SHC000893,Gujarat,Anand,Petlad,Zaid,Laterite,2022-01-20,7.04,0.8,0.22,434.5,Medium,27.8,High,108.5,Low,12.0,Medium,0.2,Low,0.54,Medium,15.76,High,1.11,High,2.94,Medium
+SHC000894,Andhra Pradesh,Guntur,Tenali,Zaid,Black (Regur),2023-02-11,5.85,1.39,1.12,447.5,Medium,20.5,Medium,313.6,High,22.9,High,0.56,Low,0.48,Low,19.01,High,1.07,High,8.85,High
+SHC000895,Maharashtra,Pune,Baramati,Rabi,Alluvial,2023-10-29,6.14,0.17,0.8,406.6,Medium,33.1,High,250.4,Medium,11.5,Medium,0.22,Low,1.63,High,22.8,High,2.64,High,5.8,High
+SHC000896,Bihar,Muzaffarpur,Sakra,Zaid,Clay Loam,2022-11-02,8.33,1.72,1.09,479.9,Medium,24.9,Medium,102.8,Low,26.9,High,1.74,High,1.78,High,9.07,Medium,1.58,High,8.44,High
+SHC000897,Madhya Pradesh,Bhopal,Berasia,Kharif,Red,2022-07-31,7.0,1.83,0.92,321.5,Medium,26.5,High,396.6,High,37.2,High,1.49,High,1.23,High,24.26,High,2.03,High,23.51,High
+SHC000898,Haryana,Karnal,Nilokheri,Zaid,Alluvial,2022-01-01,8.41,1.59,1.06,536.6,Medium,56.2,High,207.4,Medium,18.3,Medium,1.75,High,0.4,Low,3.5,Low,0.72,High,5.58,High
+SHC000899,Tamil Nadu,Thanjavur,Kumbakonam,Zaid,Red,2022-03-19,6.12,1.67,0.5,135.4,Low,11.6,Medium,139.6,Medium,21.0,High,2.8,High,1.97,High,27.61,High,0.45,Medium,16.28,High
+SHC000900,West Bengal,Bardhaman,Kalna,Kharif,Laterite,2022-06-28,5.06,0.31,0.43,502.7,Medium,36.9,High,314.1,High,14.5,Medium,2.14,High,1.01,High,22.48,High,0.54,High,2.56,Medium
+SHC000901,West Bengal,Bardhaman,Kalna,Rabi,Alluvial,2022-02-08,6.99,2.09,0.61,548.1,Medium,36.7,High,98.5,Low,7.2,Low,2.33,High,0.63,Medium,9.88,Medium,1.49,High,20.25,High
+SHC000902,Punjab,Ludhiana,Sahnewal,Zaid,Red,2024-06-11,5.75,1.76,1.01,558.2,Medium,7.4,Low,316.5,High,35.0,High,1.72,High,1.44,High,24.17,High,2.18,High,18.82,High
+SHC000903,Karnataka,Belagavi,Athani,Rabi,Alluvial,2023-09-05,6.47,2.07,0.74,284.2,Medium,54.6,High,385.0,High,23.9,High,1.03,Medium,1.31,High,13.4,High,1.78,High,9.93,High
+SHC000904,Andhra Pradesh,Guntur,Tenali,Rabi,Black (Regur),2024-04-13,7.69,2.23,0.88,299.4,Medium,57.9,High,116.3,Medium,13.9,Medium,0.5,Low,1.86,High,20.07,High,1.41,High,13.94,High
+SHC000905,West Bengal,Bardhaman,Kalna,Kharif,Alluvial,2022-12-18,7.03,2.16,0.83,383.5,Medium,34.7,High,429.4,High,10.6,Medium,2.42,High,0.37,Low,24.86,High,0.7,High,17.64,High
+SHC000906,Haryana,Karnal,Nilokheri,Rabi,Alluvial,2023-05-29,7.18,1.35,0.78,232.1,Low,35.3,High,475.8,High,30.9,High,2.08,High,1.6,High,15.7,High,1.04,High,21.08,High
+SHC000907,Andhra Pradesh,Guntur,Tenali,Zaid,Laterite,2023-06-20,7.63,1.04,0.78,449.9,Medium,42.8,High,494.9,High,12.9,Medium,1.97,High,0.4,Low,21.43,High,2.28,High,18.19,High
+SHC000908,Rajasthan,Kota,Ramganjmandi,Kharif,Laterite,2022-05-28,8.66,1.77,0.51,452.6,Medium,21.7,Medium,167.9,Medium,27.3,High,2.86,High,0.46,Low,2.45,Low,0.96,High,5.97,High
+SHC000909,West Bengal,Bardhaman,Kalna,Kharif,Alluvial,2022-09-17,6.81,0.39,1.14,411.1,Medium,5.6,Low,331.0,High,17.0,Medium,1.19,Medium,0.68,Medium,19.34,High,2.77,High,16.25,High
+SHC000910,Bihar,Muzaffarpur,Sakra,Kharif,Clay Loam,2023-05-19,8.91,1.3,0.55,232.5,Low,31.0,High,415.1,High,31.4,High,2.33,High,0.9,Medium,18.44,High,2.65,High,23.78,High
+SHC000911,West Bengal,Bardhaman,Kalna,Rabi,Alluvial,2023-01-25,5.15,1.27,1.11,328.9,Medium,34.9,High,114.8,Medium,30.3,High,2.18,High,1.85,High,14.73,High,2.27,High,6.79,High
+SHC000912,Rajasthan,Sriganganagar,Padampur,Kharif,Red,2022-11-14,7.21,1.79,0.65,390.0,Medium,10.2,Low,367.2,High,25.8,High,2.06,High,0.15,Low,16.18,High,0.3,Medium,5.35,High
+SHC000913,Maharashtra,Pune,Baramati,Zaid,Sandy Loam,2023-02-02,8.21,1.39,0.92,231.4,Low,11.5,Medium,297.0,High,11.1,Medium,1.41,High,1.72,High,3.11,Low,1.84,High,11.24,High
+SHC000914,West Bengal,Bardhaman,Kalna,Kharif,Alluvial,2022-07-23,6.93,0.7,0.59,447.6,Medium,41.0,High,154.2,Medium,18.2,Medium,0.98,Medium,0.52,Medium,26.24,High,1.79,High,12.84,High
+SHC000915,Odisha,Cuttack,Athagarh,Rabi,Clay Loam,2022-04-29,5.41,0.43,0.94,536.5,Medium,36.0,High,264.0,Medium,17.8,Medium,2.13,High,0.14,Low,16.7,High,2.11,High,16.24,High
+SHC000916,Uttar Pradesh,Meerut,Sardhana,Rabi,Laterite,2022-02-04,6.12,1.44,0.62,148.7,Low,19.5,Medium,478.4,High,17.5,Medium,1.26,High,1.85,High,27.39,High,2.64,High,3.9,Medium
+SHC000917,Madhya Pradesh,Indore,Depalpur,Kharif,Sandy Loam,2022-07-11,7.66,1.17,1.2,284.3,Medium,19.5,Medium,108.1,Low,32.6,High,0.64,Medium,0.89,Medium,17.67,High,0.77,High,4.54,Medium
+SHC000918,Uttar Pradesh,Kanpur Dehat,Akbarpur,Zaid,Clay Loam,2023-02-05,5.04,0.24,0.99,169.6,Low,41.6,High,325.9,High,5.3,Low,2.65,High,0.36,Low,27.78,High,2.6,High,20.23,High
+SHC000919,Madhya Pradesh,Bhopal,Berasia,Zaid,Laterite,2023-05-05,6.91,0.34,0.59,398.7,Medium,34.8,High,417.6,High,10.1,Medium,0.47,Low,1.07,High,26.11,High,0.3,Medium,13.32,High
+SHC000920,Haryana,Karnal,Nilokheri,Zaid,Black (Regur),2022-09-10,7.51,1.09,0.83,532.5,Medium,50.5,High,250.7,Medium,31.3,High,0.22,Low,0.71,Medium,13.05,High,0.66,High,18.44,High
+SHC000921,Andhra Pradesh,Guntur,Tenali,Rabi,Laterite,2023-09-13,8.35,0.64,1.11,330.9,Medium,57.2,High,294.0,High,19.2,Medium,2.63,High,1.31,High,8.76,Medium,1.61,High,12.93,High
+SHC000922,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2022-02-01,6.67,1.45,0.9,461.9,Medium,47.5,High,96.8,Low,14.7,Medium,0.91,Medium,1.34,High,29.63,High,1.09,High,21.07,High
+SHC000923,Gujarat,Rajkot,Gondal,Rabi,Red,2024-05-25,8.79,1.33,0.59,503.3,Medium,42.9,High,372.0,High,37.3,High,1.86,High,1.36,High,18.07,High,1.46,High,3.18,Medium
+SHC000924,Rajasthan,Sriganganagar,Padampur,Rabi,Sandy Loam,2023-06-14,7.47,0.25,0.83,531.0,Medium,53.1,High,329.7,High,13.0,Medium,2.79,High,0.72,Medium,8.7,Medium,0.65,High,24.34,High
+SHC000925,Madhya Pradesh,Bhopal,Berasia,Rabi,Sandy Loam,2023-11-24,6.65,0.73,0.62,410.0,Medium,47.3,High,454.0,High,9.9,Low,2.33,High,0.66,Medium,21.24,High,1.15,High,14.03,High
+SHC000926,Karnataka,Mysuru,Nanjangud,Kharif,Laterite,2023-08-19,7.08,0.38,0.92,248.2,Low,18.6,Medium,331.2,High,27.2,High,1.08,Medium,1.79,High,24.67,High,1.19,High,10.4,High
+SHC000927,Odisha,Cuttack,Athagarh,Rabi,Sandy Loam,2023-04-16,7.15,0.45,0.81,231.1,Low,58.2,High,421.5,High,39.4,High,0.11,Low,0.46,Low,28.16,High,2.79,High,11.91,High
+SHC000928,Bihar,Patna,Masaurhi,Zaid,Red,2023-06-08,7.27,0.58,0.25,308.2,Medium,59.0,High,330.0,High,21.7,High,1.22,High,0.33,Low,7.07,Medium,1.15,High,20.23,High
+SHC000929,Punjab,Amritsar,Ajnala,Kharif,Alluvial,2022-10-12,5.43,1.38,0.33,162.2,Low,45.9,High,257.8,Medium,6.4,Low,2.01,High,0.21,Low,5.12,Medium,2.93,High,18.27,High
+SHC000930,Karnataka,Belagavi,Athani,Rabi,Black (Regur),2022-08-25,5.88,1.55,0.95,528.3,Medium,24.4,Medium,179.3,Medium,5.8,Low,1.79,High,1.55,High,6.81,Medium,2.9,High,10.2,High
+SHC000931,Bihar,Patna,Masaurhi,Zaid,Alluvial,2022-06-14,5.36,1.88,1.18,238.7,Low,31.7,High,120.2,Medium,34.6,High,0.74,Medium,0.97,Medium,6.64,Medium,0.6,High,6.29,High
+SHC000932,Uttar Pradesh,Meerut,Sardhana,Kharif,Black (Regur),2023-11-19,6.23,1.49,0.8,290.1,Medium,16.7,Medium,122.2,Medium,7.9,Low,2.17,High,0.94,Medium,22.7,High,1.21,High,15.76,High
+SHC000933,Telangana,Nalgonda,Miryalaguda,Kharif,Sandy Loam,2024-02-23,6.09,2.22,0.69,467.4,Medium,33.8,High,215.3,Medium,22.5,High,1.89,High,1.69,High,18.98,High,1.18,High,17.88,High
+SHC000934,Gujarat,Rajkot,Gondal,Zaid,Clay Loam,2023-01-22,5.67,1.07,0.42,275.4,Low,20.1,Medium,380.3,High,36.4,High,1.2,Medium,1.77,High,28.9,High,2.09,High,14.52,High
+SHC000935,Gujarat,Anand,Petlad,Zaid,Alluvial,2023-04-09,7.85,0.15,0.77,278.2,Low,6.1,Low,263.2,Medium,20.6,High,1.33,High,0.93,Medium,11.75,High,0.88,High,22.88,High
+SHC000936,Maharashtra,Pune,Baramati,Rabi,Black (Regur),2022-06-22,5.88,1.51,0.72,353.6,Medium,15.8,Medium,95.2,Low,18.4,Medium,0.24,Low,0.53,Medium,21.8,High,0.56,High,15.77,High
+SHC000937,Bihar,Patna,Masaurhi,Kharif,Red,2022-03-23,7.1,0.71,0.35,182.3,Low,29.0,High,445.8,High,11.5,Medium,1.29,High,0.42,Low,3.87,Low,2.63,High,15.9,High
+SHC000938,Bihar,Muzaffarpur,Sakra,Zaid,Clay Loam,2022-06-30,6.15,1.23,0.62,193.9,Low,5.9,Low,483.8,High,26.1,High,0.32,Low,1.57,High,9.53,Medium,2.37,High,13.81,High
+SHC000939,Tamil Nadu,Coimbatore,Pollachi,Zaid,Red,2024-01-11,5.72,1.38,0.39,466.2,Medium,22.9,Medium,152.2,Medium,14.5,Medium,2.46,High,1.05,High,27.06,High,1.24,High,5.01,High
+SHC000940,Rajasthan,Sriganganagar,Padampur,Kharif,Black (Regur),2022-09-05,8.45,2.1,0.77,242.9,Low,18.5,Medium,153.6,Medium,8.8,Low,0.82,Medium,1.32,High,23.13,High,0.29,Medium,10.06,High
+SHC000941,Punjab,Ludhiana,Sahnewal,Rabi,Laterite,2023-06-26,8.2,1.73,0.6,358.2,Medium,27.2,High,300.5,High,38.7,High,2.84,High,0.77,Medium,18.95,High,2.18,High,18.98,High
+SHC000942,Maharashtra,Pune,Baramati,Zaid,Laterite,2022-06-20,7.01,1.3,1.0,211.0,Low,38.0,High,234.4,Medium,15.4,Medium,1.85,High,0.88,Medium,12.53,High,1.18,High,8.55,High
+SHC000943,Madhya Pradesh,Bhopal,Berasia,Kharif,Black (Regur),2023-03-22,8.1,1.9,0.65,379.8,Medium,46.7,High,138.7,Medium,32.8,High,1.25,High,0.37,Low,27.21,High,2.72,High,7.07,High
+SHC000944,Telangana,Nalgonda,Miryalaguda,Rabi,Clay Loam,2023-04-22,6.49,0.59,0.33,542.2,Medium,18.5,Medium,141.1,Medium,27.4,High,0.39,Low,0.81,Medium,11.82,High,2.74,High,22.29,High
+SHC000945,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Sandy Loam,2022-10-29,6.42,1.33,0.68,530.9,Medium,52.8,High,281.4,High,17.3,Medium,0.66,Medium,1.85,High,6.65,Medium,2.98,High,4.5,Medium
+SHC000946,Odisha,Cuttack,Athagarh,Zaid,Red,2022-03-03,5.1,0.62,0.72,130.6,Low,27.2,High,415.4,High,21.1,High,1.9,High,0.64,Medium,3.43,Low,1.6,High,3.96,Medium
+SHC000947,Tamil Nadu,Coimbatore,Pollachi,Rabi,Laterite,2024-02-21,7.06,1.7,0.75,449.5,Medium,32.8,High,499.4,High,10.4,Medium,2.49,High,0.73,Medium,22.0,High,2.22,High,16.24,High
+SHC000948,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Black (Regur),2022-04-06,7.47,0.76,0.42,139.4,Low,5.7,Low,135.8,Medium,19.6,Medium,0.66,Medium,1.62,High,26.73,High,1.34,High,14.64,High
+SHC000949,Madhya Pradesh,Bhopal,Berasia,Kharif,Alluvial,2022-06-17,8.44,0.74,0.68,149.1,Low,30.8,High,492.1,High,37.4,High,1.53,High,0.25,Low,14.87,High,2.71,High,15.8,High
+SHC000950,Andhra Pradesh,Guntur,Tenali,Rabi,Red,2023-08-14,7.23,2.23,1.01,265.5,Low,41.6,High,301.2,High,28.4,High,2.52,High,1.22,High,21.11,High,2.44,High,19.68,High
+SHC000951,Maharashtra,Nashik,Niphad,Kharif,Alluvial,2023-03-21,6.93,0.89,0.71,339.5,Medium,44.8,High,250.0,Medium,38.3,High,0.97,Medium,1.74,High,4.98,Medium,0.53,High,6.37,High
+SHC000952,Maharashtra,Nashik,Niphad,Kharif,Laterite,2022-06-06,8.7,1.77,0.71,301.6,Medium,27.0,High,318.0,High,15.5,Medium,0.8,Medium,1.28,High,28.56,High,2.02,High,19.6,High
+SHC000953,Punjab,Amritsar,Ajnala,Rabi,Laterite,2024-04-14,6.73,1.09,1.18,266.9,Low,25.4,High,209.4,Medium,22.0,High,2.99,High,1.86,High,13.1,High,0.72,High,11.32,High
+SHC000954,Maharashtra,Nashik,Niphad,Rabi,Black (Regur),2023-09-18,8.22,0.91,0.8,381.1,Medium,51.9,High,122.3,Medium,7.9,Low,2.24,High,0.39,Low,14.0,High,2.7,High,23.42,High
+SHC000955,Odisha,Cuttack,Athagarh,Zaid,Black (Regur),2022-02-22,5.01,0.53,0.33,552.8,Medium,25.2,High,368.0,High,33.9,High,1.14,Medium,1.19,High,3.13,Low,2.69,High,8.92,High
+SHC000956,Punjab,Amritsar,Ajnala,Zaid,Alluvial,2022-02-10,7.46,2.07,0.39,194.8,Low,26.5,High,497.3,High,8.8,Low,1.82,High,1.27,High,16.73,High,2.51,High,7.83,High
+SHC000957,Haryana,Karnal,Nilokheri,Rabi,Sandy Loam,2024-05-22,6.04,1.64,0.9,162.3,Low,38.4,High,369.4,High,6.1,Low,2.57,High,1.36,High,21.46,High,2.45,High,9.61,High
+SHC000958,Rajasthan,Kota,Ramganjmandi,Rabi,Red,2023-11-01,7.82,1.06,1.01,223.5,Low,59.2,High,209.9,Medium,16.4,Medium,0.8,Medium,0.38,Low,6.35,Medium,0.33,Medium,15.1,High
+SHC000959,Uttar Pradesh,Meerut,Sardhana,Kharif,Alluvial,2023-04-05,5.5,1.83,0.48,266.4,Low,22.6,Medium,180.5,Medium,21.9,High,1.29,High,1.87,High,20.71,High,2.05,High,18.51,High
+SHC000960,Karnataka,Belagavi,Athani,Zaid,Black (Regur),2023-04-30,7.62,0.97,0.59,271.8,Low,7.7,Low,433.3,High,33.1,High,1.23,High,1.64,High,14.98,High,2.9,High,19.81,High
+SHC000961,Karnataka,Mysuru,Nanjangud,Rabi,Black (Regur),2024-04-15,6.31,2.42,0.62,258.5,Low,55.4,High,318.0,High,29.5,High,0.12,Low,1.59,High,28.72,High,1.31,High,12.69,High
+SHC000962,Karnataka,Mysuru,Nanjangud,Kharif,Alluvial,2022-05-24,5.96,1.55,1.16,519.2,Medium,44.6,High,255.5,Medium,32.0,High,1.93,High,1.45,High,24.41,High,1.18,High,1.07,Low
+SHC000963,Rajasthan,Sriganganagar,Padampur,Zaid,Black (Regur),2022-08-05,5.59,1.73,1.06,447.4,Medium,20.0,Medium,244.1,Medium,23.5,High,1.81,High,1.86,High,7.51,Medium,2.33,High,18.55,High
+SHC000964,Punjab,Amritsar,Ajnala,Rabi,Clay Loam,2023-08-29,7.19,1.39,0.96,139.6,Low,23.3,Medium,251.1,Medium,26.9,High,2.4,High,1.0,Medium,26.59,High,2.79,High,22.94,High
+SHC000965,Gujarat,Rajkot,Gondal,Zaid,Black (Regur),2022-11-19,8.34,0.63,0.46,512.3,Medium,51.9,High,423.0,High,28.4,High,1.78,High,0.85,Medium,2.12,Low,0.76,High,6.32,High
+SHC000966,Tamil Nadu,Coimbatore,Pollachi,Kharif,Laterite,2022-01-03,6.72,2.4,1.0,240.4,Low,49.8,High,309.5,High,19.6,Medium,1.56,High,1.91,High,24.25,High,1.96,High,8.35,High
+SHC000967,Gujarat,Rajkot,Gondal,Zaid,Alluvial,2023-05-24,8.96,0.61,0.86,246.5,Low,11.4,Medium,178.6,Medium,39.6,High,1.73,High,0.72,Medium,17.26,High,0.68,High,17.44,High
+SHC000968,Haryana,Karnal,Nilokheri,Rabi,Clay Loam,2022-09-09,8.79,0.15,0.33,449.7,Medium,19.2,Medium,356.1,High,28.5,High,1.31,High,1.82,High,7.71,Medium,0.58,High,3.34,Medium
+SHC000969,Karnataka,Belagavi,Athani,Rabi,Sandy Loam,2023-12-10,7.19,0.26,1.18,504.2,Medium,51.9,High,81.4,Low,13.4,Medium,2.36,High,1.61,High,28.44,High,2.9,High,3.72,Medium
+SHC000970,Tamil Nadu,Coimbatore,Pollachi,Rabi,Alluvial,2023-05-28,8.06,1.97,0.67,173.7,Low,41.7,High,196.9,Medium,7.9,Low,2.39,High,0.77,Medium,12.86,High,0.65,High,23.68,High
+SHC000971,Chhattisgarh,Raipur,Arang,Kharif,Sandy Loam,2024-04-03,8.88,1.94,1.19,191.4,Low,23.8,Medium,299.3,High,29.1,High,0.66,Medium,1.98,High,23.2,High,1.12,High,9.16,High
+SHC000972,Telangana,Nalgonda,Miryalaguda,Rabi,Alluvial,2024-04-06,7.05,2.05,0.41,203.7,Low,40.1,High,404.9,High,31.2,High,0.29,Low,1.99,High,8.35,Medium,2.01,High,22.91,High
+SHC000973,Rajasthan,Sriganganagar,Padampur,Zaid,Laterite,2023-02-01,6.29,0.99,1.1,136.0,Low,15.3,Medium,319.8,High,5.6,Low,2.03,High,0.81,Medium,11.48,High,2.27,High,1.18,Low
+SHC000974,Karnataka,Mysuru,Nanjangud,Rabi,Alluvial,2022-05-18,8.37,1.53,0.76,171.3,Low,12.5,Medium,287.6,High,39.9,High,2.21,High,0.75,Medium,19.5,High,0.19,Low,21.05,High
+SHC000975,Karnataka,Mysuru,Nanjangud,Kharif,Red,2023-07-04,8.29,0.8,1.06,144.2,Low,21.5,Medium,484.9,High,9.8,Low,0.85,Medium,0.82,Medium,6.29,Medium,1.09,High,10.89,High
+SHC000976,Haryana,Karnal,Nilokheri,Zaid,Red,2022-03-18,6.99,1.87,0.61,131.5,Low,20.7,Medium,157.6,Medium,8.3,Low,0.5,Low,1.1,High,18.79,High,0.39,Medium,3.72,Medium
+SHC000977,Maharashtra,Pune,Baramati,Rabi,Red,2022-05-07,5.73,0.61,1.0,221.9,Low,20.2,Medium,433.4,High,24.3,High,1.67,High,1.73,High,24.72,High,1.69,High,14.86,High
+SHC000978,Odisha,Cuttack,Athagarh,Zaid,Red,2023-07-20,7.63,0.34,0.6,529.5,Medium,22.2,Medium,448.7,High,8.3,Low,1.07,Medium,1.51,High,5.83,Medium,0.37,Medium,23.67,High
+SHC000979,Punjab,Ludhiana,Sahnewal,Kharif,Laterite,2022-02-13,6.88,0.97,0.74,236.3,Low,37.5,High,315.7,High,32.8,High,0.34,Low,0.42,Low,20.16,High,1.75,High,21.8,High
+SHC000980,Gujarat,Anand,Petlad,Kharif,Laterite,2022-08-12,7.91,0.4,0.94,481.8,Medium,42.5,High,180.2,Medium,19.3,Medium,2.08,High,1.76,High,18.15,High,2.22,High,21.2,High
+SHC000981,Rajasthan,Sriganganagar,Padampur,Zaid,Black (Regur),2022-03-02,6.72,1.57,0.59,483.0,Medium,21.1,Medium,137.2,Medium,39.1,High,1.29,High,1.2,High,9.54,Medium,1.89,High,22.35,High
+SHC000982,Odisha,Cuttack,Athagarh,Rabi,Red,2023-10-26,7.42,0.1,0.31,379.9,Medium,46.1,High,370.3,High,25.2,High,2.46,High,1.2,High,29.08,High,0.82,High,18.07,High
+SHC000983,Maharashtra,Nashik,Niphad,Kharif,Clay Loam,2022-02-17,7.93,1.74,0.33,216.0,Low,57.8,High,321.3,High,27.8,High,2.18,High,1.68,High,2.39,Low,0.41,Medium,5.95,High
+SHC000984,Uttar Pradesh,Kanpur Dehat,Akbarpur,Kharif,Clay Loam,2023-10-26,8.14,2.19,0.53,300.9,Medium,41.3,High,365.7,High,20.5,High,0.68,Medium,1.31,High,7.79,Medium,1.12,High,21.88,High
+SHC000985,West Bengal,Bardhaman,Kalna,Kharif,Laterite,2023-05-16,8.8,1.15,0.45,310.6,Medium,13.7,Medium,408.2,High,34.2,High,2.27,High,1.1,High,7.71,Medium,0.42,Medium,7.89,High
+SHC000986,Karnataka,Belagavi,Athani,Rabi,Black (Regur),2023-03-13,8.08,1.24,0.96,148.7,Low,30.0,High,207.3,Medium,12.9,Medium,0.68,Medium,1.74,High,25.51,High,2.89,High,7.47,High
+SHC000987,Rajasthan,Sriganganagar,Padampur,Kharif,Laterite,2022-05-17,5.07,0.66,0.69,216.3,Low,57.2,High,294.1,High,37.7,High,0.42,Low,1.47,High,16.62,High,2.1,High,7.52,High
+SHC000988,West Bengal,Bardhaman,Kalna,Zaid,Red,2024-02-04,6.61,0.25,1.16,167.1,Low,54.4,High,185.9,Medium,13.6,Medium,2.88,High,1.87,High,25.96,High,1.77,High,23.19,High
+SHC000989,Madhya Pradesh,Indore,Depalpur,Zaid,Laterite,2023-06-26,5.01,2.4,0.53,423.4,Medium,35.5,High,318.5,High,5.1,Low,0.66,Medium,0.31,Low,10.58,High,2.32,High,7.03,High
+SHC000990,Maharashtra,Pune,Baramati,Zaid,Black (Regur),2023-10-06,6.61,2.12,0.8,368.2,Medium,10.3,Low,278.2,Medium,11.9,Medium,0.81,Medium,0.19,Low,11.41,High,1.47,High,6.79,High
+SHC000991,Karnataka,Mysuru,Nanjangud,Rabi,Black (Regur),2023-03-18,8.83,0.14,0.28,368.7,Medium,12.5,Medium,252.5,Medium,6.5,Low,1.45,High,1.12,High,22.68,High,0.4,Medium,24.75,High
+SHC000992,Bihar,Patna,Masaurhi,Rabi,Clay Loam,2022-05-19,5.88,0.61,0.57,136.1,Low,5.6,Low,326.7,High,9.2,Low,0.91,Medium,1.22,High,14.6,High,0.71,High,9.18,High
+SHC000993,Maharashtra,Nashik,Niphad,Zaid,Alluvial,2022-04-06,8.22,2.0,0.74,396.8,Medium,46.9,High,98.6,Low,29.1,High,1.67,High,1.35,High,21.48,High,0.12,Low,21.21,High
+SHC000994,Madhya Pradesh,Bhopal,Berasia,Rabi,Red,2022-04-13,5.35,1.5,1.12,242.2,Low,28.5,High,226.6,Medium,17.5,Medium,1.41,High,1.42,High,2.75,Low,0.38,Medium,16.05,High
+SHC000995,Punjab,Ludhiana,Sahnewal,Zaid,Red,2022-07-17,5.69,0.48,0.94,442.3,Medium,15.8,Medium,167.8,Medium,9.6,Low,1.44,High,1.36,High,8.32,Medium,0.49,Medium,3.83,Medium
+SHC000996,Chhattisgarh,Raipur,Arang,Kharif,Red,2023-10-05,8.03,1.93,1.03,310.0,Medium,42.8,High,430.1,High,10.6,Medium,1.2,Medium,0.43,Low,2.98,Low,0.61,High,21.23,High
+SHC000997,Tamil Nadu,Thanjavur,Kumbakonam,Kharif,Alluvial,2024-02-22,5.63,0.28,0.62,311.2,Medium,43.5,High,149.8,Medium,30.0,High,2.17,High,1.78,High,16.86,High,2.71,High,15.2,High
+SHC000998,Bihar,Muzaffarpur,Sakra,Rabi,Laterite,2022-06-11,8.32,1.53,0.86,214.9,Low,29.7,High,152.3,Medium,34.3,High,1.39,High,0.7,Medium,18.98,High,2.79,High,20.16,High
+SHC000999,Punjab,Ludhiana,Sahnewal,Kharif,Laterite,2022-10-30,6.5,1.39,1.13,504.9,Medium,11.3,Medium,371.7,High,36.5,High,0.77,Medium,1.43,High,28.59,High,0.43,Medium,12.5,High
+SHC001000,Gujarat,Anand,Petlad,Zaid,Clay Loam,2024-01-26,8.27,0.23,0.38,505.4,Medium,48.9,High,181.0,Medium,6.8,Low,2.59,High,1.13,High,4.08,Low,1.66,High,3.01,Medium
